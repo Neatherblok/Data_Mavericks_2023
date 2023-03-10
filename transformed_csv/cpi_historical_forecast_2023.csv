@@ -1,0 +1,155 @@
+cpi_item,curr_month,curr_year,lower,mid,upper,pred_year
+All food,7,2022.0,7.2,12.5,18.1,2023
+All food,8,2022.0,8.2,13.2,18.5,2023
+All food,9,2022.0,7.6,12.1,16.7,2023
+All food,10,2022.0,7.1,11.3,15.4,2023
+All food,11,2022.0,7.0,10.5,14.3,2023
+All food,12,2022.0,4.9,8.2,11.6,2023
+All food,1,2023.0,4.2,7.1,10.1,2023
+Food away from home,7,2022.0,5.5,8.0,10.4,2023
+Food away from home,8,2022.0,5.5,7.8,10.1,2023
+Food away from home,9,2022.0,6.6,8.8,11.0,2023
+Food away from home,10,2022.0,7.4,9.5,11.7,2023
+Food away from home,11,2022.0,8.0,10.0,12.1,2023
+Food away from home,12,2022.0,7.2,8.9,10.6,2023
+Food away from home,1,2023.0,6.7,8.2,9.7,2023
+Food at home,7,2022.0,6.6,14.8,23.6,2023
+Food at home,8,2022.0,8.2,15.8,24.1,2023
+Food at home,9,2022.0,7.2,13.8,21.3,2023
+Food at home,10,2022.0,6.3,11.5,17.0,2023
+Food at home,11,2022.0,6.1,10.8,15.7,2023
+Food at home,12,2022.0,4.4,8.5,12.8,2023
+Food at home,1,2023.0,4.5,8.0,11.7,2023
+"Meats, poultry, and fish",7,2022.0,-3.2,4.4,12.6,2023
+"Meats, poultry, and fish",8,2022.0,-2.8,4.6,12.6,2023
+"Meats, poultry, and fish",9,2022.0,-3.1,4.2,11.8,2023
+"Meats, poultry, and fish",10,2022.0,-2.1,4.6,12.3,2023
+"Meats, poultry, and fish",11,2022.0,-2.8,3.7,10.6,2023
+"Meats, poultry, and fish",12,2022.0,-3.9,2.2,8.6,2023
+"Meats, poultry, and fish",1,2023.0,-3.6,1.8,7.7,2023
+Meats,7,2022.0,-3.9,4.0,12.8,2023
+Meats,8,2022.0,-3.8,4.2,12.8,2023
+Meats,9,2022.0,-3.7,3.7,12.0,2023
+Meats,10,2022.0,-3.3,4.0,11.8,2023
+Meats,11,2022.0,-3.2,3.8,11.3,2023
+Meats,12,2022.0,-4.7,1.7,8.4,2023
+Meats,1,2023.0,-4.1,1.8,8.1,2023
+Beef and veal,7,2022.0,-12.2,-0.1,13.2,2023
+Beef and veal,8,2022.0,-11.8,0.0,12.9,2023
+Beef and veal,9,2022.0,-11.6,-0.5,12.6,2023
+Beef and veal,10,2022.0,-11.3,-0.4,11.7,2023
+Beef and veal,11,2022.0,-11.3,-1.3,10.2,2023
+Beef and veal,12,2022.0,-11.8,-2.3,8.3,2023
+Beef and veal,1,2023.0,-10.4,-1.8,8.0,2023
+Pork,7,2022.0,-9.7,0.8,12.5,2023
+Pork,8,2022.0,-9.0,1.5,13.2,2023
+Pork,9,2022.0,-8.5,1.2,12.0,2023
+Pork,10,2022.0,-7.0,2.6,13.4,2023
+Pork,11,2022.0,-7.3,1.6,11.6,2023
+Pork,12,2022.0,-9.3,-1.2,8.0,2023
+Pork,1,2023.0,-10.3,-3.0,5.1,2023
+Other meats,7,2022.0,-5.3,2.8,11.5,2023
+Other meats,8,2022.0,-1.5,4.4,10.8,2023
+Other meats,9,2022.0,-1.7,4.0,10.1,2023
+Other meats,10,2022.0,-1.0,4.6,10.6,2023
+Other meats,11,2022.0,7.1,14.3,22.3,2023
+Other meats,12,2022.0,7.4,13.9,21.0,2023
+Other meats,1,2023.0,7.1,12.8,18.7,2023
+Poultry,7,2022.0,7.2,16.9,27.5,2023
+Poultry,8,2022.0,7.7,17.1,27.1,2023
+Poultry,9,2022.0,7.5,16.1,25.3,2023
+Poultry,10,2022.0,7.3,15.1,23.4,2023
+Poultry,11,2022.0,4.3,11.2,18.3,2023
+Poultry,12,2022.0,0.3,4.7,9.4,2023
+Poultry,1,2023.0,-0.3,3.8,8.0,2023
+Fish and seafood,7,2022.0,-0.9,4.3,9.8,2023
+Fish and seafood,8,2022.0,-1.3,3.7,9.2,2023
+Fish and seafood,9,2022.0,-1.5,3.6,8.7,2023
+Fish and seafood,10,2022.0,-1.1,3.7,8.6,2023
+Fish and seafood,11,2022.0,-1.3,3.4,8.1,2023
+Fish and seafood,12,2022.0,-1.0,3.2,7.7,2023
+Fish and seafood,1,2023.0,-1.7,2.2,6.3,2023
+Eggs,7,2022.0,-19.0,-4.9,11.2,2023
+Eggs,8,2022.0,-18.0,-3.2,14.3,2023
+Eggs,9,2022.0,-12.5,8.6,34.4,2023
+Eggs,10,2022.0,-13.3,5.9,30.0,2023
+Eggs,11,2022.0,-6.9,13.5,38.7,2023
+Eggs,12,2022.0,-4.0,16.0,39.5,2023
+Eggs,1,2023.0,6.9,27.3,52.0,2023
+Dairy products,7,2022.0,0.2,8.8,18.3,2023
+Dairy products,8,2022.0,10.0,22.9,37.6,2023
+Dairy products,9,2022.0,6.6,18.2,30.6,2023
+Dairy products,10,2022.0,4.2,14.4,25.4,2023
+Dairy products,11,2022.0,1.6,10.7,20.6,2023
+Dairy products,12,2022.0,2.7,10.6,19.4,2023
+Dairy products,1,2023.0,1.1,8.0,15.5,2023
+Fats and oils,7,2022.0,6.8,18.1,30.3,2023
+Fats and oils,8,2022.0,10.5,22.2,35.4,2023
+Fats and oils,9,2022.0,11.4,22.6,34.7,2023
+Fats and oils,10,2022.0,12.3,22.5,33.9,2023
+Fats and oils,11,2022.0,13.4,22.8,33.3,2023
+Fats and oils,12,2022.0,8.3,15.9,24.4,2023
+Fats and oils,1,2023.0,9.5,16.5,24.0,2023
+Fruits and vegetables,7,2022.0,-4.9,0.5,6.3,2023
+Fruits and vegetables,8,2022.0,-5.0,0.8,7.1,2023
+Fruits and vegetables,9,2022.0,-5.0,0.9,7.2,2023
+Fruits and vegetables,10,2022.0,-3.6,2.2,8.1,2023
+Fruits and vegetables,11,2022.0,-3.7,1.7,7.6,2023
+Fruits and vegetables,12,2022.0,-2.7,2.5,8.0,2023
+Fruits and vegetables,1,2023.0,-2.6,2.0,7.1,2023
+Fresh fruits and vegetables,7,2022.0,-8.0,0.0,8.9,2023
+Fresh fruits and vegetables,8,2022.0,-7.0,0.3,8.2,2023
+Fresh fruits and vegetables,9,2022.0,-6.7,0.3,8.0,2023
+Fresh fruits and vegetables,10,2022.0,-5.6,1.5,8.9,2023
+Fresh fruits and vegetables,11,2022.0,-5.7,0.9,7.8,2023
+Fresh fruits and vegetables,12,2022.0,-4.2,2.1,8.7,2023
+Fresh fruits and vegetables,1,2023.0,-4.6,1.0,7.0,2023
+Fresh fruits,7,2022.0,-8.6,-0.2,9.3,2023
+Fresh fruits,8,2022.0,-7.5,0.0,7.8,2023
+Fresh fruits,9,2022.0,-7.6,-0.7,7.2,2023
+Fresh fruits,10,2022.0,-6.8,0.1,7.6,2023
+Fresh fruits,11,2022.0,-7.5,-0.5,6.6,2023
+Fresh fruits,12,2022.0,-6.3,0.2,7.0,2023
+Fresh fruits,1,2023.0,-7.5,-1.7,4.5,2023
+Fresh vegetables,7,2022.0,-4.3,-0.1,4.3,2023
+Fresh vegetables,8,2022.0,-6.8,0.6,8.8,2023
+Fresh vegetables,9,2022.0,-6.4,1.1,9.2,2023
+Fresh vegetables,10,2022.0,-6.9,3.3,14.7,2023
+Fresh vegetables,11,2022.0,-6.8,3.0,13.8,2023
+Fresh vegetables,12,2022.0,-5.0,4.0,14.3,2023
+Fresh vegetables,1,2023.0,-3.3,5.1,14.6,2023
+Processed fruits and vegetables,7,2022.0,-4.5,1.9,8.7,2023
+Processed fruits and vegetables,8,2022.0,-3.9,2.5,9.1,2023
+Processed fruits and vegetables,9,2022.0,-3.1,3.2,10.1,2023
+Processed fruits and vegetables,10,2022.0,4.2,11.7,19.7,2023
+Processed fruits and vegetables,11,2022.0,4.6,11.2,18.6,2023
+Processed fruits and vegetables,12,2022.0,-1.9,3.7,9.4,2023
+Processed fruits and vegetables,1,2023.0,4.1,9.6,15.3,2023
+Sugar and sweets,7,2022.0,2.2,7.6,13.4,2023
+Sugar and sweets,8,2022.0,4.5,10.3,16.6,2023
+Sugar and sweets,9,2022.0,6.3,12.1,18.4,2023
+Sugar and sweets,10,2022.0,8.5,14.4,20.9,2023
+Sugar and sweets,11,2022.0,8.8,14.2,19.9,2023
+Sugar and sweets,12,2022.0,7.2,11.8,16.6,2023
+Sugar and sweets,1,2023.0,6.6,10.6,14.7,2023
+Cereals and bakery products,7,2022.0,11.2,20.2,30.2,2023
+Cereals and bakery products,8,2022.0,14.1,23.0,33.0,2023
+Cereals and bakery products,9,2022.0,12.6,20.3,28.8,2023
+Cereals and bakery products,10,2022.0,10.4,16.9,23.5,2023
+Cereals and bakery products,11,2022.0,9.6,15.1,21.0,2023
+Cereals and bakery products,12,2022.0,9.4,14.3,19.3,2023
+Cereals and bakery products,1,2023.0,7.8,12.0,16.5,2023
+Nonalcoholic beverages,7,2022.0,2.2,8.1,14.3,2023
+Nonalcoholic beverages,8,2022.0,4.5,10.8,17.7,2023
+Nonalcoholic beverages,9,2022.0,4.9,11.0,17.4,2023
+Nonalcoholic beverages,10,2022.0,5.4,11.0,17.3,2023
+Nonalcoholic beverages,11,2022.0,5.9,11.2,16.8,2023
+Nonalcoholic beverages,12,2022.0,4.5,9.2,14.1,2023
+Nonalcoholic beverages,1,2023.0,4.6,8.7,12.9,2023
+Other foods,7,2022.0,5.8,13.5,21.6,2023
+Other foods,8,2022.0,11.3,19.8,29.2,2023
+Other foods,9,2022.0,10.2,17.5,25.7,2023
+Other foods,10,2022.0,7.0,13.1,19.7,2023
+Other foods,11,2022.0,7.0,12.5,18.4,2023
+Other foods,12,2022.0,4.3,8.9,13.6,2023
+Other foods,1,2023.0,2.5,6.8,11.1,2023

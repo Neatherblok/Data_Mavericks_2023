@@ -1,0 +1,7129 @@
+product_name,year,month,us_city_average_retail_price
+Oranges,1980,1,0.339
+Oranges,1980,2,0.337
+Oranges,1980,3,0.352
+Oranges,1980,4,0.349
+Oranges,1980,5,0.36
+Oranges,1980,12,0.451
+Oranges,1981,1,0.4
+Oranges,1981,2,0.399
+Oranges,1981,3,0.392
+Oranges,1981,4,0.398
+Oranges,1981,5,0.368
+Oranges,1981,6,0.387
+Oranges,1981,12,0.39
+Oranges,1982,1,0.402
+Oranges,1982,2,0.425
+Oranges,1982,3,0.433
+Oranges,1982,4,0.447
+Oranges,1982,12,0.458
+Oranges,1983,1,0.39
+Oranges,1983,2,0.384
+Oranges,1983,3,0.386
+Oranges,1983,4,0.395
+Oranges,1983,5,0.387
+Oranges,1983,6,0.4
+Oranges,1983,12,0.368
+Oranges,1984,1,0.368
+Oranges,1984,2,0.349
+Oranges,1984,3,0.364
+Oranges,1984,4,0.371
+Oranges,1984,5,0.417
+Oranges,1984,11,0.572
+Oranges,1984,12,0.523
+Oranges,1985,1,0.526
+Oranges,1985,2,0.525
+Oranges,1985,3,0.505
+Oranges,1985,4,0.528
+Oranges,1985,5,0.614
+Oranges,1985,12,0.499
+Oranges,1986,1,0.483
+Oranges,1986,2,0.452
+Oranges,1986,3,0.451
+Oranges,1986,4,0.463
+Oranges,1986,5,0.499
+Oranges,1986,11,0.519
+Oranges,1986,12,0.498
+Oranges,1987,3,0.499
+Oranges,1987,4,0.491
+Oranges,1987,5,0.529
+Oranges,1987,11,0.678
+Oranges,1987,12,0.519
+Oranges,1988,1,0.501
+Oranges,1988,2,0.496
+Oranges,1988,3,0.496
+Oranges,1988,4,0.504
+Oranges,1988,5,0.599
+Oranges,1988,12,0.562
+Oranges,1989,1,0.521
+Oranges,1989,2,0.464
+Oranges,1989,3,0.471
+Oranges,1989,4,0.511
+Oranges,1989,5,0.534
+Oranges,1989,11,0.585
+Oranges,1989,12,0.528
+Oranges,1990,1,0.501
+Oranges,1990,2,0.58
+Oranges,1990,3,0.57
+Oranges,1990,4,0.56
+Oranges,1990,5,0.578
+Oranges,1990,6,0.621
+Oranges,1990,11,0.585
+Oranges,1990,12,0.563
+Oranges,1991,1,0.823
+Oranges,1991,2,0.93
+Oranges,1991,11,0.731
+Oranges,1991,12,0.652
+Oranges,1992,1,0.643
+Oranges,1992,2,0.616
+Oranges,1992,3,0.563
+Oranges,1992,4,0.537
+Oranges,1992,5,0.573
+Oranges,1992,11,0.571
+Oranges,1992,12,0.516
+Oranges,1993,1,0.514
+Oranges,1993,2,0.506
+Oranges,1993,3,0.506
+Oranges,1993,4,0.521
+Oranges,1993,5,0.549
+Oranges,1993,11,0.694
+Oranges,1993,12,0.556
+Oranges,1994,1,0.505
+Oranges,1994,2,0.496
+Oranges,1994,3,0.52
+Oranges,1994,4,0.549
+Oranges,1994,5,0.618
+Oranges,1994,11,0.578
+Oranges,1994,12,0.552
+Oranges,1995,1,0.575
+Oranges,1995,2,0.585
+Oranges,1995,3,0.571
+Oranges,1995,4,0.606
+Oranges,1995,5,0.65
+Oranges,1995,11,0.742
+Oranges,1995,12,0.643
+Oranges,1996,1,0.561
+Oranges,1996,2,0.559
+Oranges,1996,3,0.565
+Oranges,1996,4,0.62
+Oranges,1996,5,0.716
+Oranges,1996,11,0.707
+Oranges,1996,12,0.593
+Oranges,1997,1,0.555
+Oranges,1997,2,0.554
+Oranges,1997,3,0.546
+Oranges,1997,4,0.598
+Oranges,1997,5,0.706
+Oranges,1997,11,0.642
+Oranges,1997,12,0.583
+Oranges,1998,1,0.525
+Oranges,1998,2,0.507
+Oranges,1998,3,0.505
+Oranges,1998,4,0.571
+Oranges,1998,5,0.672
+Oranges,1998,12,0.608
+Oranges,1999,1,0.83
+Oranges,1999,2,0.889
+Oranges,1999,3,0.869
+Oranges,1999,4,0.944
+Oranges,1999,11,0.884
+Oranges,1999,12,0.641
+Oranges,2000,1,0.607
+Oranges,2000,2,0.586
+Oranges,2000,3,0.572
+Oranges,2000,4,0.573
+Oranges,2000,5,0.638
+Oranges,2000,6,0.699
+Oranges,2000,11,0.725
+Oranges,2000,12,0.624
+Oranges,2001,1,0.638
+Oranges,2001,2,0.66
+Oranges,2001,3,0.646
+Oranges,2001,4,0.735
+Oranges,2001,5,0.793
+Oranges,2001,11,0.867
+Oranges,2001,12,0.713
+Oranges,2002,1,0.715
+Oranges,2002,2,0.759
+Oranges,2002,3,0.71
+Oranges,2002,4,0.751
+Oranges,2002,5,0.849
+Oranges,2002,10,1.163
+Oranges,2002,11,0.998
+Oranges,2002,12,0.742
+Oranges,2003,1,0.713
+Oranges,2003,2,0.711
+Oranges,2003,3,0.728
+Oranges,2003,4,0.742
+Oranges,2003,5,0.8
+Oranges,2003,6,0.875
+Oranges,2003,10,1.141
+Oranges,2003,11,0.971
+Oranges,2003,12,0.862
+Oranges,2004,1,0.793
+Oranges,2004,2,0.725
+Oranges,2004,3,0.73
+Oranges,2004,4,0.744
+Oranges,2004,5,0.77
+Oranges,2004,6,0.878
+Oranges,2004,9,1.142
+Oranges,2004,11,1.08
+Oranges,2004,12,0.865
+Oranges,2005,1,0.838
+Oranges,2005,2,0.802
+Oranges,2005,3,0.783
+Oranges,2005,4,0.816
+Oranges,2005,5,0.899
+Oranges,2005,6,1.012
+Oranges,2005,9,1.363
+Oranges,2005,10,1.388
+Oranges,2005,11,1.172
+Oranges,2005,12,0.885
+Oranges,2006,1,0.837
+Oranges,2006,2,0.915
+Oranges,2006,3,0.888
+Oranges,2006,4,0.876
+Oranges,2006,5,0.99
+Oranges,2006,6,1.119
+Oranges,2006,7,1.27
+Oranges,2006,9,1.483
+Oranges,2006,10,1.423
+Oranges,2006,11,1.2
+Oranges,2006,12,0.958
+Oranges,2007,1,1.092
+Oranges,2007,2,1.375
+Oranges,2007,3,1.301
+Oranges,2007,4,1.243
+Oranges,2007,5,1.268
+Oranges,2007,6,1.321
+Oranges,2007,8,1.5
+Oranges,2007,9,1.503
+Oranges,2007,10,1.542
+Oranges,2007,11,1.079
+Oranges,2007,12,0.905
+Oranges,2008,1,0.905
+Oranges,2008,2,0.887
+Oranges,2008,3,0.898
+Oranges,2008,4,0.931
+Oranges,2008,5,1.008
+Oranges,2008,6,1.136
+Oranges,2008,7,1.291
+Oranges,2008,8,1.452
+Oranges,2008,9,1.471
+Oranges,2008,10,1.428
+Oranges,2008,11,1.055
+Oranges,2008,12,0.934
+Oranges,2009,1,0.896
+Oranges,2009,2,0.912
+Oranges,2009,3,0.889
+Oranges,2009,4,0.91
+Oranges,2009,5,0.963
+Oranges,2009,6,1.06
+Oranges,2009,7,1.191
+Oranges,2009,8,1.222
+Oranges,2009,9,1.255
+Oranges,2009,10,1.262
+Oranges,2009,11,1.113
+Oranges,2009,12,0.932
+Oranges,2010,1,0.899
+Oranges,2010,2,0.87
+Oranges,2010,3,0.858
+Oranges,2010,4,0.871
+Oranges,2010,5,0.952
+Oranges,2010,6,1.096
+Oranges,2010,7,1.149
+Oranges,2010,8,1.242
+Oranges,2010,9,1.302
+Oranges,2010,10,1.281
+Oranges,2010,11,1.2
+Oranges,2010,12,1.021
+Oranges,2011,1,1.052
+Oranges,2011,2,0.989
+Oranges,2011,3,0.957
+Oranges,2011,4,0.926
+Oranges,2011,5,0.916
+Oranges,2011,6,1.014
+Oranges,2011,7,1.078
+Oranges,2011,8,1.268
+Oranges,2011,9,1.438
+Oranges,2011,10,1.386
+Oranges,2011,11,1.142
+Oranges,2011,12,0.983
+Oranges,2012,1,0.929
+Oranges,2012,2,0.852
+Oranges,2012,3,0.85
+Oranges,2012,4,0.91
+Oranges,2012,5,0.968
+Oranges,2012,6,1.032
+Oranges,2012,7,1.127
+Oranges,2012,8,1.283
+Oranges,2012,9,1.296
+Oranges,2012,10,1.254
+Oranges,2012,11,1.102
+Oranges,2012,12,1.035
+Oranges,2013,1,0.991
+Oranges,2013,2,0.998
+Oranges,2013,3,0.988
+Oranges,2013,4,0.981
+Oranges,2013,5,1.048
+Oranges,2013,6,1.147
+Oranges,2013,7,1.287
+Oranges,2013,8,1.377
+Oranges,2013,9,1.334
+Oranges,2013,10,1.328
+Oranges,2013,11,1.201
+Oranges,2013,12,1.129
+Oranges,2014,1,1.118
+Oranges,2014,2,1.146
+Oranges,2014,3,1.212
+Oranges,2014,4,1.261
+Oranges,2014,5,1.342
+Oranges,2014,6,1.299
+Oranges,2014,7,1.39
+Oranges,2014,8,1.467
+Oranges,2014,9,1.486
+Oranges,2014,10,1.508
+Oranges,2014,11,1.352
+Oranges,2014,12,1.246
+Oranges,2015,1,1.195
+Oranges,2015,2,1.185
+Oranges,2015,3,1.201
+Oranges,2015,4,1.165
+Oranges,2015,5,1.208
+Oranges,2015,6,1.274
+Oranges,2015,7,1.38
+Oranges,2015,8,1.493
+Oranges,2015,9,1.48
+Oranges,2015,10,1.514
+Oranges,2015,11,1.329
+Oranges,2015,12,1.229
+Oranges,2016,1,1.196
+Oranges,2016,2,1.194
+Oranges,2016,3,1.188
+Oranges,2016,4,1.176
+Oranges,2016,5,1.148
+Oranges,2016,6,1.186
+Oranges,2016,7,1.268
+Oranges,2016,8,1.365
+Oranges,2016,9,1.41
+Oranges,2016,10,1.412
+Oranges,2016,11,1.239
+Oranges,2016,12,1.169
+Oranges,2017,1,1.186
+Oranges,2017,2,1.191
+Oranges,2017,3,1.18
+Oranges,2017,4,1.174
+Oranges,2017,5,1.226
+Oranges,2017,6,1.346
+Oranges,2017,7,1.462
+Oranges,2017,8,1.453
+Oranges,2017,9,1.48
+Oranges,2017,10,1.59
+Oranges,2017,11,1.486
+Oranges,2017,12,1.315
+Oranges,2018,1,1.326
+Oranges,2018,2,1.339
+Oranges,2018,3,1.305
+Oranges,2018,4,1.291
+Oranges,2018,5,1.348
+Oranges,2018,6,1.409
+Oranges,2018,7,1.538
+Oranges,2018,8,1.559
+Oranges,2018,9,1.511
+Oranges,2018,10,1.502
+Oranges,2018,11,1.437
+Oranges,2018,12,1.389
+Oranges,2019,1,1.344
+Oranges,2019,2,1.298
+Oranges,2019,3,1.346
+Oranges,2019,4,1.28
+Oranges,2019,5,1.331
+Oranges,2019,6,1.296
+Oranges,2019,7,1.411
+Oranges,2019,8,1.442
+Oranges,2019,9,1.426
+Oranges,2019,10,1.47
+Oranges,2019,11,1.429
+Oranges,2019,12,1.327
+Oranges,2020,1,1.244
+Oranges,2020,2,1.218
+Oranges,2020,3,1.174
+Oranges,2020,5,1.209
+Oranges,2020,6,1.296
+Oranges,2020,12,1.329
+Oranges,2021,1,1.303
+Oranges,2021,2,1.321
+Oranges,2021,3,1.266
+Oranges,2021,4,1.32
+Oranges,2021,5,1.317
+Oranges,2021,6,1.354
+Oranges,2021,10,1.49
+Oranges,2021,11,1.44
+Oranges,2021,12,1.448
+Oranges,2022,1,1.427
+Oranges,2022,2,1.445
+Oranges,2022,3,1.48
+Oranges,2022,4,1.505
+Oranges,2022,5,1.546
+Oranges,2022,6,1.6
+Oranges,2022,8,1.703
+Oranges,2022,9,1.73
+Oranges,2022,10,1.73
+Oranges,2022,11,1.641
+Oranges,2022,12,1.485
+Milk,1995,7,2.477
+Milk,1995,8,2.482
+Milk,1995,9,2.459
+Milk,1995,10,2.473
+Milk,1995,11,2.493
+Milk,1995,12,2.518
+Milk,1996,1,2.546
+Milk,1996,2,2.541
+Milk,1996,3,2.539
+Milk,1996,4,2.537
+Milk,1996,5,2.532
+Milk,1996,6,2.599
+Milk,1996,7,2.649
+Milk,1996,8,2.666
+Milk,1996,9,2.666
+Milk,1996,10,2.73
+Milk,1996,11,2.746
+Milk,1996,12,2.727
+Milk,1997,1,2.677
+Milk,1997,2,2.632
+Milk,1997,3,2.632
+Milk,1997,4,2.606
+Milk,1997,5,2.608
+Milk,1997,6,2.587
+Milk,1997,7,2.557
+Milk,1997,8,2.551
+Milk,1997,9,2.533
+Milk,1997,10,2.635
+Milk,1997,11,2.678
+Milk,1997,12,2.672
+Milk,1998,1,2.632
+Milk,1998,2,2.653
+Milk,1998,3,2.658
+Milk,1998,4,2.668
+Milk,1998,5,2.666
+Milk,1998,6,2.622
+Milk,1998,7,2.628
+Milk,1998,8,2.717
+Milk,1998,9,2.757
+Milk,1998,10,2.785
+Milk,1998,11,2.8
+Milk,1998,12,2.859
+Milk,1999,1,2.94
+Milk,1999,2,3.004
+Milk,1999,3,3.003
+Milk,1999,4,2.707
+Milk,1999,5,2.716
+Milk,1999,6,2.704
+Milk,1999,7,2.706
+Milk,1999,8,2.719
+Milk,1999,9,2.794
+Milk,1999,10,2.964
+Milk,1999,11,2.981
+Milk,1999,12,2.875
+Milk,2000,1,2.785
+Milk,2000,2,2.777
+Milk,2000,3,2.748
+Milk,2000,4,2.773
+Milk,2000,5,2.782
+Milk,2000,6,2.763
+Milk,2000,7,2.781
+Milk,2000,8,2.807
+Milk,2000,9,2.809
+Milk,2000,10,2.805
+Milk,2000,11,2.753
+Milk,2000,12,2.785
+Milk,2001,1,2.852
+Milk,2001,2,2.847
+Milk,2001,3,2.76
+Milk,2001,4,2.845
+Milk,2001,5,2.893
+Milk,2001,6,2.911
+Milk,2001,7,2.933
+Milk,2001,8,2.89
+Milk,2001,9,2.941
+Milk,2001,10,2.954
+Milk,2001,11,2.89
+Milk,2001,12,2.895
+Milk,2002,1,2.812
+Milk,2002,2,2.807
+Milk,2002,3,2.816
+Milk,2002,4,2.779
+Milk,2002,5,2.782
+Milk,2002,6,2.768
+Milk,2002,7,2.747
+Milk,2002,8,2.72
+Milk,2002,9,2.728
+Milk,2002,10,2.727
+Milk,2002,11,2.719
+Milk,2002,12,2.682
+Milk,2003,1,2.686
+Milk,2003,2,2.689
+Milk,2003,3,2.656
+Milk,2003,4,2.674
+Milk,2003,5,2.685
+Milk,2003,6,2.676
+Milk,2003,7,2.708
+Milk,2003,8,2.666
+Milk,2003,9,2.904
+Milk,2003,10,2.905
+Milk,2003,11,2.937
+Milk,2003,12,2.947
+Milk,2004,1,2.879
+Milk,2004,2,2.814
+Milk,2004,3,2.786
+Milk,2004,4,2.906
+Milk,2004,5,3.374
+Milk,2004,6,3.574
+Milk,2004,7,3.479
+Milk,2004,8,3.297
+Milk,2004,9,3.149
+Milk,2004,10,3.161
+Milk,2004,11,3.219
+Milk,2004,12,3.233
+Milk,2005,1,3.304
+Milk,2005,2,3.176
+Milk,2005,3,3.226
+Milk,2005,4,3.225
+Milk,2005,5,3.207
+Milk,2005,6,3.122
+Milk,2005,7,3.09
+Milk,2005,8,3.136
+Milk,2005,9,3.133
+Milk,2005,10,3.171
+Milk,2005,11,3.211
+Milk,2005,12,3.241
+Milk,2006,1,3.197
+Milk,2006,2,3.224
+Milk,2006,3,3.161
+Milk,2006,4,3.123
+Milk,2006,5,3.066
+Milk,2006,6,3.001
+Milk,2006,7,3.083
+Milk,2006,8,3.019
+Milk,2006,9,3.049
+Milk,2006,10,3.064
+Milk,2006,11,2.985
+Milk,2006,12,3.004
+Milk,2007,1,3.067
+Milk,2007,2,3.083
+Milk,2007,3,3.072
+Milk,2007,4,3.135
+Milk,2007,5,3.259
+Milk,2007,6,3.427
+Milk,2007,7,3.736
+Milk,2007,8,3.807
+Milk,2007,9,3.841
+Milk,2007,10,3.838
+Milk,2007,11,3.904
+Milk,2007,12,3.87
+Milk,2008,1,3.871
+Milk,2008,2,3.869
+Milk,2008,3,3.781
+Milk,2008,4,3.799
+Milk,2008,5,3.76
+Milk,2008,6,3.773
+Milk,2008,7,3.961
+Milk,2008,8,3.886
+Milk,2008,9,3.773
+Milk,2008,10,3.656
+Milk,2008,11,3.734
+Milk,2008,12,3.681
+Milk,2009,1,3.575
+Milk,2009,2,3.319
+Milk,2009,3,3.116
+Milk,2009,4,3.084
+Milk,2009,5,3.068
+Milk,2009,6,3.009
+Milk,2009,7,2.992
+Milk,2009,8,2.979
+Milk,2009,9,2.981
+Milk,2009,10,3.046
+Milk,2009,11,3.034
+Milk,2009,12,3.105
+Milk,2010,1,3.236
+Milk,2010,2,3.203
+Milk,2010,3,3.188
+Milk,2010,4,3.14
+Milk,2010,5,3.178
+Milk,2010,6,3.297
+Milk,2010,7,3.313
+Milk,2010,8,3.303
+Milk,2010,9,3.278
+Milk,2010,10,3.321
+Milk,2010,11,3.327
+Milk,2010,12,3.318
+Milk,2011,1,3.301
+Milk,2011,2,3.357
+Milk,2011,3,3.503
+Milk,2011,4,3.597
+Milk,2011,5,3.653
+Milk,2011,6,3.622
+Milk,2011,7,3.654
+Milk,2011,8,3.713
+Milk,2011,9,3.715
+Milk,2011,10,3.622
+Milk,2011,11,3.557
+Milk,2011,12,3.565
+Milk,2012,1,3.583
+Milk,2012,2,3.52
+Milk,2012,3,3.499
+Milk,2012,4,3.474
+Milk,2012,5,3.427
+Milk,2012,6,3.396
+Milk,2012,7,3.428
+Milk,2012,8,3.474
+Milk,2012,9,3.469
+Milk,2012,10,3.524
+Milk,2012,11,3.536
+Milk,2012,12,3.58
+Milk,2013,1,3.526
+Milk,2013,2,3.48
+Milk,2013,3,3.431
+Milk,2013,4,3.428
+Milk,2013,5,3.441
+Milk,2013,6,3.458
+Milk,2013,7,3.449
+Milk,2013,8,3.448
+Milk,2013,9,3.428
+Milk,2013,10,3.462
+Milk,2013,11,3.491
+Milk,2013,12,3.501
+Milk,2014,1,3.552
+Milk,2014,2,3.561
+Milk,2014,3,3.669
+Milk,2014,4,3.687
+Milk,2014,5,3.735
+Milk,2014,6,3.626
+Milk,2014,7,3.645
+Milk,2014,8,3.673
+Milk,2014,9,3.732
+Milk,2014,10,3.766
+Milk,2014,11,3.858
+Milk,2014,12,3.82
+Milk,2015,1,3.758
+Milk,2015,2,3.496
+Milk,2015,3,3.463
+Milk,2015,4,3.397
+Milk,2015,5,3.387
+Milk,2015,6,3.366
+Milk,2015,7,3.43
+Milk,2015,8,3.389
+Milk,2015,9,3.392
+Milk,2015,10,3.338
+Milk,2015,11,3.299
+Milk,2015,12,3.31
+Milk,2016,1,3.313
+Milk,2016,2,3.23
+Milk,2016,3,3.187
+Milk,2016,4,3.155
+Milk,2016,5,3.157
+Milk,2016,6,3.115
+Milk,2016,7,3.062
+Milk,2016,8,3.141
+Milk,2016,9,3.229
+Milk,2016,10,3.292
+Milk,2016,11,3.28
+Milk,2016,12,3.29
+Milk,2017,1,3.318
+Milk,2017,2,3.3
+Milk,2017,3,3.315
+Milk,2017,4,3.259
+Milk,2017,5,3.242
+Milk,2017,6,3.213
+Milk,2017,7,3.219
+Milk,2017,8,3.168
+Milk,2017,9,3.209
+Milk,2017,10,3.158
+Milk,2017,11,3.15
+Milk,2017,12,3.155
+Milk,2018,1,2.961
+Milk,2018,2,2.923
+Milk,2018,3,2.903
+Milk,2018,4,2.924
+Milk,2018,5,2.919
+Milk,2018,6,2.877
+Milk,2018,7,2.839
+Milk,2018,8,2.871
+Milk,2018,9,2.89
+Milk,2018,10,2.913
+Milk,2018,11,2.877
+Milk,2018,12,2.853
+Milk,2019,1,2.913
+Milk,2019,2,2.9
+Milk,2019,3,2.944
+Milk,2019,4,2.98
+Milk,2019,5,2.963
+Milk,2019,6,3.054
+Milk,2019,7,3.031
+Milk,2019,8,3.045
+Milk,2019,9,3.102
+Milk,2019,10,3.119
+Milk,2019,11,3.189
+Milk,2019,12,3.188
+Milk,2020,1,3.253
+Milk,2020,2,3.196
+Milk,2020,3,3.248
+Milk,2020,4,3.267
+Milk,2020,5,3.21
+Milk,2020,6,3.198
+Milk,2020,7,3.255
+Milk,2020,8,3.406
+Milk,2020,9,3.448
+Milk,2020,10,3.38
+Milk,2020,11,3.425
+Milk,2020,12,3.535
+Milk,2021,1,3.468
+Milk,2021,2,3.368
+Milk,2021,3,3.348
+Milk,2021,4,3.447
+Milk,2021,5,3.497
+Milk,2021,6,3.557
+Milk,2021,7,3.627
+Milk,2021,8,3.56
+Milk,2021,9,3.585
+Milk,2021,10,3.663
+Milk,2021,11,3.671
+Milk,2021,12,3.743
+Milk,2022,1,3.787
+Milk,2022,2,3.875
+Milk,2022,3,3.917
+Milk,2022,4,4.012
+Milk,2022,5,4.204
+Milk,2022,6,4.153
+Milk,2022,7,4.156
+Milk,2022,8,4.194
+Milk,2022,9,4.181
+Milk,2022,10,4.184
+Milk,2022,11,4.218
+Milk,2022,12,4.211
+Tomatoes,1980,1,0.703
+Tomatoes,1980,2,0.586
+Tomatoes,1980,3,0.642
+Tomatoes,1980,4,0.634
+Tomatoes,1980,5,0.737
+Tomatoes,1980,6,0.745
+Tomatoes,1980,7,0.683
+Tomatoes,1980,8,0.646
+Tomatoes,1980,9,0.679
+Tomatoes,1980,10,0.764
+Tomatoes,1980,11,0.603
+Tomatoes,1980,12,0.662
+Tomatoes,1981,1,0.792
+Tomatoes,1981,2,1.016
+Tomatoes,1981,3,1.166
+Tomatoes,1981,4,1.201
+Tomatoes,1981,5,0.607
+Tomatoes,1981,6,0.639
+Tomatoes,1981,7,0.614
+Tomatoes,1981,8,0.659
+Tomatoes,1981,9,0.604
+Tomatoes,1981,10,0.652
+Tomatoes,1981,11,0.646
+Tomatoes,1981,12,0.642
+Tomatoes,1982,1,0.763
+Tomatoes,1982,2,0.901
+Tomatoes,1982,3,0.778
+Tomatoes,1982,4,0.664
+Tomatoes,1982,5,0.694
+Tomatoes,1982,6,0.869
+Tomatoes,1982,7,0.837
+Tomatoes,1982,8,0.584
+Tomatoes,1982,9,0.548
+Tomatoes,1982,10,0.633
+Tomatoes,1982,11,0.744
+Tomatoes,1982,12,0.849
+Tomatoes,1983,1,0.726
+Tomatoes,1983,2,0.814
+Tomatoes,1983,3,1.081
+Tomatoes,1983,4,1.011
+Tomatoes,1983,5,0.95
+Tomatoes,1983,6,0.797
+Tomatoes,1983,7,0.732
+Tomatoes,1983,8,0.584
+Tomatoes,1983,9,0.621
+Tomatoes,1983,10,0.709
+Tomatoes,1983,11,0.726
+Tomatoes,1983,12,0.663
+Tomatoes,1984,1,0.854
+Tomatoes,1984,2,0.998
+Tomatoes,1984,3,0.973
+Tomatoes,1984,4,0.839
+Tomatoes,1984,5,0.766
+Tomatoes,1984,6,0.778
+Tomatoes,1984,7,0.692
+Tomatoes,1984,8,0.901
+Tomatoes,1984,9,0.741
+Tomatoes,1984,10,0.744
+Tomatoes,1984,11,0.724
+Tomatoes,1984,12,0.678
+Tomatoes,1985,1,0.697
+Tomatoes,1985,2,0.84
+Tomatoes,1985,3,0.945
+Tomatoes,1985,4,1.194
+Tomatoes,1985,5,0.681
+Tomatoes,1985,6,0.624
+Tomatoes,1985,7,0.665
+Tomatoes,1985,8,0.642
+Tomatoes,1985,9,0.616
+Tomatoes,1985,10,0.673
+Tomatoes,1985,11,0.808
+Tomatoes,1985,12,0.953
+Tomatoes,1986,1,1.104
+Tomatoes,1986,2,0.752
+Tomatoes,1986,3,0.773
+Tomatoes,1986,4,0.805
+Tomatoes,1986,5,0.879
+Tomatoes,1986,6,0.802
+Tomatoes,1986,7,0.737
+Tomatoes,1986,8,0.686
+Tomatoes,1986,9,0.674
+Tomatoes,1986,10,0.811
+Tomatoes,1986,11,0.919
+Tomatoes,1986,12,0.943
+Tomatoes,1987,3,0.76
+Tomatoes,1987,4,0.82
+Tomatoes,1987,5,0.788
+Tomatoes,1987,6,0.883
+Tomatoes,1987,7,0.816
+Tomatoes,1987,8,0.664
+Tomatoes,1987,9,0.735
+Tomatoes,1987,10,0.777
+Tomatoes,1987,11,0.992
+Tomatoes,1987,12,0.996
+Tomatoes,1988,1,0.871
+Tomatoes,1988,2,0.856
+Tomatoes,1988,3,0.744
+Tomatoes,1988,4,0.902
+Tomatoes,1988,5,0.859
+Tomatoes,1988,6,0.765
+Tomatoes,1988,7,0.798
+Tomatoes,1988,8,0.819
+Tomatoes,1988,9,0.874
+Tomatoes,1988,10,0.853
+Tomatoes,1988,11,0.856
+Tomatoes,1988,12,0.812
+Tomatoes,1989,1,0.797
+Tomatoes,1989,2,1.051
+Tomatoes,1989,3,0.891
+Tomatoes,1989,4,0.97
+Tomatoes,1989,5,1.323
+Tomatoes,1989,6,0.873
+Tomatoes,1989,7,0.847
+Tomatoes,1989,8,0.797
+Tomatoes,1989,9,0.777
+Tomatoes,1989,10,0.836
+Tomatoes,1989,11,0.884
+Tomatoes,1989,12,0.898
+Tomatoes,1990,1,1.735
+Tomatoes,1990,2,2.361
+Tomatoes,1990,3,1.765
+Tomatoes,1990,4,0.732
+Tomatoes,1990,5,0.697
+Tomatoes,1990,6,0.792
+Tomatoes,1990,7,0.777
+Tomatoes,1990,8,0.765
+Tomatoes,1990,9,0.773
+Tomatoes,1990,10,0.846
+Tomatoes,1990,11,0.862
+Tomatoes,1990,12,0.858
+Tomatoes,1991,1,0.912
+Tomatoes,1991,2,0.84
+Tomatoes,1991,3,0.948
+Tomatoes,1991,4,1.21
+Tomatoes,1991,5,1.457
+Tomatoes,1991,6,1.672
+Tomatoes,1991,7,1.166
+Tomatoes,1991,8,0.795
+Tomatoes,1991,9,0.759
+Tomatoes,1991,10,0.714
+Tomatoes,1991,11,0.813
+Tomatoes,1991,12,0.793
+Tomatoes,1992,1,0.936
+Tomatoes,1992,2,1.43
+Tomatoes,1992,3,1.729
+Tomatoes,1992,4,1.623
+Tomatoes,1992,5,0.828
+Tomatoes,1992,6,0.747
+Tomatoes,1992,7,0.801
+Tomatoes,1992,8,0.802
+Tomatoes,1992,9,0.765
+Tomatoes,1992,10,1.001
+Tomatoes,1992,11,1.242
+Tomatoes,1992,12,1.227
+Tomatoes,1993,1,1.141
+Tomatoes,1993,2,1.098
+Tomatoes,1993,3,0.88
+Tomatoes,1993,4,1.016
+Tomatoes,1993,5,1.553
+Tomatoes,1993,6,1.278
+Tomatoes,1993,7,0.824
+Tomatoes,1993,8,0.856
+Tomatoes,1993,9,1.092
+Tomatoes,1993,10,0.944
+Tomatoes,1993,11,1.01
+Tomatoes,1993,12,1.313
+Tomatoes,1994,1,1.604
+Tomatoes,1994,2,1.112
+Tomatoes,1994,3,0.914
+Tomatoes,1994,4,0.951
+Tomatoes,1994,5,0.949
+Tomatoes,1994,6,1.047
+Tomatoes,1994,7,0.99
+Tomatoes,1994,8,0.969
+Tomatoes,1994,9,0.958
+Tomatoes,1994,10,0.979
+Tomatoes,1994,11,1.129
+Tomatoes,1994,12,1.428
+Tomatoes,1995,1,1.323
+Tomatoes,1995,2,1.3
+Tomatoes,1995,3,1.081
+Tomatoes,1995,4,1.299
+Tomatoes,1995,5,0.985
+Tomatoes,1995,6,1.102
+Tomatoes,1995,7,1.252
+Tomatoes,1995,8,0.938
+Tomatoes,1995,9,0.95
+Tomatoes,1995,10,1.041
+Tomatoes,1995,11,1.097
+Tomatoes,1995,12,1.507
+Tomatoes,1996,1,1.103
+Tomatoes,1996,2,1.084
+Tomatoes,1996,3,1.467
+Tomatoes,1996,4,1.867
+Tomatoes,1996,5,1.379
+Tomatoes,1996,6,1.127
+Tomatoes,1996,7,1.031
+Tomatoes,1996,8,1.006
+Tomatoes,1996,9,0.98
+Tomatoes,1996,10,1.084
+Tomatoes,1996,11,1.182
+Tomatoes,1996,12,1.21
+Tomatoes,1997,1,1.213
+Tomatoes,1997,2,1.314
+Tomatoes,1997,3,1.654
+Tomatoes,1997,4,1.348
+Tomatoes,1997,5,1.175
+Tomatoes,1997,6,1.3
+Tomatoes,1997,7,1.141
+Tomatoes,1997,8,1.13
+Tomatoes,1997,9,1.091
+Tomatoes,1997,10,1.162
+Tomatoes,1997,11,1.37
+Tomatoes,1997,12,1.617
+Tomatoes,1998,1,1.452
+Tomatoes,1998,2,1.356
+Tomatoes,1998,3,1.515
+Tomatoes,1998,4,1.398
+Tomatoes,1998,5,1.472
+Tomatoes,1998,6,1.393
+Tomatoes,1998,7,1.515
+Tomatoes,1998,8,1.312
+Tomatoes,1998,9,1.241
+Tomatoes,1998,10,1.573
+Tomatoes,1998,11,1.689
+Tomatoes,1998,12,1.798
+Tomatoes,1999,1,1.904
+Tomatoes,1999,2,1.476
+Tomatoes,1999,3,1.395
+Tomatoes,1999,4,1.298
+Tomatoes,1999,5,1.284
+Tomatoes,1999,6,1.304
+Tomatoes,1999,7,1.287
+Tomatoes,1999,8,1.232
+Tomatoes,1999,9,1.272
+Tomatoes,1999,10,1.279
+Tomatoes,1999,11,1.3
+Tomatoes,1999,12,1.405
+Tomatoes,2000,1,1.443
+Tomatoes,2000,2,1.286
+Tomatoes,2000,3,1.364
+Tomatoes,2000,4,1.487
+Tomatoes,2000,5,1.366
+Tomatoes,2000,6,1.318
+Tomatoes,2000,7,1.282
+Tomatoes,2000,8,1.262
+Tomatoes,2000,9,1.319
+Tomatoes,2000,10,1.387
+Tomatoes,2000,11,1.503
+Tomatoes,2000,12,1.567
+Tomatoes,2001,1,1.414
+Tomatoes,2001,2,1.313
+Tomatoes,2001,3,1.336
+Tomatoes,2001,4,1.433
+Tomatoes,2001,5,1.243
+Tomatoes,2001,6,1.356
+Tomatoes,2001,7,1.257
+Tomatoes,2001,8,1.185
+Tomatoes,2001,9,1.168
+Tomatoes,2001,10,1.267
+Tomatoes,2001,11,1.468
+Tomatoes,2001,12,1.404
+Tomatoes,2002,1,1.451
+Tomatoes,2002,2,1.298
+Tomatoes,2002,3,1.292
+Tomatoes,2002,4,1.319
+Tomatoes,2002,5,1.332
+Tomatoes,2002,6,1.299
+Tomatoes,2002,7,1.243
+Tomatoes,2002,8,1.181
+Tomatoes,2002,9,1.158
+Tomatoes,2002,10,1.236
+Tomatoes,2002,11,1.43
+Tomatoes,2002,12,1.655
+Tomatoes,2003,1,1.711
+Tomatoes,2003,2,1.565
+Tomatoes,2003,3,1.619
+Tomatoes,2003,4,1.555
+Tomatoes,2003,5,1.401
+Tomatoes,2003,6,1.398
+Tomatoes,2003,7,1.46
+Tomatoes,2003,8,1.513
+Tomatoes,2003,9,1.438
+Tomatoes,2003,10,1.436
+Tomatoes,2003,11,1.48
+Tomatoes,2003,12,1.533
+Tomatoes,2004,1,1.472
+Tomatoes,2004,2,1.51
+Tomatoes,2004,3,1.529
+Tomatoes,2004,4,1.519
+Tomatoes,2004,5,1.51
+Tomatoes,2004,6,1.331
+Tomatoes,2004,7,1.253
+Tomatoes,2004,8,1.312
+Tomatoes,2004,9,1.321
+Tomatoes,2004,10,1.715
+Tomatoes,2004,11,2.337
+Tomatoes,2004,12,2.467
+Tomatoes,2005,1,1.66
+Tomatoes,2005,2,1.428
+Tomatoes,2005,3,1.548
+Tomatoes,2005,4,1.71
+Tomatoes,2005,5,1.911
+Tomatoes,2005,6,1.655
+Tomatoes,2005,7,1.607
+Tomatoes,2005,8,1.416
+Tomatoes,2005,9,1.429
+Tomatoes,2005,10,1.547
+Tomatoes,2005,11,1.574
+Tomatoes,2005,12,1.848
+Tomatoes,2006,1,2.162
+Tomatoes,2006,2,1.91
+Tomatoes,2006,3,1.649
+Tomatoes,2006,4,1.573
+Tomatoes,2006,5,1.543
+Tomatoes,2006,6,1.457
+Tomatoes,2006,7,1.479
+Tomatoes,2006,8,1.488
+Tomatoes,2006,9,1.908
+Tomatoes,2006,10,2.188
+Tomatoes,2006,11,1.784
+Tomatoes,2006,12,1.639
+Tomatoes,2007,1,1.621
+Tomatoes,2007,2,1.644
+Tomatoes,2007,3,1.555
+Tomatoes,2007,4,1.63
+Tomatoes,2007,5,1.685
+Tomatoes,2007,6,1.51
+Tomatoes,2007,7,1.486
+Tomatoes,2007,8,1.485
+Tomatoes,2007,9,1.496
+Tomatoes,2007,10,1.649
+Tomatoes,2007,11,1.851
+Tomatoes,2007,12,2.147
+Tomatoes,2008,1,2.032
+Tomatoes,2008,2,1.735
+Tomatoes,2008,3,1.835
+Tomatoes,2008,4,1.773
+Tomatoes,2008,5,1.675
+Tomatoes,2008,6,1.814
+Tomatoes,2008,7,1.713
+Tomatoes,2008,8,1.694
+Tomatoes,2008,9,1.591
+Tomatoes,2008,10,1.611
+Tomatoes,2008,11,1.722
+Tomatoes,2008,12,1.734
+Tomatoes,2009,1,1.661
+Tomatoes,2009,2,1.556
+Tomatoes,2009,3,1.511
+Tomatoes,2009,4,1.591
+Tomatoes,2009,5,1.584
+Tomatoes,2009,6,1.604
+Tomatoes,2009,7,1.618
+Tomatoes,2009,8,1.528
+Tomatoes,2009,9,1.538
+Tomatoes,2009,10,1.595
+Tomatoes,2009,11,1.726
+Tomatoes,2009,12,1.961
+Tomatoes,2010,1,1.837
+Tomatoes,2010,2,1.765
+Tomatoes,2010,3,2.007
+Tomatoes,2010,4,2.132
+Tomatoes,2010,5,1.918
+Tomatoes,2010,6,1.586
+Tomatoes,2010,7,1.544
+Tomatoes,2010,8,1.405
+Tomatoes,2010,9,1.503
+Tomatoes,2010,10,1.502
+Tomatoes,2010,11,1.519
+Tomatoes,2010,12,1.591
+Tomatoes,2011,1,1.59
+Tomatoes,2011,2,1.832
+Tomatoes,2011,3,2.086
+Tomatoes,2011,4,2.27
+Tomatoes,2011,5,1.794
+Tomatoes,2011,6,1.559
+Tomatoes,2011,7,1.442
+Tomatoes,2011,8,1.42
+Tomatoes,2011,9,1.503
+Tomatoes,2011,10,1.465
+Tomatoes,2011,11,1.516
+Tomatoes,2011,12,1.531
+Tomatoes,2012,1,1.542
+Tomatoes,2012,2,1.433
+Tomatoes,2012,3,1.452
+Tomatoes,2012,4,1.388
+Tomatoes,2012,5,1.336
+Tomatoes,2012,6,1.492
+Tomatoes,2012,7,1.506
+Tomatoes,2012,8,1.44
+Tomatoes,2012,9,1.384
+Tomatoes,2012,10,1.443
+Tomatoes,2012,11,1.469
+Tomatoes,2012,12,1.594
+Tomatoes,2013,1,1.545
+Tomatoes,2013,2,1.497
+Tomatoes,2013,3,1.493
+Tomatoes,2013,4,1.46
+Tomatoes,2013,5,1.454
+Tomatoes,2013,6,1.47
+Tomatoes,2013,7,1.43
+Tomatoes,2013,8,1.509
+Tomatoes,2013,9,1.566
+Tomatoes,2013,11,1.7
+Tomatoes,2013,12,1.727
+Tomatoes,2014,1,1.702
+Tomatoes,2014,2,1.672
+Tomatoes,2014,3,1.632
+Tomatoes,2014,4,1.622
+Tomatoes,2014,5,1.629
+Tomatoes,2014,6,1.675
+Tomatoes,2014,7,1.633
+Tomatoes,2014,8,1.544
+Tomatoes,2014,9,1.546
+Tomatoes,2014,10,1.695
+Tomatoes,2014,11,1.948
+Tomatoes,2014,12,2.189
+Tomatoes,2015,1,2.089
+Tomatoes,2015,2,1.849
+Tomatoes,2015,3,1.819
+Tomatoes,2015,4,1.847
+Tomatoes,2015,5,1.74
+Tomatoes,2015,6,1.708
+Tomatoes,2015,7,1.777
+Tomatoes,2015,8,1.737
+Tomatoes,2015,9,1.775
+Tomatoes,2015,10,1.844
+Tomatoes,2015,11,1.977
+Tomatoes,2015,12,1.932
+Tomatoes,2016,1,2.528
+Tomatoes,2016,2,2.316
+Tomatoes,2016,3,1.941
+Tomatoes,2016,4,1.862
+Tomatoes,2016,5,1.695
+Tomatoes,2016,6,1.709
+Tomatoes,2016,7,1.635
+Tomatoes,2016,8,1.685
+Tomatoes,2016,9,1.786
+Tomatoes,2016,10,1.994
+Tomatoes,2016,11,1.984
+Tomatoes,2016,12,1.972
+Tomatoes,2017,1,2.048
+Tomatoes,2017,2,1.93
+Tomatoes,2017,3,1.943
+Tomatoes,2017,4,1.902
+Tomatoes,2017,5,1.867
+Tomatoes,2017,6,1.873
+Tomatoes,2017,7,1.952
+Tomatoes,2017,8,1.846
+Tomatoes,2017,9,1.828
+Tomatoes,2017,10,1.813
+Tomatoes,2017,11,1.933
+Tomatoes,2017,12,2.237
+Tomatoes,2018,1,2.336
+Tomatoes,2018,2,2.026
+Tomatoes,2018,3,1.868
+Tomatoes,2018,4,1.802
+Tomatoes,2018,5,1.675
+Tomatoes,2018,6,1.706
+Tomatoes,2018,7,1.887
+Tomatoes,2018,8,1.737
+Tomatoes,2018,9,1.826
+Tomatoes,2018,10,1.901
+Tomatoes,2018,11,2.057
+Tomatoes,2018,12,2.175
+Tomatoes,2019,1,2.227
+Tomatoes,2019,2,2.068
+Tomatoes,2019,3,2.079
+Tomatoes,2019,4,1.947
+Tomatoes,2019,5,1.823
+Tomatoes,2019,6,1.812
+Tomatoes,2019,7,1.799
+Tomatoes,2019,8,1.864
+Tomatoes,2019,9,1.911
+Tomatoes,2019,10,1.779
+Tomatoes,2019,11,1.903
+Tomatoes,2019,12,1.954
+Tomatoes,2020,1,2.221
+Tomatoes,2020,2,2.197
+Tomatoes,2020,5,1.851
+Tomatoes,2020,6,1.922
+Tomatoes,2020,7,1.977
+Tomatoes,2020,8,1.874
+Tomatoes,2020,9,1.847
+Tomatoes,2020,10,1.911
+Tomatoes,2020,11,1.935
+Tomatoes,2020,12,1.893
+Tomatoes,2021,1,1.928
+Tomatoes,2021,2,1.838
+Tomatoes,2021,3,1.768
+Tomatoes,2021,4,1.786
+Tomatoes,2021,5,1.804
+Tomatoes,2021,6,1.83
+Tomatoes,2021,7,1.827
+Tomatoes,2021,8,1.858
+Tomatoes,2021,9,1.828
+Tomatoes,2021,10,1.892
+Tomatoes,2021,11,1.924
+Tomatoes,2021,12,1.906
+Tomatoes,2022,1,1.892
+Tomatoes,2022,2,1.826
+Tomatoes,2022,3,1.827
+Tomatoes,2022,4,1.794
+Tomatoes,2022,5,1.819
+Tomatoes,2022,6,1.842
+Tomatoes,2022,7,1.842
+Tomatoes,2022,8,1.89
+Tomatoes,2022,9,1.901
+Tomatoes,2022,10,1.974
+Tomatoes,2022,11,2.107
+Tomatoes,2022,12,2.228
+Beef chunks,1980,1,1.821
+Beef chunks,1980,2,1.843
+Beef chunks,1980,3,1.855
+Beef chunks,1980,4,1.818
+Beef chunks,1980,5,1.807
+Beef chunks,1980,6,1.793
+Beef chunks,1980,7,1.78
+Beef chunks,1980,8,1.842
+Beef chunks,1980,9,1.865
+Beef chunks,1980,10,1.861
+Beef chunks,1980,11,1.852
+Beef chunks,1980,12,1.863
+Beef chunks,1981,1,1.856
+Beef chunks,1981,2,1.832
+Beef chunks,1981,3,1.824
+Beef chunks,1981,4,1.783
+Beef chunks,1981,5,1.783
+Beef chunks,1981,6,1.781
+Beef chunks,1981,7,1.764
+Beef chunks,1981,8,1.795
+Beef chunks,1981,9,1.817
+Beef chunks,1981,10,1.798
+Beef chunks,1981,11,1.807
+Beef chunks,1981,12,1.806
+Beef chunks,1982,1,1.794
+Beef chunks,1982,2,1.799
+Beef chunks,1982,3,1.767
+Beef chunks,1982,4,1.769
+Beef chunks,1982,5,1.785
+Beef chunks,1982,6,1.817
+Beef chunks,1982,7,1.786
+Beef chunks,1982,8,1.761
+Beef chunks,1982,9,1.769
+Beef chunks,1982,10,1.754
+Beef chunks,1982,11,1.744
+Beef chunks,1982,12,1.754
+Beef chunks,1983,1,1.756
+Beef chunks,1983,2,1.77
+Beef chunks,1983,3,1.755
+Beef chunks,1983,4,1.773
+Beef chunks,1983,5,1.778
+Beef chunks,1983,6,1.767
+Beef chunks,1983,7,1.721
+Beef chunks,1983,8,1.715
+Beef chunks,1983,9,1.692
+Beef chunks,1983,10,1.686
+Beef chunks,1983,11,1.68
+Beef chunks,1983,12,1.675
+Beef chunks,1984,1,1.721
+Beef chunks,1984,2,1.739
+Beef chunks,1984,3,1.751
+Beef chunks,1984,4,1.75
+Beef chunks,1984,5,1.747
+Beef chunks,1984,6,1.723
+Beef chunks,1984,7,1.692
+Beef chunks,1984,8,1.69
+Beef chunks,1984,9,1.685
+Beef chunks,1984,10,1.694
+Beef chunks,1984,11,1.7
+Beef chunks,1984,12,1.71
+Beef chunks,1985,1,1.711
+Beef chunks,1985,2,1.726
+Beef chunks,1985,3,1.725
+Beef chunks,1985,4,1.716
+Beef chunks,1985,5,1.687
+Beef chunks,1985,6,1.668
+Beef chunks,1985,7,1.651
+Beef chunks,1985,8,1.64
+Beef chunks,1985,9,1.642
+Beef chunks,1985,10,1.617
+Beef chunks,1985,11,1.668
+Beef chunks,1985,12,1.684
+Beef chunks,1986,1,1.662
+Beef chunks,1986,2,1.663
+Beef chunks,1986,3,1.656
+Beef chunks,1986,4,1.627
+Beef chunks,1986,5,1.589
+Beef chunks,1986,6,1.601
+Beef chunks,1986,7,1.613
+Beef chunks,1986,8,1.622
+Beef chunks,1986,9,1.638
+Beef chunks,1986,10,1.65
+Beef chunks,1986,11,1.661
+Beef chunks,1986,12,1.652
+Beef chunks,1987,1,1.694
+Beef chunks,1987,2,1.65
+Beef chunks,1987,3,1.684
+Beef chunks,1987,4,1.696
+Beef chunks,1987,5,1.698
+Beef chunks,1987,6,1.714
+Beef chunks,1987,7,1.71
+Beef chunks,1987,8,1.716
+Beef chunks,1987,9,1.717
+Beef chunks,1987,10,1.711
+Beef chunks,1987,11,1.745
+Beef chunks,1987,12,1.751
+Beef chunks,1988,1,1.736
+Beef chunks,1988,2,1.742
+Beef chunks,1988,3,1.75
+Beef chunks,1988,4,1.745
+Beef chunks,1988,5,1.74
+Beef chunks,1988,6,1.771
+Beef chunks,1988,7,1.753
+Beef chunks,1988,8,1.745
+Beef chunks,1988,9,1.766
+Beef chunks,1988,10,1.781
+Beef chunks,1988,11,1.808
+Beef chunks,1988,12,1.792
+Beef chunks,1989,1,1.806
+Beef chunks,1989,2,1.795
+Beef chunks,1989,3,1.846
+Beef chunks,1989,4,1.817
+Beef chunks,1989,5,1.817
+Beef chunks,1989,6,1.798
+Beef chunks,1989,7,1.807
+Beef chunks,1989,8,1.82
+Beef chunks,1989,9,1.825
+Beef chunks,1989,10,1.839
+Beef chunks,1989,11,1.868
+Beef chunks,1989,12,1.88
+Beef chunks,1990,1,1.907
+Beef chunks,1990,2,1.952
+Beef chunks,1990,3,1.941
+Beef chunks,1990,4,1.969
+Beef chunks,1990,5,1.974
+Beef chunks,1990,6,1.971
+Beef chunks,1990,7,1.953
+Beef chunks,1990,8,1.972
+Beef chunks,1990,9,1.991
+Beef chunks,1990,10,1.968
+Beef chunks,1990,11,1.999
+Beef chunks,1990,12,2.022
+Beef chunks,1991,1,1.996
+Beef chunks,1991,2,1.992
+Beef chunks,1991,3,1.971
+Beef chunks,1991,4,1.98
+Beef chunks,1991,5,1.988
+Beef chunks,1991,6,1.987
+Beef chunks,1991,7,1.96
+Beef chunks,1991,8,1.97
+Beef chunks,1991,9,1.95
+Beef chunks,1991,10,1.942
+Beef chunks,1991,11,1.949
+Beef chunks,1991,12,1.932
+Beef chunks,1992,1,1.926
+Beef chunks,1992,2,1.932
+Beef chunks,1992,3,1.972
+Beef chunks,1992,4,1.949
+Beef chunks,1992,5,1.924
+Beef chunks,1992,6,1.917
+Beef chunks,1992,7,1.857
+Beef chunks,1992,8,1.88
+Beef chunks,1992,9,1.894
+Beef chunks,1992,10,1.896
+Beef chunks,1992,11,1.909
+Beef chunks,1992,12,1.908
+Beef chunks,1993,1,1.97
+Beef chunks,1993,2,1.957
+Beef chunks,1993,3,1.984
+Beef chunks,1993,4,2.0
+Beef chunks,1993,5,1.975
+Beef chunks,1993,6,1.933
+Beef chunks,1993,7,1.945
+Beef chunks,1993,8,1.911
+Beef chunks,1993,9,1.886
+Beef chunks,1993,10,1.913
+Beef chunks,1993,11,1.922
+Beef chunks,1993,12,1.907
+Beef chunks,1994,1,1.892
+Beef chunks,1994,2,1.882
+Beef chunks,1994,3,1.904
+Beef chunks,1994,4,1.872
+Beef chunks,1994,5,1.857
+Beef chunks,1994,6,1.865
+Beef chunks,1994,7,1.797
+Beef chunks,1994,8,1.841
+Beef chunks,1994,9,1.853
+Beef chunks,1994,10,1.857
+Beef chunks,1994,11,1.826
+Beef chunks,1994,12,1.838
+Beef chunks,1995,1,1.847
+Beef chunks,1995,2,1.859
+Beef chunks,1995,3,1.881
+Beef chunks,1995,4,1.839
+Beef chunks,1995,5,1.866
+Beef chunks,1995,6,1.821
+Beef chunks,1995,7,1.798
+Beef chunks,1995,8,1.818
+Beef chunks,1995,9,1.776
+Beef chunks,1995,10,1.853
+Beef chunks,1995,11,1.846
+Beef chunks,1995,12,1.85
+Beef chunks,1996,1,1.799
+Beef chunks,1996,2,1.796
+Beef chunks,1996,3,1.764
+Beef chunks,1996,4,1.808
+Beef chunks,1996,5,1.736
+Beef chunks,1996,6,1.734
+Beef chunks,1996,7,1.803
+Beef chunks,1996,8,1.823
+Beef chunks,1996,9,1.797
+Beef chunks,1996,10,1.844
+Beef chunks,1996,11,1.867
+Beef chunks,1996,12,1.848
+Beef chunks,1997,1,1.85
+Beef chunks,1997,2,1.857
+Beef chunks,1997,3,1.822
+Beef chunks,1997,4,1.831
+Beef chunks,1997,5,1.854
+Beef chunks,1997,6,1.848
+Beef chunks,1997,7,1.802
+Beef chunks,1997,8,1.841
+Beef chunks,1997,9,1.844
+Beef chunks,1997,10,1.847
+Beef chunks,1997,11,1.851
+Beef chunks,1997,12,1.811
+Beef chunks,1998,1,1.818
+Beef chunks,1998,2,1.798
+Beef chunks,1998,3,1.842
+Beef chunks,1998,4,1.841
+Beef chunks,1998,5,1.796
+Beef chunks,1998,6,1.796
+Beef chunks,1998,7,1.768
+Beef chunks,1998,8,1.823
+Beef chunks,1998,9,1.806
+Beef chunks,1998,10,1.809
+Beef chunks,1998,11,1.809
+Beef chunks,1998,12,1.818
+Beef chunks,1999,1,1.834
+Beef chunks,1999,2,1.862
+Beef chunks,1999,3,1.834
+Beef chunks,1999,4,1.833
+Beef chunks,1999,5,1.812
+Beef chunks,1999,6,1.815
+Beef chunks,1999,7,1.81
+Beef chunks,1999,8,1.826
+Beef chunks,1999,9,1.852
+Beef chunks,1999,10,1.866
+Beef chunks,1999,11,1.863
+Beef chunks,1999,12,1.882
+Beef chunks,2000,1,1.903
+Beef chunks,2000,2,1.894
+Beef chunks,2000,3,1.911
+Beef chunks,2000,4,1.925
+Beef chunks,2000,5,1.921
+Beef chunks,2000,6,1.955
+Beef chunks,2000,7,1.954
+Beef chunks,2000,8,1.953
+Beef chunks,2000,9,1.946
+Beef chunks,2000,10,1.959
+Beef chunks,2000,11,1.952
+Beef chunks,2000,12,1.976
+Beef chunks,2001,1,2.037
+Beef chunks,2001,2,2.059
+Beef chunks,2001,3,2.057
+Beef chunks,2001,4,2.052
+Beef chunks,2001,5,2.113
+Beef chunks,2001,6,2.157
+Beef chunks,2001,7,2.114
+Beef chunks,2001,8,2.101
+Beef chunks,2001,9,2.15
+Beef chunks,2001,10,2.132
+Beef chunks,2001,11,2.143
+Beef chunks,2001,12,2.161
+Beef chunks,2002,1,2.152
+Beef chunks,2002,2,2.214
+Beef chunks,2002,3,2.196
+Beef chunks,2002,4,2.097
+Beef chunks,2002,5,2.145
+Beef chunks,2002,6,2.098
+Beef chunks,2002,7,2.138
+Beef chunks,2002,8,2.175
+Beef chunks,2002,9,2.065
+Beef chunks,2002,10,2.116
+Beef chunks,2002,11,2.086
+Beef chunks,2002,12,2.121
+Beef chunks,2003,1,2.131
+Beef chunks,2003,2,2.203
+Beef chunks,2003,3,2.196
+Beef chunks,2003,4,2.206
+Beef chunks,2003,5,2.191
+Beef chunks,2003,6,2.239
+Beef chunks,2003,7,2.194
+Beef chunks,2003,8,2.22
+Beef chunks,2003,9,2.286
+Beef chunks,2003,10,2.35
+Beef chunks,2003,11,2.491
+Beef chunks,2003,12,2.621
+Beef chunks,2004,1,2.585
+Beef chunks,2004,2,2.558
+Beef chunks,2004,3,2.473
+Beef chunks,2004,4,2.486
+Beef chunks,2004,5,2.522
+Beef chunks,2004,6,2.485
+Beef chunks,2004,7,2.462
+Beef chunks,2004,8,2.537
+Beef chunks,2004,9,2.512
+Beef chunks,2004,10,2.484
+Beef chunks,2004,11,2.461
+Beef chunks,2004,12,2.465
+Beef chunks,2005,1,2.478
+Beef chunks,2005,2,2.531
+Beef chunks,2005,3,2.519
+Beef chunks,2005,4,2.504
+Beef chunks,2005,5,2.572
+Beef chunks,2005,6,2.542
+Beef chunks,2005,7,2.541
+Beef chunks,2005,8,2.502
+Beef chunks,2005,9,2.535
+Beef chunks,2005,10,2.564
+Beef chunks,2005,11,2.568
+Beef chunks,2005,12,2.606
+Beef chunks,2006,1,2.607
+Beef chunks,2006,2,2.556
+Beef chunks,2006,3,2.568
+Beef chunks,2006,4,2.599
+Beef chunks,2006,5,2.508
+Beef chunks,2006,6,2.543
+Beef chunks,2006,7,2.459
+Beef chunks,2006,8,2.543
+Beef chunks,2006,9,2.508
+Beef chunks,2006,10,2.542
+Beef chunks,2006,11,2.564
+Beef chunks,2006,12,2.606
+Beef chunks,2007,1,2.63
+Beef chunks,2007,2,2.639
+Beef chunks,2007,3,2.628
+Beef chunks,2007,4,2.676
+Beef chunks,2007,5,2.766
+Beef chunks,2007,6,2.739
+Beef chunks,2007,7,2.734
+Beef chunks,2007,8,2.695
+Beef chunks,2007,9,2.744
+Beef chunks,2007,10,2.705
+Beef chunks,2007,11,2.738
+Beef chunks,2007,12,2.702
+Beef chunks,2008,1,2.725
+Beef chunks,2008,2,2.791
+Beef chunks,2008,3,2.832
+Beef chunks,2008,4,2.829
+Beef chunks,2008,5,2.798
+Beef chunks,2008,6,2.835
+Beef chunks,2008,7,2.785
+Beef chunks,2008,8,2.964
+Beef chunks,2008,9,2.981
+Beef chunks,2008,10,2.956
+Beef chunks,2008,11,2.987
+Beef chunks,2008,12,2.999
+Beef chunks,2009,1,2.961
+Beef chunks,2009,2,3.019
+Beef chunks,2009,3,2.976
+Beef chunks,2009,4,2.994
+Beef chunks,2009,5,2.876
+Beef chunks,2009,6,2.873
+Beef chunks,2009,7,2.8
+Beef chunks,2009,8,2.843
+Beef chunks,2009,9,2.782
+Beef chunks,2009,10,2.785
+Beef chunks,2009,11,2.797
+Beef chunks,2009,12,2.828
+Beef chunks,2010,1,2.825
+Beef chunks,2010,2,2.881
+Beef chunks,2010,3,2.824
+Beef chunks,2010,4,2.89
+Beef chunks,2010,5,2.921
+Beef chunks,2010,6,2.965
+Beef chunks,2010,7,2.936
+Beef chunks,2010,8,2.849
+Beef chunks,2010,9,2.915
+Beef chunks,2010,10,2.978
+Beef chunks,2010,11,2.949
+Beef chunks,2010,12,2.932
+Beef chunks,2011,1,2.991
+Beef chunks,2011,2,3.058
+Beef chunks,2011,3,3.151
+Beef chunks,2011,4,3.25
+Beef chunks,2011,5,3.277
+Beef chunks,2011,6,3.211
+Beef chunks,2011,7,3.272
+Beef chunks,2011,8,3.231
+Beef chunks,2011,9,3.105
+Beef chunks,2011,10,3.218
+Beef chunks,2011,11,3.197
+Beef chunks,2011,12,3.265
+Beef chunks,2012,1,3.292
+Beef chunks,2012,2,3.294
+Beef chunks,2012,3,3.366
+Beef chunks,2012,4,3.327
+Beef chunks,2012,5,3.379
+Beef chunks,2012,6,3.448
+Beef chunks,2012,7,3.449
+Beef chunks,2012,8,3.447
+Beef chunks,2012,9,3.482
+Beef chunks,2012,10,3.514
+Beef chunks,2012,11,3.46
+Beef chunks,2012,12,3.464
+Beef chunks,2013,1,3.406
+Beef chunks,2013,2,3.408
+Beef chunks,2013,3,3.417
+Beef chunks,2013,4,3.479
+Beef chunks,2013,5,3.461
+Beef chunks,2013,6,3.403
+Beef chunks,2013,7,3.423
+Beef chunks,2013,8,3.511
+Beef chunks,2013,9,3.445
+Beef chunks,2013,10,3.492
+Beef chunks,2013,11,3.61
+Beef chunks,2013,12,3.585
+Beef chunks,2014,1,3.586
+Beef chunks,2014,2,3.733
+Beef chunks,2014,3,3.745
+Beef chunks,2014,4,3.886
+Beef chunks,2014,5,3.849
+Beef chunks,2014,6,3.907
+Beef chunks,2014,7,3.917
+Beef chunks,2014,8,4.024
+Beef chunks,2014,9,4.201
+Beef chunks,2014,10,4.294
+Beef chunks,2014,11,4.26
+Beef chunks,2014,12,4.217
+Beef chunks,2015,1,4.375
+Beef chunks,2015,2,4.403
+Beef chunks,2015,3,4.364
+Beef chunks,2015,4,4.323
+Beef chunks,2015,5,4.308
+Beef chunks,2015,6,4.324
+Beef chunks,2015,7,4.266
+Beef chunks,2015,8,4.222
+Beef chunks,2015,9,4.195
+Beef chunks,2015,10,4.119
+Beef chunks,2015,11,4.082
+Beef chunks,2015,12,4.025
+Beef chunks,2016,1,4.019
+Beef chunks,2016,2,3.945
+Beef chunks,2016,3,3.929
+Beef chunks,2016,4,3.933
+Beef chunks,2016,5,3.902
+Beef chunks,2016,6,3.84
+Beef chunks,2016,7,3.807
+Beef chunks,2016,8,3.912
+Beef chunks,2016,9,3.791
+Beef chunks,2016,10,3.742
+Beef chunks,2016,11,3.703
+Beef chunks,2016,12,3.619
+Beef chunks,2017,1,3.621
+Beef chunks,2017,2,3.549
+Beef chunks,2017,3,3.59
+Beef chunks,2017,4,3.675
+Beef chunks,2017,5,3.645
+Beef chunks,2017,6,3.768
+Beef chunks,2017,7,3.866
+Beef chunks,2017,8,3.785
+Beef chunks,2017,9,3.801
+Beef chunks,2017,10,3.703
+Beef chunks,2017,11,3.775
+Beef chunks,2017,12,3.729
+Beef chunks,2018,1,3.668
+Beef chunks,2018,2,3.659
+Beef chunks,2018,3,3.728
+Beef chunks,2018,4,3.775
+Beef chunks,2018,5,3.688
+Beef chunks,2018,6,3.824
+Beef chunks,2018,7,3.786
+Beef chunks,2018,8,3.738
+Beef chunks,2018,9,3.701
+Beef chunks,2018,10,3.692
+Beef chunks,2018,11,3.745
+Beef chunks,2018,12,3.709
+Beef chunks,2019,1,3.727
+Beef chunks,2019,2,3.847
+Beef chunks,2019,3,3.831
+Beef chunks,2019,4,3.907
+Beef chunks,2019,5,4.023
+Beef chunks,2019,6,3.951
+Beef chunks,2019,7,4.001
+Beef chunks,2019,8,4.019
+Beef chunks,2019,9,3.885
+Beef chunks,2019,10,4.027
+Beef chunks,2019,11,3.993
+Beef chunks,2019,12,4.066
+Beef chunks,2020,1,4.1
+Beef chunks,2020,2,4.033
+Beef chunks,2020,3,4.108
+Beef chunks,2020,4,4.343
+Beef chunks,2020,5,4.789
+Beef chunks,2020,6,5.33
+Beef chunks,2020,7,4.732
+Beef chunks,2020,8,4.307
+Beef chunks,2020,9,4.165
+Beef chunks,2020,10,4.212
+Beef chunks,2020,11,4.33
+Beef chunks,2020,12,4.202
+Beef chunks,2021,1,4.31
+Beef chunks,2021,2,4.252
+Beef chunks,2021,3,4.377
+Beef chunks,2021,4,4.29
+Beef chunks,2021,5,4.495
+Beef chunks,2021,6,4.565
+Beef chunks,2021,7,4.521
+Beef chunks,2021,8,4.636
+Beef chunks,2021,9,4.786
+Beef chunks,2021,10,4.869
+Beef chunks,2021,11,4.81
+Beef chunks,2021,12,4.792
+Beef chunks,2022,1,4.765
+Beef chunks,2022,2,4.627
+Beef chunks,2022,3,4.87
+Beef chunks,2022,4,4.945
+Beef chunks,2022,5,4.894
+Beef chunks,2022,6,4.997
+Beef chunks,2022,7,5.075
+Beef chunks,2022,8,5.12
+Beef chunks,2022,9,4.89
+Beef chunks,2022,10,4.789
+Beef chunks,2022,11,4.728
+Beef chunks,2022,12,4.758
+Eggs,1980,1,0.879
+Eggs,1980,2,0.774
+Eggs,1980,3,0.812
+Eggs,1980,4,0.797
+Eggs,1980,5,0.737
+Eggs,1980,6,0.731
+Eggs,1980,7,0.776
+Eggs,1980,8,0.907
+Eggs,1980,9,0.898
+Eggs,1980,10,0.867
+Eggs,1980,11,0.917
+Eggs,1980,12,1.031
+Eggs,1981,1,0.943
+Eggs,1981,2,0.924
+Eggs,1981,3,0.875
+Eggs,1981,4,0.904
+Eggs,1981,5,0.836
+Eggs,1981,6,0.852
+Eggs,1981,7,0.86
+Eggs,1981,8,0.868
+Eggs,1981,9,0.915
+Eggs,1981,10,0.898
+Eggs,1981,11,0.943
+Eggs,1981,12,0.966
+Eggs,1982,1,0.925
+Eggs,1982,2,1.007
+Eggs,1982,3,0.952
+Eggs,1982,4,0.896
+Eggs,1982,5,0.842
+Eggs,1982,6,0.783
+Eggs,1982,7,0.851
+Eggs,1982,8,0.778
+Eggs,1982,9,0.852
+Eggs,1982,10,0.854
+Eggs,1982,11,0.849
+Eggs,1982,12,0.813
+Eggs,1983,1,0.821
+Eggs,1983,2,0.794
+Eggs,1983,3,0.836
+Eggs,1983,4,0.825
+Eggs,1983,5,0.865
+Eggs,1983,6,0.825
+Eggs,1983,7,0.847
+Eggs,1983,8,0.884
+Eggs,1983,9,0.938
+Eggs,1983,10,0.962
+Eggs,1983,11,0.996
+Eggs,1983,12,1.131
+Eggs,1984,1,1.301
+Eggs,1984,2,1.324
+Eggs,1984,3,1.153
+Eggs,1984,4,1.199
+Eggs,1984,5,1.054
+Eggs,1984,6,0.903
+Eggs,1984,7,0.876
+Eggs,1984,8,0.86
+Eggs,1984,9,0.854
+Eggs,1984,10,0.842
+Eggs,1984,11,0.823
+Eggs,1984,12,0.867
+Eggs,1985,1,0.746
+Eggs,1985,2,0.784
+Eggs,1985,3,0.79
+Eggs,1985,4,0.783
+Eggs,1985,5,0.745
+Eggs,1985,6,0.724
+Eggs,1985,7,0.787
+Eggs,1985,8,0.789
+Eggs,1985,9,0.857
+Eggs,1985,10,0.86
+Eggs,1985,11,0.872
+Eggs,1985,12,0.906
+Eggs,1986,1,0.901
+Eggs,1986,2,0.866
+Eggs,1986,3,0.887
+Eggs,1986,4,0.89
+Eggs,1986,5,0.82
+Eggs,1986,6,0.795
+Eggs,1986,7,0.833
+Eggs,1986,8,0.913
+Eggs,1986,9,0.868
+Eggs,1986,10,0.855
+Eggs,1986,11,0.897
+Eggs,1986,12,0.91
+Eggs,1987,1,0.862
+Eggs,1987,2,0.823
+Eggs,1987,3,0.8
+Eggs,1987,4,0.786
+Eggs,1987,5,0.763
+Eggs,1987,6,0.711
+Eggs,1987,7,0.763
+Eggs,1987,8,0.73
+Eggs,1987,9,0.837
+Eggs,1987,10,0.778
+Eggs,1987,11,0.805
+Eggs,1987,12,0.733
+Eggs,1988,1,0.76
+Eggs,1988,2,0.718
+Eggs,1988,3,0.74
+Eggs,1988,4,0.719
+Eggs,1988,5,0.678
+Eggs,1988,6,0.705
+Eggs,1988,7,0.803
+Eggs,1988,8,0.909
+Eggs,1988,9,0.874
+Eggs,1988,10,0.896
+Eggs,1988,11,0.839
+Eggs,1988,12,0.833
+Eggs,1989,1,0.941
+Eggs,1989,2,0.89
+Eggs,1989,3,1.031
+Eggs,1989,4,0.997
+Eggs,1989,5,0.956
+Eggs,1989,6,0.937
+Eggs,1989,7,0.961
+Eggs,1989,8,0.983
+Eggs,1989,9,1.038
+Eggs,1989,10,1.023
+Eggs,1989,11,1.08
+Eggs,1989,12,1.137
+Eggs,1990,1,1.223
+Eggs,1990,2,1.041
+Eggs,1990,3,1.111
+Eggs,1990,4,1.092
+Eggs,1990,5,0.94
+Eggs,1990,6,0.93
+Eggs,1990,7,0.899
+Eggs,1990,8,0.954
+Eggs,1990,9,0.946
+Eggs,1990,10,1.012
+Eggs,1990,11,1.018
+Eggs,1990,12,1.001
+Eggs,1991,1,1.106
+Eggs,1991,2,0.987
+Eggs,1991,3,1.069
+Eggs,1991,4,1.002
+Eggs,1991,5,0.908
+Eggs,1991,6,0.884
+Eggs,1991,7,0.966
+Eggs,1991,8,1.024
+Eggs,1991,9,0.987
+Eggs,1991,10,0.976
+Eggs,1991,11,0.95
+Eggs,1991,12,1.012
+Eggs,1992,1,0.933
+Eggs,1992,2,0.881
+Eggs,1992,3,0.85
+Eggs,1992,4,0.829
+Eggs,1992,5,0.836
+Eggs,1992,6,0.801
+Eggs,1992,7,0.827
+Eggs,1992,8,0.809
+Eggs,1992,9,0.873
+Eggs,1992,10,0.858
+Eggs,1992,11,0.897
+Eggs,1992,12,0.928
+Eggs,1993,1,0.898
+Eggs,1993,2,0.895
+Eggs,1993,3,0.927
+Eggs,1993,4,0.997
+Eggs,1993,5,0.895
+Eggs,1993,6,0.921
+Eggs,1993,7,0.9
+Eggs,1993,8,0.929
+Eggs,1993,9,0.89
+Eggs,1993,10,0.897
+Eggs,1993,11,0.917
+Eggs,1993,12,0.871
+Eggs,1994,1,0.917
+Eggs,1994,2,0.903
+Eggs,1994,3,0.926
+Eggs,1994,4,0.861
+Eggs,1994,5,0.801
+Eggs,1994,6,0.841
+Eggs,1994,7,0.815
+Eggs,1994,8,0.895
+Eggs,1994,9,0.855
+Eggs,1994,10,0.81
+Eggs,1994,11,0.857
+Eggs,1994,12,0.873
+Eggs,1995,1,0.882
+Eggs,1995,2,0.863
+Eggs,1995,3,0.875
+Eggs,1995,4,0.833
+Eggs,1995,5,0.819
+Eggs,1995,6,0.825
+Eggs,1995,7,0.879
+Eggs,1995,8,0.984
+Eggs,1995,9,0.956
+Eggs,1995,10,0.981
+Eggs,1995,11,1.037
+Eggs,1995,12,1.16
+Eggs,1996,1,1.155
+Eggs,1996,2,1.091
+Eggs,1996,3,1.138
+Eggs,1996,4,1.086
+Eggs,1996,5,1.021
+Eggs,1996,6,0.945
+Eggs,1996,7,1.042
+Eggs,1996,8,1.072
+Eggs,1996,9,1.15
+Eggs,1996,10,1.129
+Eggs,1996,11,1.139
+Eggs,1996,12,1.308
+Eggs,1997,1,1.148
+Eggs,1997,2,1.132
+Eggs,1997,3,1.056
+Eggs,1997,4,1.081
+Eggs,1997,5,1.002
+Eggs,1997,6,0.952
+Eggs,1997,7,0.979
+Eggs,1997,8,1.061
+Eggs,1997,9,1.009
+Eggs,1997,10,1.018
+Eggs,1997,11,1.09
+Eggs,1997,12,1.172
+Eggs,1998,1,1.12
+Eggs,1998,2,1.073
+Eggs,1998,3,1.043
+Eggs,1998,4,1.061
+Eggs,1998,5,0.96
+Eggs,1998,6,0.932
+Eggs,1998,7,0.971
+Eggs,1998,8,1.053
+Eggs,1998,9,1.022
+Eggs,1998,10,1.048
+Eggs,1998,11,1.077
+Eggs,1998,12,1.089
+Eggs,1999,1,1.053
+Eggs,1999,2,1.078
+Eggs,1999,3,1.005
+Eggs,1999,4,0.942
+Eggs,1999,5,0.9
+Eggs,1999,6,0.949
+Eggs,1999,7,0.88
+Eggs,1999,8,1.02
+Eggs,1999,9,0.956
+Eggs,1999,10,0.888
+Eggs,1999,11,0.92
+Eggs,1999,12,0.92
+Eggs,2000,1,0.975
+Eggs,2000,2,0.962
+Eggs,2000,3,0.931
+Eggs,2000,4,0.939
+Eggs,2000,5,0.852
+Eggs,2000,6,0.838
+Eggs,2000,7,0.868
+Eggs,2000,8,0.893
+Eggs,2000,9,0.92
+Eggs,2000,10,0.923
+Eggs,2000,11,0.902
+Eggs,2000,12,0.959
+Eggs,2001,1,1.011
+Eggs,2001,2,0.943
+Eggs,2001,3,0.886
+Eggs,2001,4,1.028
+Eggs,2001,5,0.881
+Eggs,2001,6,0.92
+Eggs,2001,7,0.862
+Eggs,2001,8,0.929
+Eggs,2001,9,0.916
+Eggs,2001,10,0.916
+Eggs,2001,11,0.935
+Eggs,2001,12,0.925
+Eggs,2002,1,0.973
+Eggs,2002,2,0.996
+Eggs,2002,3,1.003
+Eggs,2002,4,1.047
+Eggs,2002,5,0.997
+Eggs,2002,6,0.975
+Eggs,2002,7,0.99
+Eggs,2002,8,1.053
+Eggs,2002,9,1.055
+Eggs,2002,10,1.039
+Eggs,2002,11,1.08
+Eggs,2002,12,1.176
+Eggs,2003,1,1.175
+Eggs,2003,2,1.189
+Eggs,2003,3,1.209
+Eggs,2003,4,1.131
+Eggs,2003,5,1.009
+Eggs,2003,6,1.199
+Eggs,2003,7,1.15
+Eggs,2003,8,1.277
+Eggs,2003,9,1.257
+Eggs,2003,10,1.33
+Eggs,2003,11,1.448
+Eggs,2003,12,1.559
+Eggs,2004,1,1.573
+Eggs,2004,2,1.583
+Eggs,2004,3,1.625
+Eggs,2004,4,1.562
+Eggs,2004,5,1.372
+Eggs,2004,6,1.311
+Eggs,2004,7,1.253
+Eggs,2004,8,1.277
+Eggs,2004,9,1.145
+Eggs,2004,10,1.089
+Eggs,2004,11,1.085
+Eggs,2004,12,1.199
+Eggs,2005,1,1.211
+Eggs,2005,2,1.284
+Eggs,2005,3,1.132
+Eggs,2005,4,1.164
+Eggs,2005,5,1.185
+Eggs,2005,6,1.139
+Eggs,2005,7,1.165
+Eggs,2005,8,1.166
+Eggs,2005,9,1.279
+Eggs,2005,10,1.264
+Eggs,2005,11,1.279
+Eggs,2005,12,1.35
+Eggs,2006,1,1.449
+Eggs,2006,2,1.328
+Eggs,2006,3,1.302
+Eggs,2006,4,1.283
+Eggs,2006,5,1.206
+Eggs,2006,6,1.242
+Eggs,2006,7,1.213
+Eggs,2006,8,1.244
+Eggs,2006,9,1.254
+Eggs,2006,10,1.257
+Eggs,2006,11,1.354
+Eggs,2006,12,1.543
+Eggs,2007,1,1.549
+Eggs,2007,2,1.746
+Eggs,2007,3,1.634
+Eggs,2007,4,1.616
+Eggs,2007,5,1.504
+Eggs,2007,6,1.373
+Eggs,2007,7,1.502
+Eggs,2007,8,1.634
+Eggs,2007,9,1.825
+Eggs,2007,10,1.771
+Eggs,2007,11,1.862
+Eggs,2007,12,2.099
+Eggs,2008,1,2.175
+Eggs,2008,2,2.168
+Eggs,2008,3,2.203
+Eggs,2008,4,2.069
+Eggs,2008,5,1.93
+Eggs,2008,6,1.92
+Eggs,2008,7,2.011
+Eggs,2008,8,1.854
+Eggs,2008,9,1.978
+Eggs,2008,10,1.858
+Eggs,2008,11,1.838
+Eggs,2008,12,1.834
+Eggs,2009,1,1.85
+Eggs,2009,2,1.795
+Eggs,2009,3,1.693
+Eggs,2009,4,1.774
+Eggs,2009,5,1.501
+Eggs,2009,6,1.529
+Eggs,2009,7,1.495
+Eggs,2009,8,1.632
+Eggs,2009,9,1.627
+Eggs,2009,10,1.595
+Eggs,2009,11,1.705
+Eggs,2009,12,1.772
+Eggs,2010,1,1.789
+Eggs,2010,2,1.872
+Eggs,2010,3,1.822
+Eggs,2010,4,1.779
+Eggs,2010,5,1.523
+Eggs,2010,6,1.494
+Eggs,2010,7,1.441
+Eggs,2010,8,1.519
+Eggs,2010,9,1.753
+Eggs,2010,10,1.456
+Eggs,2010,11,1.675
+Eggs,2010,12,1.793
+Eggs,2011,1,1.806
+Eggs,2011,2,1.708
+Eggs,2011,3,1.732
+Eggs,2011,4,1.727
+Eggs,2011,5,1.692
+Eggs,2011,6,1.683
+Eggs,2011,7,1.647
+Eggs,2011,8,1.711
+Eggs,2011,9,1.947
+Eggs,2011,10,1.871
+Eggs,2011,11,1.836
+Eggs,2011,12,1.874
+Eggs,2012,1,1.939
+Eggs,2012,2,1.798
+Eggs,2012,3,1.774
+Eggs,2012,4,1.829
+Eggs,2012,5,1.691
+Eggs,2012,6,1.67
+Eggs,2012,7,1.648
+Eggs,2012,8,1.884
+Eggs,2012,9,1.889
+Eggs,2012,10,1.96
+Eggs,2012,11,1.963
+Eggs,2012,12,2.007
+Eggs,2013,1,1.933
+Eggs,2013,2,1.965
+Eggs,2013,3,1.925
+Eggs,2013,4,1.918
+Eggs,2013,5,1.87
+Eggs,2013,6,1.859
+Eggs,2013,7,1.833
+Eggs,2013,8,1.838
+Eggs,2013,9,1.897
+Eggs,2013,10,1.925
+Eggs,2013,11,1.925
+Eggs,2013,12,2.026
+Eggs,2014,1,2.008
+Eggs,2014,2,1.998
+Eggs,2014,3,2.061
+Eggs,2014,4,2.119
+Eggs,2014,5,1.996
+Eggs,2014,6,1.948
+Eggs,2014,7,1.95
+Eggs,2014,8,1.979
+Eggs,2014,9,1.97
+Eggs,2014,10,1.951
+Eggs,2014,11,2.032
+Eggs,2014,12,2.21
+Eggs,2015,1,2.113
+Eggs,2015,2,2.088
+Eggs,2015,3,2.133
+Eggs,2015,4,2.065
+Eggs,2015,5,1.962
+Eggs,2015,6,2.57
+Eggs,2015,7,2.57
+Eggs,2015,8,2.943
+Eggs,2015,9,2.966
+Eggs,2015,10,2.808
+Eggs,2015,11,2.664
+Eggs,2015,12,2.751
+Eggs,2016,1,2.328
+Eggs,2016,2,2.267
+Eggs,2016,3,2.081
+Eggs,2016,4,1.793
+Eggs,2016,5,1.684
+Eggs,2016,6,1.491
+Eggs,2016,7,1.546
+Eggs,2016,8,1.455
+Eggs,2016,9,1.471
+Eggs,2016,10,1.39
+Eggs,2016,11,1.321
+Eggs,2016,12,1.383
+Eggs,2017,1,1.599
+Eggs,2017,2,1.464
+Eggs,2017,3,1.404
+Eggs,2017,4,1.409
+Eggs,2017,5,1.414
+Eggs,2017,6,1.332
+Eggs,2017,7,1.333
+Eggs,2017,8,1.367
+Eggs,2017,9,1.422
+Eggs,2017,10,1.54
+Eggs,2017,11,1.506
+Eggs,2017,12,1.815
+Eggs,2018,1,1.769
+Eggs,2018,2,1.755
+Eggs,2018,3,1.831
+Eggs,2018,4,2.081
+Eggs,2018,5,1.987
+Eggs,2018,6,1.628
+Eggs,2018,7,1.725
+Eggs,2018,8,1.622
+Eggs,2018,9,1.651
+Eggs,2018,10,1.66
+Eggs,2018,11,1.596
+Eggs,2018,12,1.595
+Eggs,2019,1,1.554
+Eggs,2019,2,1.557
+Eggs,2019,3,1.544
+Eggs,2019,4,1.463
+Eggs,2019,5,1.362
+Eggs,2019,6,1.203
+Eggs,2019,7,1.243
+Eggs,2019,8,1.219
+Eggs,2019,9,1.383
+Eggs,2019,10,1.282
+Eggs,2019,11,1.405
+Eggs,2019,12,1.535
+Eggs,2020,1,1.461
+Eggs,2020,2,1.449
+Eggs,2020,3,1.525
+Eggs,2020,4,2.019
+Eggs,2020,5,1.64
+Eggs,2020,6,1.554
+Eggs,2020,7,1.401
+Eggs,2020,8,1.328
+Eggs,2020,9,1.353
+Eggs,2020,10,1.408
+Eggs,2020,11,1.45
+Eggs,2020,12,1.481
+Eggs,2021,1,1.466
+Eggs,2021,2,1.597
+Eggs,2021,3,1.625
+Eggs,2021,4,1.62
+Eggs,2021,5,1.625
+Eggs,2021,6,1.642
+Eggs,2021,7,1.642
+Eggs,2021,8,1.709
+Eggs,2021,9,1.835
+Eggs,2021,10,1.821
+Eggs,2021,11,1.718
+Eggs,2021,12,1.788
+Eggs,2022,1,1.929
+Eggs,2022,2,2.005
+Eggs,2022,3,2.046
+Eggs,2022,4,2.52
+Eggs,2022,5,2.863
+Eggs,2022,6,2.707
+Eggs,2022,7,2.936
+Eggs,2022,8,3.116
+Eggs,2022,9,2.902
+Eggs,2022,10,3.419
+Eggs,2022,11,3.589
+Eggs,2022,12,4.25
+Strawberries,1980,4,0.653
+Strawberries,1980,5,0.608
+Strawberries,1980,6,0.66
+Strawberries,1981,3,0.886
+Strawberries,1981,4,0.69
+Strawberries,1981,5,0.637
+Strawberries,1981,6,0.696
+Strawberries,1981,7,0.77
+Strawberries,1982,3,1.016
+Strawberries,1982,4,0.914
+Strawberries,1982,5,0.73
+Strawberries,1982,6,0.778
+Strawberries,1982,7,0.775
+Strawberries,1983,4,0.728
+Strawberries,1983,5,0.708
+Strawberries,1983,6,0.752
+Strawberries,1983,7,0.863
+Strawberries,1984,3,0.912
+Strawberries,1984,4,0.663
+Strawberries,1984,5,0.648
+Strawberries,1984,6,0.78
+Strawberries,1984,7,0.827
+Strawberries,1984,8,0.943
+Strawberries,1985,3,1.016
+Strawberries,1985,4,0.809
+Strawberries,1985,5,0.646
+Strawberries,1985,6,0.774
+Strawberries,1985,7,0.913
+Strawberries,1986,3,0.637
+Strawberries,1986,4,0.797
+Strawberries,1986,5,0.718
+Strawberries,1986,6,0.84
+Strawberries,1986,7,0.899
+Strawberries,1986,8,1.081
+Strawberries,1987,4,0.937
+Strawberries,1987,5,0.824
+Strawberries,1987,6,0.955
+Strawberries,1987,7,1.071
+Strawberries,1987,8,1.029
+Strawberries,1988,3,1.181
+Strawberries,1988,4,0.693
+Strawberries,1988,5,0.919
+Strawberries,1988,6,0.937
+Strawberries,1988,7,1.059
+Strawberries,1988,8,0.971
+Strawberries,1988,9,1.216
+Strawberries,1989,3,1.218
+Strawberries,1989,4,0.966
+Strawberries,1989,5,0.831
+Strawberries,1989,6,1.055
+Strawberries,1989,7,1.117
+Strawberries,1989,8,0.986
+Strawberries,1989,9,1.087
+Strawberries,1990,2,1.638
+Strawberries,1990,3,1.338
+Strawberries,1990,4,1.109
+Strawberries,1990,5,0.781
+Strawberries,1990,6,0.987
+Strawberries,1990,7,0.965
+Strawberries,1990,8,1.081
+Strawberries,1990,9,1.21
+Strawberries,1991,2,1.467
+Strawberries,1991,3,1.268
+Strawberries,1991,4,1.112
+Strawberries,1991,5,0.976
+Strawberries,1991,6,0.924
+Strawberries,1991,7,0.948
+Strawberries,1991,8,0.961
+Strawberries,1991,9,1.014
+Strawberries,1991,10,1.035
+Strawberries,1992,2,1.43
+Strawberries,1992,3,1.173
+Strawberries,1992,4,0.96
+Strawberries,1992,5,0.831
+Strawberries,1992,6,1.048
+Strawberries,1992,7,0.988
+Strawberries,1992,8,1.185
+Strawberries,1992,9,1.473
+Strawberries,1992,10,1.19
+Strawberries,1993,2,1.467
+Strawberries,1993,3,1.26
+Strawberries,1993,4,0.908
+Strawberries,1993,5,0.874
+Strawberries,1993,6,1.066
+Strawberries,1993,7,1.013
+Strawberries,1993,8,1.069
+Strawberries,1993,9,1.151
+Strawberries,1993,10,1.261
+Strawberries,1994,2,1.318
+Strawberries,1994,3,1.262
+Strawberries,1994,4,0.91
+Strawberries,1994,5,0.983
+Strawberries,1994,6,1.047
+Strawberries,1994,7,1.085
+Strawberries,1994,8,1.108
+Strawberries,1994,9,1.209
+Strawberries,1994,10,1.286
+Strawberries,1995,2,1.926
+Strawberries,1995,3,1.34
+Strawberries,1995,4,1.001
+Strawberries,1995,5,1.14
+Strawberries,1995,6,1.18
+Strawberries,1995,7,1.209
+Strawberries,1995,8,1.398
+Strawberries,1995,9,1.355
+Strawberries,1995,10,1.316
+Strawberries,1996,1,1.692
+Strawberries,1996,2,1.505
+Strawberries,1996,3,1.236
+Strawberries,1996,4,1.082
+Strawberries,1996,5,0.957
+Strawberries,1996,6,1.226
+Strawberries,1996,7,1.247
+Strawberries,1996,8,1.164
+Strawberries,1996,9,1.42
+Strawberries,1996,10,1.409
+Strawberries,1997,2,1.514
+Strawberries,1997,3,1.317
+Strawberries,1997,4,1.179
+Strawberries,1997,5,1.073
+Strawberries,1997,6,1.213
+Strawberries,1997,7,1.383
+Strawberries,1997,8,1.375
+Strawberries,1997,9,1.488
+Strawberries,1997,11,1.654
+Strawberries,1998,1,2.135
+Strawberries,1998,2,2.08
+Strawberries,1998,3,1.751
+Strawberries,1998,4,1.613
+Strawberries,1998,5,1.386
+Strawberries,1998,6,1.413
+Strawberries,1998,7,1.346
+Strawberries,1998,8,1.454
+Strawberries,1998,9,1.469
+Strawberries,1998,10,1.779
+Strawberries,1999,2,2.102
+Strawberries,1999,3,1.96
+Strawberries,1999,4,1.751
+Strawberries,1999,5,1.419
+Strawberries,1999,6,1.49
+Strawberries,1999,7,1.375
+Strawberries,1999,8,1.557
+Strawberries,1999,9,1.679
+Strawberries,1999,10,1.664
+Strawberries,1999,11,1.948
+Strawberries,2000,1,2.167
+Strawberries,2000,2,1.935
+Strawberries,2000,3,1.825
+Strawberries,2000,4,1.45
+Strawberries,2000,5,1.218
+Strawberries,2000,6,1.187
+Strawberries,2000,7,1.246
+Strawberries,2000,8,1.263
+Strawberries,2000,9,1.416
+Strawberries,2000,10,1.619
+Strawberries,2001,2,2.14
+Strawberries,2001,3,2.01
+Strawberries,2001,4,1.737
+Strawberries,2001,5,1.482
+Strawberries,2001,6,1.465
+Strawberries,2001,7,1.486
+Strawberries,2001,8,1.628
+Strawberries,2001,9,1.916
+Strawberries,2001,10,1.996
+Strawberries,2001,11,2.137
+Strawberries,2001,12,2.526
+Strawberries,2002,1,2.498
+Strawberries,2002,2,2.137
+Strawberries,2002,3,1.941
+Strawberries,2002,4,1.551
+Strawberries,2002,5,1.527
+Strawberries,2002,6,1.552
+Strawberries,2002,7,1.545
+Strawberries,2002,8,1.695
+Strawberries,2002,9,1.873
+Strawberries,2002,10,1.884
+Strawberries,2002,11,2.224
+Strawberries,2003,2,2.153
+Strawberries,2003,3,1.871
+Strawberries,2003,4,1.762
+Strawberries,2003,5,1.678
+Strawberries,2003,6,1.568
+Strawberries,2003,7,1.776
+Strawberries,2003,8,1.84
+Strawberries,2003,9,1.986
+Strawberries,2003,10,2.246
+Strawberries,2003,11,2.41
+Strawberries,2004,1,2.481
+Strawberries,2004,2,2.332
+Strawberries,2004,3,2.124
+Strawberries,2004,4,1.661
+Strawberries,2004,5,1.672
+Strawberries,2004,6,1.847
+Strawberries,2004,7,1.629
+Strawberries,2004,8,1.817
+Strawberries,2004,9,1.843
+Strawberries,2004,10,2.6
+Strawberries,2004,11,3.185
+Strawberries,2004,12,3.602
+Strawberries,2005,1,3.234
+Strawberries,2005,2,2.346
+Strawberries,2005,3,1.877
+Strawberries,2005,4,1.526
+Strawberries,2005,5,1.727
+Strawberries,2005,6,1.763
+Strawberries,2005,7,1.808
+Strawberries,2005,8,1.807
+Strawberries,2005,9,2.146
+Strawberries,2005,10,2.188
+Strawberries,2005,11,2.244
+Strawberries,2005,12,2.666
+Strawberries,2006,1,2.411
+Strawberries,2006,2,1.981
+Strawberries,2006,3,1.817
+Strawberries,2006,4,1.708
+Strawberries,2006,5,1.734
+Strawberries,2006,6,1.65
+Strawberries,2006,7,1.759
+Strawberries,2006,8,1.804
+Strawberries,2006,9,2.019
+Strawberries,2006,10,2.405
+Strawberries,2006,11,2.312
+Strawberries,2006,12,2.899
+Strawberries,2007,1,2.539
+Strawberries,2007,2,2.609
+Strawberries,2007,3,2.289
+Strawberries,2007,4,1.717
+Strawberries,2007,5,1.862
+Strawberries,2007,6,1.781
+Strawberries,2007,7,1.667
+Strawberries,2007,8,1.83
+Strawberries,2007,9,2.004
+Strawberries,2007,10,2.284
+Strawberries,2007,11,2.779
+Strawberries,2007,12,3.069
+Strawberries,2008,1,3.024
+Strawberries,2008,2,2.821
+Strawberries,2008,3,2.073
+Strawberries,2008,4,1.777
+Strawberries,2008,5,1.831
+Strawberries,2008,6,1.908
+Strawberries,2008,7,1.88
+Strawberries,2008,8,2.085
+Strawberries,2008,9,2.177
+Strawberries,2008,10,2.32
+Strawberries,2008,11,2.547
+Strawberries,2008,12,3.009
+Strawberries,2009,1,2.613
+Strawberries,2009,2,2.447
+Strawberries,2009,3,2.07
+Strawberries,2009,4,1.849
+Strawberries,2009,5,1.724
+Strawberries,2009,6,1.695
+Strawberries,2009,7,1.639
+Strawberries,2009,8,1.788
+Strawberries,2009,9,1.887
+Strawberries,2009,10,2.102
+Strawberries,2009,11,2.641
+Strawberries,2009,12,2.721
+Strawberries,2010,1,2.854
+Strawberries,2010,2,2.7
+Strawberries,2010,3,2.194
+Strawberries,2010,4,1.667
+Strawberries,2010,5,1.753
+Strawberries,2010,6,1.734
+Strawberries,2010,7,1.675
+Strawberries,2010,8,1.839
+Strawberries,2010,9,1.896
+Strawberries,2010,10,2.095
+Strawberries,2010,11,2.746
+Strawberries,2010,12,3.073
+Strawberries,2011,1,3.003
+Strawberries,2011,2,2.417
+Strawberries,2011,3,1.994
+Strawberries,2011,4,1.816
+Strawberries,2011,5,1.677
+Strawberries,2011,6,1.613
+Strawberries,2011,7,1.618
+Strawberries,2011,8,1.794
+Strawberries,2011,9,1.983
+Strawberries,2011,10,2.06
+Strawberries,2011,11,2.444
+Strawberries,2011,12,2.485
+Strawberries,2012,1,2.225
+Strawberries,2012,2,2.041
+Strawberries,2012,3,1.893
+Strawberries,2012,4,1.807
+Strawberries,2012,5,1.653
+Strawberries,2012,6,1.706
+Strawberries,2012,7,1.594
+Strawberries,2012,8,1.709
+Strawberries,2012,9,1.936
+Strawberries,2012,10,2.015
+Strawberries,2012,11,2.455
+Strawberries,2012,12,2.876
+Strawberries,2013,1,2.152
+Strawberries,2013,2,1.895
+Strawberries,2013,3,1.991
+Strawberries,2013,4,1.784
+Strawberries,2013,5,1.647
+Strawberries,2013,6,1.686
+Strawberries,2013,7,1.691
+Strawberries,2013,8,1.917
+Strawberries,2013,9,2.132
+Strawberries,2013,11,2.5
+Strawberries,2013,12,2.865
+Strawberries,2014,1,2.639
+Strawberries,2014,2,2.112
+Strawberries,2014,3,1.771
+Strawberries,2014,4,1.713
+Strawberries,2014,5,1.892
+Strawberries,2014,6,1.838
+Strawberries,2014,7,1.868
+Strawberries,2014,8,1.968
+Strawberries,2014,9,2.578
+Strawberries,2014,10,2.677
+Strawberries,2014,11,2.846
+Strawberries,2014,12,3.563
+Strawberries,2015,1,2.454
+Strawberries,2015,2,2.09
+Strawberries,2015,3,1.664
+Strawberries,2015,4,1.852
+Strawberries,2015,5,2.087
+Strawberries,2015,6,1.735
+Strawberries,2015,7,1.798
+Strawberries,2015,8,2.283
+Strawberries,2015,9,2.385
+Strawberries,2015,10,2.523
+Strawberries,2015,12,3.502
+Strawberries,2016,1,2.92
+Strawberries,2016,2,3.149
+Strawberries,2016,3,2.031
+Strawberries,2016,4,2.152
+Strawberries,2016,5,2.252
+Strawberries,2016,6,1.924
+Strawberries,2016,7,1.942
+Strawberries,2016,8,2.169
+Strawberries,2016,9,2.021
+Strawberries,2016,10,2.216
+Strawberries,2016,11,3.165
+Strawberries,2016,12,3.282
+Strawberries,2017,1,2.612
+Strawberries,2017,2,2.367
+Strawberries,2017,3,2.318
+Strawberries,2017,4,2.204
+Strawberries,2017,5,2.06
+Strawberries,2017,6,1.952
+Strawberries,2017,7,2.036
+Strawberries,2017,8,1.979
+Strawberries,2017,9,2.256
+Strawberries,2017,10,2.335
+Strawberries,2017,11,2.863
+Strawberries,2017,12,3.089
+Strawberries,2018,1,2.872
+Strawberries,2018,2,2.492
+Strawberries,2018,3,2.227
+Strawberries,2018,4,2.475
+Strawberries,2018,5,2.079
+Strawberries,2018,6,1.938
+Strawberries,2018,7,2.007
+Strawberries,2018,8,2.004
+Strawberries,2018,9,2.147
+Strawberries,2018,10,2.216
+Strawberries,2018,11,2.502
+Strawberries,2018,12,3.166
+Strawberries,2019,1,3.279
+Strawberries,2019,2,2.872
+Strawberries,2019,3,2.475
+Strawberries,2019,4,2.504
+Strawberries,2019,5,1.972
+Strawberries,2019,6,2.066
+Strawberries,2019,7,2.111
+Strawberries,2019,8,2.01
+Strawberries,2019,9,2.153
+Strawberries,2019,10,2.402
+Strawberries,2019,11,2.604
+Strawberries,2019,12,3.096
+Strawberries,2020,1,2.884
+Strawberries,2020,2,2.558
+Strawberries,2020,3,2.367
+Strawberries,2020,5,2.174
+Strawberries,2020,6,2.02
+Strawberries,2020,7,2.02
+Strawberries,2020,8,2.214
+Strawberries,2020,9,2.234
+Strawberries,2020,10,2.745
+Strawberries,2020,11,2.934
+Strawberries,2020,12,3.29
+Strawberries,2021,1,3.044
+Strawberries,2021,2,2.893
+Strawberries,2021,3,2.7
+Strawberries,2021,4,2.803
+Strawberries,2021,5,2.648
+Strawberries,2021,6,2.318
+Strawberries,2021,7,2.256
+Strawberries,2021,8,2.434
+Strawberries,2021,9,2.454
+Strawberries,2021,10,2.687
+Strawberries,2021,11,3.079
+Strawberries,2022,1,3.106
+Strawberries,2022,2,3.045
+Strawberries,2022,3,2.711
+Strawberries,2022,4,2.777
+Strawberries,2022,5,2.438
+Strawberries,2022,6,2.317
+Strawberries,2022,7,2.208
+Strawberries,2022,8,2.558
+Strawberries,2022,9,2.782
+Strawberries,2022,10,3.108
+Strawberries,2022,11,3.631
+Strawberries,2022,12,3.856
+Bananas,1980,1,0.319
+Bananas,1980,2,0.345
+Bananas,1980,3,0.355
+Bananas,1980,4,0.353
+Bananas,1980,5,0.357
+Bananas,1980,6,0.348
+Bananas,1980,7,0.332
+Bananas,1980,8,0.335
+Bananas,1980,9,0.335
+Bananas,1980,10,0.335
+Bananas,1980,11,0.339
+Bananas,1980,12,0.349
+Bananas,1981,1,0.343
+Bananas,1981,2,0.366
+Bananas,1981,3,0.377
+Bananas,1981,4,0.377
+Bananas,1981,5,0.379
+Bananas,1981,6,0.369
+Bananas,1981,7,0.341
+Bananas,1981,8,0.351
+Bananas,1981,9,0.358
+Bananas,1981,10,0.364
+Bananas,1981,11,0.355
+Bananas,1981,12,0.364
+Bananas,1982,1,0.364
+Bananas,1982,2,0.359
+Bananas,1982,3,0.373
+Bananas,1982,4,0.38
+Bananas,1982,5,0.372
+Bananas,1982,6,0.381
+Bananas,1982,7,0.344
+Bananas,1982,8,0.332
+Bananas,1982,9,0.343
+Bananas,1982,10,0.317
+Bananas,1982,11,0.344
+Bananas,1982,12,0.337
+Bananas,1983,1,0.332
+Bananas,1983,2,0.352
+Bananas,1983,3,0.357
+Bananas,1983,4,0.416
+Bananas,1983,5,0.438
+Bananas,1983,6,0.449
+Bananas,1983,7,0.462
+Bananas,1983,8,0.403
+Bananas,1983,9,0.394
+Bananas,1983,10,0.385
+Bananas,1983,11,0.327
+Bananas,1983,12,0.315
+Bananas,1984,1,0.344
+Bananas,1984,2,0.373
+Bananas,1984,3,0.373
+Bananas,1984,4,0.389
+Bananas,1984,5,0.354
+Bananas,1984,6,0.391
+Bananas,1984,7,0.386
+Bananas,1984,8,0.362
+Bananas,1984,9,0.35
+Bananas,1984,10,0.341
+Bananas,1984,11,0.333
+Bananas,1984,12,0.317
+Bananas,1985,1,0.35
+Bananas,1985,2,0.378
+Bananas,1985,3,0.394
+Bananas,1985,4,0.422
+Bananas,1985,5,0.392
+Bananas,1985,6,0.399
+Bananas,1985,7,0.348
+Bananas,1985,8,0.361
+Bananas,1985,9,0.376
+Bananas,1985,10,0.346
+Bananas,1985,11,0.316
+Bananas,1985,12,0.321
+Bananas,1986,1,0.337
+Bananas,1986,2,0.378
+Bananas,1986,3,0.402
+Bananas,1986,4,0.464
+Bananas,1986,5,0.461
+Bananas,1986,6,0.376
+Bananas,1986,7,0.371
+Bananas,1986,8,0.369
+Bananas,1986,9,0.384
+Bananas,1986,10,0.372
+Bananas,1986,11,0.371
+Bananas,1986,12,0.333
+Bananas,1987,3,0.376
+Bananas,1987,4,0.381
+Bananas,1987,5,0.357
+Bananas,1987,6,0.39
+Bananas,1987,7,0.35
+Bananas,1987,8,0.367
+Bananas,1987,9,0.363
+Bananas,1987,10,0.346
+Bananas,1987,11,0.343
+Bananas,1987,12,0.375
+Bananas,1988,1,0.374
+Bananas,1988,2,0.415
+Bananas,1988,3,0.413
+Bananas,1988,4,0.423
+Bananas,1988,5,0.422
+Bananas,1988,6,0.501
+Bananas,1988,7,0.433
+Bananas,1988,8,0.397
+Bananas,1988,9,0.389
+Bananas,1988,10,0.421
+Bananas,1988,11,0.423
+Bananas,1988,12,0.407
+Bananas,1989,1,0.394
+Bananas,1989,2,0.415
+Bananas,1989,3,0.45
+Bananas,1989,4,0.523
+Bananas,1989,5,0.522
+Bananas,1989,6,0.479
+Bananas,1989,7,0.456
+Bananas,1989,8,0.434
+Bananas,1989,9,0.428
+Bananas,1989,10,0.432
+Bananas,1989,11,0.435
+Bananas,1989,12,0.416
+Bananas,1990,1,0.429
+Bananas,1990,2,0.492
+Bananas,1990,3,0.5
+Bananas,1990,4,0.481
+Bananas,1990,5,0.462
+Bananas,1990,6,0.447
+Bananas,1990,7,0.529
+Bananas,1990,8,0.463
+Bananas,1990,9,0.465
+Bananas,1990,10,0.432
+Bananas,1990,11,0.429
+Bananas,1990,12,0.43
+Bananas,1991,1,0.438
+Bananas,1991,2,0.485
+Bananas,1991,3,0.577
+Bananas,1991,4,0.547
+Bananas,1991,5,0.584
+Bananas,1991,6,0.532
+Bananas,1991,7,0.516
+Bananas,1991,8,0.416
+Bananas,1991,9,0.432
+Bananas,1991,10,0.395
+Bananas,1991,11,0.431
+Bananas,1991,12,0.419
+Bananas,1992,1,0.428
+Bananas,1992,2,0.493
+Bananas,1992,3,0.517
+Bananas,1992,4,0.484
+Bananas,1992,5,0.445
+Bananas,1992,6,0.463
+Bananas,1992,7,0.431
+Bananas,1992,8,0.509
+Bananas,1992,9,0.459
+Bananas,1992,10,0.442
+Bananas,1992,11,0.422
+Bananas,1992,12,0.404
+Bananas,1993,1,0.426
+Bananas,1993,2,0.475
+Bananas,1993,3,0.475
+Bananas,1993,4,0.483
+Bananas,1993,5,0.472
+Bananas,1993,6,0.446
+Bananas,1993,7,0.448
+Bananas,1993,8,0.422
+Bananas,1993,9,0.395
+Bananas,1993,10,0.405
+Bananas,1993,11,0.404
+Bananas,1993,12,0.414
+Bananas,1994,1,0.44
+Bananas,1994,2,0.514
+Bananas,1994,3,0.5
+Bananas,1994,4,0.469
+Bananas,1994,5,0.469
+Bananas,1994,6,0.447
+Bananas,1994,7,0.452
+Bananas,1994,8,0.48
+Bananas,1994,9,0.453
+Bananas,1994,10,0.43
+Bananas,1994,11,0.434
+Bananas,1994,12,0.458
+Bananas,1995,1,0.503
+Bananas,1995,2,0.496
+Bananas,1995,3,0.508
+Bananas,1995,4,0.485
+Bananas,1995,5,0.483
+Bananas,1995,6,0.49
+Bananas,1995,7,0.522
+Bananas,1995,8,0.512
+Bananas,1995,9,0.49
+Bananas,1995,10,0.471
+Bananas,1995,11,0.462
+Bananas,1995,12,0.454
+Bananas,1996,1,0.463
+Bananas,1996,2,0.501
+Bananas,1996,3,0.539
+Bananas,1996,4,0.505
+Bananas,1996,5,0.512
+Bananas,1996,6,0.498
+Bananas,1996,7,0.498
+Bananas,1996,8,0.478
+Bananas,1996,9,0.458
+Bananas,1996,10,0.465
+Bananas,1996,11,0.477
+Bananas,1996,12,0.481
+Bananas,1997,1,0.497
+Bananas,1997,2,0.518
+Bananas,1997,3,0.532
+Bananas,1997,4,0.512
+Bananas,1997,5,0.484
+Bananas,1997,6,0.488
+Bananas,1997,7,0.487
+Bananas,1997,8,0.475
+Bananas,1997,9,0.458
+Bananas,1997,10,0.459
+Bananas,1997,11,0.468
+Bananas,1997,12,0.461
+Bananas,1998,1,0.473
+Bananas,1998,2,0.489
+Bananas,1998,3,0.475
+Bananas,1998,4,0.511
+Bananas,1998,5,0.51
+Bananas,1998,6,0.507
+Bananas,1998,7,0.53
+Bananas,1998,8,0.489
+Bananas,1998,9,0.476
+Bananas,1998,10,0.47
+Bananas,1998,11,0.487
+Bananas,1998,12,0.51
+Bananas,1999,1,0.489
+Bananas,1999,2,0.509
+Bananas,1999,3,0.506
+Bananas,1999,4,0.482
+Bananas,1999,5,0.492
+Bananas,1999,6,0.502
+Bananas,1999,7,0.494
+Bananas,1999,8,0.49
+Bananas,1999,9,0.481
+Bananas,1999,10,0.471
+Bananas,1999,11,0.48
+Bananas,1999,12,0.494
+Bananas,2000,1,0.49
+Bananas,2000,2,0.528
+Bananas,2000,3,0.517
+Bananas,2000,4,0.51
+Bananas,2000,5,0.509
+Bananas,2000,6,0.506
+Bananas,2000,7,0.512
+Bananas,2000,8,0.49
+Bananas,2000,9,0.488
+Bananas,2000,10,0.496
+Bananas,2000,11,0.479
+Bananas,2000,12,0.487
+Bananas,2001,1,0.5
+Bananas,2001,2,0.496
+Bananas,2001,3,0.51
+Bananas,2001,4,0.492
+Bananas,2001,5,0.509
+Bananas,2001,6,0.506
+Bananas,2001,7,0.523
+Bananas,2001,8,0.519
+Bananas,2001,9,0.508
+Bananas,2001,10,0.503
+Bananas,2001,11,0.509
+Bananas,2001,12,0.505
+Bananas,2002,1,0.509
+Bananas,2002,2,0.504
+Bananas,2002,3,0.519
+Bananas,2002,4,0.504
+Bananas,2002,5,0.515
+Bananas,2002,6,0.512
+Bananas,2002,7,0.517
+Bananas,2002,8,0.499
+Bananas,2002,9,0.498
+Bananas,2002,10,0.504
+Bananas,2002,11,0.505
+Bananas,2002,12,0.504
+Bananas,2003,1,0.526
+Bananas,2003,2,0.508
+Bananas,2003,3,0.513
+Bananas,2003,4,0.517
+Bananas,2003,5,0.505
+Bananas,2003,6,0.521
+Bananas,2003,7,0.514
+Bananas,2003,8,0.514
+Bananas,2003,9,0.494
+Bananas,2003,10,0.49
+Bananas,2003,11,0.498
+Bananas,2003,12,0.504
+Bananas,2004,1,0.512
+Bananas,2004,2,0.504
+Bananas,2004,3,0.5
+Bananas,2004,4,0.505
+Bananas,2004,5,0.491
+Bananas,2004,6,0.498
+Bananas,2004,7,0.51
+Bananas,2004,8,0.507
+Bananas,2004,9,0.488
+Bananas,2004,10,0.485
+Bananas,2004,11,0.469
+Bananas,2004,12,0.474
+Bananas,2005,1,0.485
+Bananas,2005,2,0.502
+Bananas,2005,3,0.507
+Bananas,2005,4,0.503
+Bananas,2005,5,0.497
+Bananas,2005,6,0.493
+Bananas,2005,7,0.494
+Bananas,2005,8,0.487
+Bananas,2005,9,0.485
+Bananas,2005,10,0.491
+Bananas,2005,11,0.48
+Bananas,2005,12,0.482
+Bananas,2006,1,0.49
+Bananas,2006,2,0.508
+Bananas,2006,3,0.508
+Bananas,2006,4,0.508
+Bananas,2006,5,0.514
+Bananas,2006,6,0.511
+Bananas,2006,7,0.508
+Bananas,2006,8,0.492
+Bananas,2006,9,0.479
+Bananas,2006,10,0.489
+Bananas,2006,11,0.498
+Bananas,2006,12,0.499
+Bananas,2007,1,0.505
+Bananas,2007,2,0.507
+Bananas,2007,3,0.51
+Bananas,2007,4,0.517
+Bananas,2007,5,0.503
+Bananas,2007,6,0.512
+Bananas,2007,7,0.509
+Bananas,2007,8,0.506
+Bananas,2007,9,0.505
+Bananas,2007,10,0.508
+Bananas,2007,11,0.515
+Bananas,2007,12,0.525
+Bananas,2008,1,0.521
+Bananas,2008,2,0.54
+Bananas,2008,3,0.597
+Bananas,2008,4,0.627
+Bananas,2008,5,0.63
+Bananas,2008,6,0.633
+Bananas,2008,7,0.627
+Bananas,2008,8,0.634
+Bananas,2008,9,0.631
+Bananas,2008,10,0.629
+Bananas,2008,11,0.626
+Bananas,2008,12,0.617
+Bananas,2009,1,0.629
+Bananas,2009,2,0.641
+Bananas,2009,3,0.634
+Bananas,2009,4,0.629
+Bananas,2009,5,0.622
+Bananas,2009,6,0.617
+Bananas,2009,7,0.616
+Bananas,2009,8,0.611
+Bananas,2009,9,0.605
+Bananas,2009,10,0.598
+Bananas,2009,11,0.561
+Bananas,2009,12,0.571
+Bananas,2010,1,0.586
+Bananas,2010,2,0.587
+Bananas,2010,3,0.575
+Bananas,2010,4,0.58
+Bananas,2010,5,0.571
+Bananas,2010,6,0.577
+Bananas,2010,7,0.583
+Bananas,2010,8,0.576
+Bananas,2010,9,0.573
+Bananas,2010,10,0.58
+Bananas,2010,11,0.581
+Bananas,2010,12,0.587
+Bananas,2011,1,0.596
+Bananas,2011,2,0.625
+Bananas,2011,3,0.621
+Bananas,2011,4,0.621
+Bananas,2011,5,0.617
+Bananas,2011,6,0.614
+Bananas,2011,7,0.611
+Bananas,2011,8,0.606
+Bananas,2011,9,0.607
+Bananas,2011,10,0.607
+Bananas,2011,11,0.598
+Bananas,2011,12,0.599
+Bananas,2012,1,0.604
+Bananas,2012,2,0.603
+Bananas,2012,3,0.607
+Bananas,2012,4,0.603
+Bananas,2012,5,0.599
+Bananas,2012,6,0.605
+Bananas,2012,7,0.604
+Bananas,2012,8,0.595
+Bananas,2012,9,0.597
+Bananas,2012,10,0.602
+Bananas,2012,11,0.6
+Bananas,2012,12,0.606
+Bananas,2013,1,0.609
+Bananas,2013,2,0.611
+Bananas,2013,3,0.609
+Bananas,2013,4,0.597
+Bananas,2013,5,0.603
+Bananas,2013,6,0.603
+Bananas,2013,7,0.602
+Bananas,2013,8,0.595
+Bananas,2013,9,0.601
+Bananas,2013,10,0.586
+Bananas,2013,11,0.587
+Bananas,2013,12,0.592
+Bananas,2014,1,0.595
+Bananas,2014,2,0.599
+Bananas,2014,3,0.597
+Bananas,2014,4,0.597
+Bananas,2014,5,0.603
+Bananas,2014,6,0.607
+Bananas,2014,7,0.606
+Bananas,2014,8,0.608
+Bananas,2014,9,0.606
+Bananas,2014,10,0.582
+Bananas,2014,11,0.592
+Bananas,2014,12,0.585
+Bananas,2015,1,0.583
+Bananas,2015,2,0.591
+Bananas,2015,3,0.593
+Bananas,2015,4,0.597
+Bananas,2015,5,0.582
+Bananas,2015,6,0.574
+Bananas,2015,7,0.581
+Bananas,2015,8,0.58
+Bananas,2015,9,0.58
+Bananas,2015,10,0.577
+Bananas,2015,11,0.575
+Bananas,2015,12,0.58
+Bananas,2016,1,0.581
+Bananas,2016,2,0.573
+Bananas,2016,3,0.586
+Bananas,2016,4,0.574
+Bananas,2016,5,0.57
+Bananas,2016,6,0.569
+Bananas,2016,7,0.567
+Bananas,2016,8,0.562
+Bananas,2016,9,0.575
+Bananas,2016,10,0.57
+Bananas,2016,11,0.573
+Bananas,2016,12,0.576
+Bananas,2017,1,0.573
+Bananas,2017,2,0.573
+Bananas,2017,3,0.571
+Bananas,2017,4,0.571
+Bananas,2017,5,0.564
+Bananas,2017,6,0.572
+Bananas,2017,7,0.565
+Bananas,2017,8,0.561
+Bananas,2017,9,0.544
+Bananas,2017,10,0.548
+Bananas,2017,11,0.551
+Bananas,2017,12,0.558
+Bananas,2018,1,0.568
+Bananas,2018,2,0.574
+Bananas,2018,3,0.582
+Bananas,2018,4,0.578
+Bananas,2018,5,0.575
+Bananas,2018,6,0.575
+Bananas,2018,7,0.575
+Bananas,2018,8,0.569
+Bananas,2018,9,0.573
+Bananas,2018,10,0.574
+Bananas,2018,11,0.566
+Bananas,2018,12,0.577
+Bananas,2019,1,0.576
+Bananas,2019,2,0.571
+Bananas,2019,3,0.581
+Bananas,2019,4,0.567
+Bananas,2019,5,0.579
+Bananas,2019,6,0.574
+Bananas,2019,7,0.569
+Bananas,2019,8,0.578
+Bananas,2019,9,0.569
+Bananas,2019,10,0.573
+Bananas,2019,11,0.573
+Bananas,2019,12,0.573
+Bananas,2020,1,0.57
+Bananas,2020,2,0.574
+Bananas,2020,3,0.576
+Bananas,2020,4,0.581
+Bananas,2020,5,0.589
+Bananas,2020,6,0.588
+Bananas,2020,7,0.58
+Bananas,2020,8,0.576
+Bananas,2020,9,0.574
+Bananas,2020,10,0.577
+Bananas,2020,11,0.578
+Bananas,2020,12,0.572
+Bananas,2021,1,0.597
+Bananas,2021,2,0.59
+Bananas,2021,3,0.594
+Bananas,2021,4,0.604
+Bananas,2021,5,0.6
+Bananas,2021,6,0.595
+Bananas,2021,7,0.594
+Bananas,2021,8,0.589
+Bananas,2021,9,0.597
+Bananas,2021,10,0.6
+Bananas,2021,11,0.619
+Bananas,2021,12,0.622
+Bananas,2022,1,0.63
+Bananas,2022,2,0.628
+Bananas,2022,3,0.642
+Bananas,2022,4,0.637
+Bananas,2022,5,0.642
+Bananas,2022,6,0.64
+Bananas,2022,7,0.64
+Bananas,2022,8,0.643
+Bananas,2022,9,0.643
+Bananas,2022,10,0.634
+Bananas,2022,11,0.631
+Bananas,2022,12,0.628
+Cheddar cheese,1984,1,3.048
+Cheddar cheese,1984,2,3.036
+Cheddar cheese,1984,3,3.044
+Cheddar cheese,1984,4,3.03
+Cheddar cheese,1984,5,3.026
+Cheddar cheese,1984,6,3.058
+Cheddar cheese,1984,7,3.095
+Cheddar cheese,1984,8,3.068
+Cheddar cheese,1984,9,3.067
+Cheddar cheese,1984,10,3.088
+Cheddar cheese,1984,11,3.103
+Cheddar cheese,1984,12,3.12
+Cheddar cheese,1985,1,3.101
+Cheddar cheese,1985,2,3.093
+Cheddar cheese,1985,3,3.055
+Cheddar cheese,1985,4,3.06
+Cheddar cheese,1985,5,3.1
+Cheddar cheese,1985,6,3.078
+Cheddar cheese,1985,7,3.108
+Cheddar cheese,1985,8,3.126
+Cheddar cheese,1985,9,3.113
+Cheddar cheese,1985,10,3.109
+Cheddar cheese,1985,11,3.113
+Cheddar cheese,1985,12,3.066
+Cheddar cheese,1986,1,3.061
+Cheddar cheese,1986,2,3.037
+Cheddar cheese,1986,3,3.051
+Cheddar cheese,1986,4,3.041
+Cheddar cheese,1986,5,3.044
+Cheddar cheese,1986,6,3.004
+Cheddar cheese,1986,7,3.036
+Cheddar cheese,1986,8,3.056
+Cheddar cheese,1986,9,3.074
+Cheddar cheese,1986,10,3.062
+Cheddar cheese,1986,11,3.057
+Cheddar cheese,1986,12,3.066
+Cheddar cheese,1987,1,3.032
+Cheddar cheese,1987,2,3.034
+Cheddar cheese,1987,3,3.044
+Cheddar cheese,1987,4,3.046
+Cheddar cheese,1987,5,3.065
+Cheddar cheese,1987,6,3.047
+Cheddar cheese,1987,7,3.034
+Cheddar cheese,1987,8,3.083
+Cheddar cheese,1987,9,3.059
+Cheddar cheese,1987,10,3.052
+Cheddar cheese,1987,11,3.071
+Cheddar cheese,1987,12,3.1
+Cheddar cheese,1988,1,3.126
+Cheddar cheese,1988,2,3.155
+Cheddar cheese,1988,3,3.138
+Cheddar cheese,1988,4,3.159
+Cheddar cheese,1988,5,3.197
+Cheddar cheese,1988,6,3.158
+Cheddar cheese,1988,7,3.143
+Cheddar cheese,1988,8,3.122
+Cheddar cheese,1988,9,3.175
+Cheddar cheese,1988,10,3.197
+Cheddar cheese,1988,11,3.201
+Cheddar cheese,1988,12,3.208
+Cheddar cheese,1989,1,3.213
+Cheddar cheese,1989,2,3.206
+Cheddar cheese,1989,5,3.145
+Cheddar cheese,1989,6,3.159
+Cheddar cheese,1989,7,3.129
+Cheddar cheese,1989,8,3.161
+Cheddar cheese,1989,9,3.194
+Cheddar cheese,1989,10,3.281
+Cheddar cheese,1989,11,3.344
+Cheddar cheese,1991,1,3.588
+Cheddar cheese,1991,2,3.604
+Cheddar cheese,1991,3,3.548
+Cheddar cheese,1991,4,3.514
+Cheddar cheese,1991,5,3.479
+Cheddar cheese,1991,6,3.528
+Cheddar cheese,1991,7,3.597
+Cheddar cheese,1991,8,3.586
+Cheddar cheese,1991,9,3.597
+Cheddar cheese,1991,10,3.519
+Cheddar cheese,1991,11,3.521
+Cheddar cheese,1991,12,3.534
+Cheddar cheese,1992,1,3.659
+Cheddar cheese,1992,2,3.634
+Cheddar cheese,1992,3,3.612
+Cheddar cheese,1992,4,3.582
+Cheddar cheese,1992,5,3.561
+Cheddar cheese,1992,6,3.588
+Cheddar cheese,1992,7,3.579
+Cheddar cheese,1992,8,3.57
+Cheddar cheese,1992,9,3.565
+Cheddar cheese,1992,10,3.611
+Cheddar cheese,1992,11,3.481
+Cheddar cheese,1992,12,3.395
+Cheddar cheese,1993,1,3.369
+Cheddar cheese,1993,2,3.321
+Cheddar cheese,1993,3,3.35
+Cheddar cheese,1993,4,3.299
+Cheddar cheese,1993,5,3.323
+Cheddar cheese,1993,6,3.331
+Cheddar cheese,1993,7,3.356
+Cheddar cheese,1993,8,3.343
+Cheddar cheese,1993,9,3.336
+Cheddar cheese,1993,10,3.322
+Cheddar cheese,1993,11,3.395
+Cheddar cheese,1993,12,3.361
+Cheddar cheese,1994,1,3.35
+Cheddar cheese,1994,2,3.365
+Cheddar cheese,1994,3,3.409
+Cheddar cheese,1994,4,3.4
+Cheddar cheese,1994,5,3.265
+Cheddar cheese,1994,6,3.28
+Cheddar cheese,1994,7,3.328
+Cheddar cheese,1994,8,3.381
+Cheddar cheese,1994,9,3.39
+Cheddar cheese,1994,10,3.332
+Cheddar cheese,1994,11,3.386
+Cheddar cheese,1994,12,3.322
+Cheddar cheese,1995,1,3.411
+Cheddar cheese,1995,2,3.39
+Cheddar cheese,1995,3,3.348
+Cheddar cheese,1995,4,3.381
+Cheddar cheese,1995,5,3.459
+Cheddar cheese,1995,6,3.343
+Cheddar cheese,1995,7,3.418
+Cheddar cheese,1995,8,3.434
+Cheddar cheese,1995,9,3.347
+Cheddar cheese,1995,10,3.402
+Cheddar cheese,1995,11,3.34
+Cheddar cheese,1995,12,3.39
+Cheddar cheese,1996,1,3.383
+Cheddar cheese,1996,2,3.403
+Cheddar cheese,1996,3,3.332
+Cheddar cheese,1996,4,3.436
+Cheddar cheese,1996,5,3.399
+Cheddar cheese,1996,6,3.374
+Cheddar cheese,1996,7,2.919
+Cheddar cheese,1996,8,2.932
+Cheddar cheese,1996,9,3.062
+Cheddar cheese,1996,10,3.068
+Cheddar cheese,1996,11,3.584
+Cheddar cheese,1996,12,3.085
+Cheddar cheese,1997,1,3.102
+Cheddar cheese,1997,2,3.5
+Cheddar cheese,1997,3,3.07
+Cheddar cheese,1997,4,3.119
+Cheddar cheese,1997,5,3.114
+Cheddar cheese,1997,6,3.137
+Cheddar cheese,1997,7,3.422
+Cheddar cheese,1997,8,3.068
+Cheddar cheese,1997,9,3.126
+Cheddar cheese,1997,10,3.128
+Cheddar cheese,1997,11,3.392
+Cheddar cheese,1997,12,3.458
+Cheddar cheese,1998,1,3.518
+Cheddar cheese,1998,2,3.507
+Cheddar cheese,1998,3,3.477
+Cheddar cheese,1998,4,3.499
+Cheddar cheese,1998,5,3.448
+Cheddar cheese,1998,6,3.432
+Cheddar cheese,1998,7,3.44
+Cheddar cheese,1998,8,3.575
+Cheddar cheese,1998,9,3.587
+Cheddar cheese,1998,10,3.671
+Cheddar cheese,1998,11,3.657
+Cheddar cheese,1998,12,3.759
+Cheddar cheese,1999,1,3.748
+Cheddar cheese,1999,2,3.746
+Cheddar cheese,1999,3,3.714
+Cheddar cheese,1999,4,3.694
+Cheddar cheese,1999,5,3.721
+Cheddar cheese,1999,6,3.672
+Cheddar cheese,1999,7,3.603
+Cheddar cheese,1999,8,3.763
+Cheddar cheese,1999,9,3.806
+Cheddar cheese,1999,10,4.007
+Cheddar cheese,1999,11,3.918
+Cheddar cheese,1999,12,3.845
+Cheddar cheese,2000,1,3.839
+Cheddar cheese,2000,2,3.821
+Cheddar cheese,2000,3,3.81
+Cheddar cheese,2000,4,3.79
+Cheddar cheese,2000,5,3.74
+Cheddar cheese,2000,6,3.758
+Cheddar cheese,2000,7,3.823
+Cheddar cheese,2000,8,3.947
+Cheddar cheese,2000,9,3.876
+Cheddar cheese,2000,10,3.93
+Cheddar cheese,2000,11,3.862
+Cheddar cheese,2000,12,3.763
+Cheddar cheese,2001,1,3.871
+Cheddar cheese,2001,2,3.862
+Cheddar cheese,2001,3,3.846
+Cheddar cheese,2001,4,3.883
+Cheddar cheese,2001,5,3.964
+Cheddar cheese,2001,6,3.968
+Cheddar cheese,2001,7,4.064
+Cheddar cheese,2001,8,4.1
+Cheddar cheese,2001,9,4.143
+Cheddar cheese,2001,10,4.216
+Cheddar cheese,2001,11,4.241
+Cheddar cheese,2001,12,4.165
+Cheddar cheese,2002,1,4.229
+Cheddar cheese,2002,2,4.18
+Cheddar cheese,2002,3,4.162
+Cheddar cheese,2002,4,4.107
+Cheddar cheese,2002,5,4.203
+Cheddar cheese,2002,6,4.311
+Cheddar cheese,2002,7,4.292
+Cheddar cheese,2002,8,4.345
+Cheddar cheese,2002,9,4.381
+Cheddar cheese,2002,10,4.16
+Cheddar cheese,2002,11,4.14
+Cheddar cheese,2002,12,4.107
+Cheddar cheese,2003,1,4.101
+Cheddar cheese,2003,2,4.02
+Cheddar cheese,2003,3,4.049
+Cheddar cheese,2003,4,3.96
+Cheddar cheese,2003,5,3.806
+Cheddar cheese,2003,6,3.796
+Cheddar cheese,2003,7,3.736
+Cheddar cheese,2003,8,3.845
+Cheddar cheese,2003,9,3.9
+Cheddar cheese,2003,10,4.016
+Cheddar cheese,2003,11,4.085
+Cheddar cheese,2003,12,4.067
+Cheddar cheese,2004,1,4.046
+Cheddar cheese,2004,2,3.973
+Cheddar cheese,2004,3,4.079
+Cheddar cheese,2004,4,4.134
+Cheddar cheese,2004,5,4.406
+Cheddar cheese,2004,6,4.55
+Cheddar cheese,2004,7,4.559
+Cheddar cheese,2004,8,4.495
+Cheddar cheese,2004,9,4.459
+Cheddar cheese,2004,10,4.311
+Cheddar cheese,2004,11,4.164
+Cheddar cheese,2004,12,4.099
+Cheddar cheese,2005,1,4.21
+Cheddar cheese,2005,2,4.382
+Cheddar cheese,2005,3,4.354
+Cheddar cheese,2005,4,4.449
+Cheddar cheese,2005,5,4.414
+Cheddar cheese,2005,6,4.44
+Cheddar cheese,2005,7,4.377
+Cheddar cheese,2005,8,4.384
+Cheddar cheese,2005,9,4.321
+Cheddar cheese,2005,10,4.385
+Cheddar cheese,2005,11,4.429
+Cheddar cheese,2005,12,4.433
+Cheddar cheese,2006,1,4.443
+Cheddar cheese,2006,2,4.314
+Cheddar cheese,2006,3,4.365
+Cheddar cheese,2006,4,4.379
+Cheddar cheese,2006,5,4.284
+Cheddar cheese,2006,6,4.234
+Cheddar cheese,2006,7,4.315
+Cheddar cheese,2006,8,4.261
+Cheddar cheese,2006,9,4.215
+Cheddar cheese,2006,10,4.245
+Cheddar cheese,2006,11,3.988
+Cheddar cheese,2006,12,4.015
+Cheddar cheese,2007,1,4.059
+Cheddar cheese,2007,2,4.013
+Cheddar cheese,2007,3,4.082
+Cheddar cheese,2007,4,4.032
+Cheddar cheese,2007,5,3.976
+Cheddar cheese,2007,6,3.981
+Cheddar cheese,2007,7,4.292
+Cheddar cheese,2007,8,4.411
+Cheddar cheese,2007,9,4.479
+Cheddar cheese,2007,10,4.521
+Cheddar cheese,2007,11,4.468
+Cheddar cheese,2007,12,4.445
+Cheddar cheese,2008,1,4.623
+Cheddar cheese,2008,2,4.611
+Cheddar cheese,2008,3,4.572
+Cheddar cheese,2008,4,4.592
+Cheddar cheese,2008,5,4.397
+Cheddar cheese,2008,6,4.54
+Cheddar cheese,2008,7,4.705
+Cheddar cheese,2008,8,4.827
+Cheddar cheese,2008,9,4.815
+Cheddar cheese,2008,10,4.973
+Cheddar cheese,2008,11,5.097
+Cheddar cheese,2008,12,4.952
+Cheddar cheese,2009,1,5.014
+Cheddar cheese,2009,2,4.922
+Cheddar cheese,2009,3,4.758
+Cheddar cheese,2009,4,4.759
+Cheddar cheese,2009,5,4.605
+Cheddar cheese,2009,6,4.723
+Cheddar cheese,2009,7,4.56
+Cheddar cheese,2009,8,4.552
+Cheddar cheese,2009,9,4.61
+Cheddar cheese,2009,10,4.545
+Cheddar cheese,2009,11,4.425
+Cheddar cheese,2009,12,4.552
+Cheddar cheese,2010,1,4.72
+Cheddar cheese,2010,2,4.608
+Cheddar cheese,2010,3,4.708
+Cheddar cheese,2010,4,4.647
+Cheddar cheese,2010,5,4.713
+Cheddar cheese,2010,6,4.525
+Cheddar cheese,2010,7,4.631
+Cheddar cheese,2010,8,4.65
+Cheddar cheese,2010,9,4.726
+Cheddar cheese,2010,10,4.651
+Cheddar cheese,2010,11,5.005
+Cheddar cheese,2010,12,4.933
+Cheddar cheese,2011,1,5.143
+Cheddar cheese,2011,2,5.023
+Cheddar cheese,2011,3,5.065
+Cheddar cheese,2011,4,5.204
+Cheddar cheese,2011,5,5.435
+Cheddar cheese,2011,6,5.443
+Cheddar cheese,2011,7,5.596
+Cheddar cheese,2011,8,5.647
+Cheddar cheese,2011,9,5.707
+Cheddar cheese,2011,10,5.702
+Cheddar cheese,2011,11,5.63
+Cheddar cheese,2011,12,5.43
+Cheddar cheese,2012,1,5.717
+Cheddar cheese,2012,2,5.598
+Cheddar cheese,2012,3,5.659
+Cheddar cheese,2012,4,5.628
+Cheddar cheese,2012,5,5.568
+Cheddar cheese,2012,6,5.475
+Cheddar cheese,2012,7,5.457
+Cheddar cheese,2012,8,5.493
+Cheddar cheese,2012,9,5.575
+Cheddar cheese,2012,10,5.635
+Cheddar cheese,2012,11,5.833
+Cheddar cheese,2012,12,5.867
+Cheddar cheese,2013,1,5.832
+Cheddar cheese,2013,2,5.936
+Cheddar cheese,2013,3,5.736
+Cheddar cheese,2013,4,5.635
+Cheddar cheese,2013,5,5.559
+Cheddar cheese,2013,6,5.493
+Cheddar cheese,2013,7,5.434
+Cheddar cheese,2013,8,5.465
+Cheddar cheese,2013,9,5.433
+Cheddar cheese,2013,10,5.39
+Cheddar cheese,2013,11,5.391
+Cheddar cheese,2013,12,5.386
+Cheddar cheese,2014,1,5.381
+Cheddar cheese,2014,2,5.543
+Cheddar cheese,2014,3,5.579
+Cheddar cheese,2014,4,5.733
+Cheddar cheese,2014,5,5.586
+Cheddar cheese,2014,6,5.56
+Cheddar cheese,2014,7,5.56
+Cheddar cheese,2014,8,5.58
+Cheddar cheese,2014,9,5.565
+Cheddar cheese,2014,10,5.568
+Cheddar cheese,2014,11,5.419
+Cheddar cheese,2014,12,5.438
+Cheddar cheese,2015,1,5.401
+Cheddar cheese,2015,2,5.48
+Cheddar cheese,2015,3,5.384
+Cheddar cheese,2015,4,5.384
+Cheddar cheese,2015,5,5.312
+Cheddar cheese,2015,6,5.256
+Cheddar cheese,2015,7,5.376
+Cheddar cheese,2015,8,5.336
+Cheddar cheese,2015,9,5.382
+Cheddar cheese,2015,10,5.478
+Cheddar cheese,2015,11,5.433
+Cheddar cheese,2015,12,5.328
+Cheddar cheese,2016,1,5.411
+Cheddar cheese,2016,2,5.369
+Cheddar cheese,2016,3,5.364
+Cheddar cheese,2016,4,5.399
+Cheddar cheese,2016,5,5.365
+Cheddar cheese,2016,6,5.269
+Cheddar cheese,2016,7,5.184
+Cheddar cheese,2016,8,5.272
+Cheddar cheese,2016,9,5.023
+Cheddar cheese,2016,10,5.352
+Cheddar cheese,2016,11,4.914
+Cheddar cheese,2016,12,4.895
+Cheddar cheese,2017,1,4.933
+Cheddar cheese,2017,2,4.967
+Cheddar cheese,2017,3,4.799
+Cheddar cheese,2017,4,4.794
+Cheddar cheese,2017,5,4.748
+Cheddar cheese,2017,6,4.797
+Cheddar cheese,2017,7,4.851
+Cheddar cheese,2017,8,4.862
+Cheddar cheese,2017,9,5.01
+Cheddar cheese,2017,10,5.028
+Cheddar cheese,2017,11,5.006
+Cheddar cheese,2017,12,4.95
+Cheddar cheese,2018,1,5.021
+Cheddar cheese,2018,2,5.082
+Cheddar cheese,2018,3,5.064
+Cheddar cheese,2018,4,5.03
+Cheddar cheese,2018,5,5.131
+Cheddar cheese,2018,6,5.234
+Cheddar cheese,2018,7,5.065
+Cheddar cheese,2018,8,5.118
+Cheddar cheese,2018,9,5.128
+Cheddar cheese,2018,10,5.158
+Cheddar cheese,2018,11,5.229
+Cheddar cheese,2018,12,5.36
+Cheddar cheese,2019,1,5.372
+Cheddar cheese,2019,2,5.247
+Cheddar cheese,2019,3,5.193
+Cheddar cheese,2019,4,5.29
+Cheddar cheese,2019,5,5.327
+Cheddar cheese,2019,6,5.254
+Cheddar cheese,2019,7,5.349
+Cheddar cheese,2019,8,5.367
+Cheddar cheese,2019,9,5.406
+Cheddar cheese,2019,10,5.277
+Cheddar cheese,2019,11,5.309
+Cheddar cheese,2019,12,5.302
+Cheddar cheese,2020,1,5.204
+Cheddar cheese,2020,2,5.381
+Cheddar cheese,2020,3,5.329
+Cheddar cheese,2020,4,5.453
+Cheddar cheese,2020,5,5.558
+Cheddar cheese,2020,6,5.619
+Cheddar cheese,2020,7,5.517
+Cheddar cheese,2020,8,5.572
+Cheddar cheese,2020,9,5.611
+Cheddar cheese,2020,10,5.583
+Cheddar cheese,2020,11,5.589
+Cheddar cheese,2020,12,5.54
+Cheddar cheese,2021,1,5.656
+Cheddar cheese,2021,2,5.6
+Cheddar cheese,2021,3,5.682
+Cheddar cheese,2021,4,5.441
+Cheddar cheese,2021,5,5.421
+Cheddar cheese,2021,6,5.386
+Cheddar cheese,2021,7,5.392
+Cheddar cheese,2021,8,5.336
+Cheddar cheese,2021,9,5.387
+Cheddar cheese,2021,10,5.396
+Cheddar cheese,2021,11,5.326
+Cheddar cheese,2021,12,5.257
+Cheddar cheese,2022,1,5.315
+Cheddar cheese,2022,2,5.447
+Cheddar cheese,2022,3,5.486
+Cheddar cheese,2022,4,5.656
+Cheddar cheese,2022,5,5.645
+Cheddar cheese,2022,6,5.777
+Cheddar cheese,2022,7,5.855
+Cheddar cheese,2022,8,5.995
+Cheddar cheese,2022,9,6.084
+Cheddar cheese,2022,10,5.96
+Cheddar cheese,2022,11,5.933
+Cheddar cheese,2022,12,5.995
+American Cheese,1984,1,2.485
+American Cheese,1984,2,2.495
+American Cheese,1984,3,2.493
+American Cheese,1984,4,2.501
+American Cheese,1984,5,2.472
+American Cheese,1984,6,2.502
+American Cheese,1984,7,2.478
+American Cheese,1984,8,2.503
+American Cheese,1984,9,2.521
+American Cheese,1984,10,2.536
+American Cheese,1984,11,2.548
+American Cheese,1984,12,2.534
+American Cheese,1985,1,2.547
+American Cheese,1985,2,2.511
+American Cheese,1985,3,2.544
+American Cheese,1985,4,2.525
+American Cheese,1985,5,2.539
+American Cheese,1985,6,2.503
+American Cheese,1985,7,2.531
+American Cheese,1985,8,2.509
+American Cheese,1985,9,2.531
+American Cheese,1985,10,2.528
+American Cheese,1985,11,2.566
+American Cheese,1985,12,2.554
+American Cheese,1986,1,2.607
+American Cheese,1986,2,2.615
+American Cheese,1986,3,2.59
+American Cheese,1986,4,2.59
+American Cheese,1986,5,2.539
+American Cheese,1986,6,2.579
+American Cheese,1986,7,2.598
+American Cheese,1986,8,2.594
+American Cheese,1986,9,2.586
+American Cheese,1986,10,2.608
+American Cheese,1986,11,2.642
+American Cheese,1986,12,2.673
+American Cheese,1987,1,2.688
+American Cheese,1987,3,2.691
+American Cheese,1987,4,2.66
+American Cheese,1987,5,2.663
+American Cheese,1987,6,2.694
+American Cheese,1987,7,2.693
+American Cheese,1987,8,2.716
+American Cheese,1987,9,2.708
+American Cheese,1987,10,2.702
+American Cheese,1987,11,2.685
+American Cheese,1987,12,2.677
+American Cheese,1988,1,2.675
+American Cheese,1988,2,2.718
+American Cheese,1988,3,2.724
+American Cheese,1988,4,2.709
+American Cheese,1988,5,2.721
+American Cheese,1988,6,2.749
+American Cheese,1988,7,2.777
+American Cheese,1988,8,2.801
+American Cheese,1988,9,2.807
+American Cheese,1988,10,2.873
+American Cheese,1988,11,2.894
+American Cheese,1988,12,2.864
+American Cheese,1989,1,2.876
+American Cheese,1989,2,2.929
+American Cheese,1989,3,2.959
+American Cheese,1989,4,2.961
+American Cheese,1989,5,2.923
+American Cheese,1989,6,2.93
+American Cheese,1991,1,3.492
+American Cheese,1991,2,3.442
+American Cheese,1991,3,3.46
+American Cheese,1991,4,3.434
+American Cheese,1991,5,3.398
+American Cheese,1991,6,3.378
+American Cheese,1991,7,3.383
+American Cheese,1991,8,3.379
+American Cheese,1991,9,3.449
+American Cheese,1991,10,3.471
+American Cheese,1991,11,3.462
+American Cheese,1991,12,3.487
+American Cheese,1992,1,3.409
+American Cheese,1992,2,3.452
+American Cheese,1992,3,3.3
+American Cheese,1992,4,3.385
+American Cheese,1992,5,3.267
+American Cheese,1992,6,3.337
+American Cheese,1992,7,3.312
+American Cheese,1992,8,3.295
+American Cheese,1992,9,3.327
+American Cheese,1992,10,3.371
+American Cheese,1992,11,3.262
+American Cheese,1992,12,3.098
+American Cheese,1993,1,3.146
+American Cheese,1993,2,3.162
+American Cheese,1993,3,3.142
+American Cheese,1993,4,3.157
+American Cheese,1993,5,3.151
+American Cheese,1993,6,3.137
+American Cheese,1993,7,3.088
+American Cheese,1993,8,3.093
+American Cheese,1993,9,3.013
+American Cheese,1993,10,3.05
+American Cheese,1993,11,3.0
+American Cheese,1993,12,2.994
+American Cheese,1994,1,3.049
+American Cheese,1994,2,3.087
+American Cheese,1994,3,3.125
+American Cheese,1994,4,3.061
+American Cheese,1994,5,3.114
+American Cheese,1994,6,3.027
+American Cheese,1994,7,3.063
+American Cheese,1994,8,3.096
+American Cheese,1994,9,3.048
+American Cheese,1994,10,2.997
+American Cheese,1994,11,3.051
+American Cheese,1994,12,3.115
+American Cheese,1995,1,3.116
+American Cheese,1995,2,3.08
+American Cheese,1995,3,3.0
+American Cheese,1995,4,3.03
+American Cheese,1995,5,3.108
+American Cheese,1995,6,3.045
+American Cheese,1995,7,3.078
+American Cheese,1995,8,2.985
+American Cheese,1995,9,3.029
+American Cheese,1995,10,3.081
+American Cheese,1995,11,3.084
+American Cheese,1995,12,3.15
+American Cheese,1996,1,3.107
+American Cheese,1996,2,3.227
+American Cheese,1996,3,3.149
+American Cheese,1996,4,3.182
+American Cheese,1996,5,3.211
+American Cheese,1996,6,3.304
+American Cheese,1996,7,3.228
+American Cheese,1996,8,3.363
+American Cheese,1996,9,3.511
+American Cheese,1996,10,3.499
+American Cheese,1996,11,3.651
+American Cheese,1996,12,3.592
+American Cheese,1997,1,3.536
+American Cheese,1997,2,3.471
+American Cheese,1997,3,3.514
+American Cheese,1997,4,3.534
+American Cheese,1997,5,3.528
+American Cheese,1997,6,3.4
+American Cheese,1997,7,3.342
+American Cheese,1997,8,3.352
+American Cheese,1997,9,3.359
+American Cheese,1997,10,3.419
+American Cheese,1997,11,3.497
+American Cheese,1997,12,3.439
+American Cheese,1998,1,3.539
+American Cheese,1998,2,3.475
+American Cheese,1998,3,3.572
+American Cheese,1998,4,3.535
+American Cheese,1998,5,3.539
+American Cheese,1998,6,3.516
+American Cheese,1998,7,3.636
+American Cheese,1998,8,3.479
+American Cheese,1998,9,3.617
+American Cheese,1998,10,3.63
+American Cheese,1998,11,3.803
+American Cheese,1998,12,3.738
+American Cheese,1999,1,3.814
+American Cheese,1999,2,3.723
+American Cheese,1999,3,3.878
+American Cheese,1999,4,3.748
+American Cheese,1999,5,3.806
+American Cheese,1999,6,3.779
+American Cheese,1999,7,3.736
+American Cheese,1999,8,3.866
+American Cheese,1999,9,3.884
+American Cheese,1999,10,3.858
+American Cheese,1999,11,3.789
+American Cheese,1999,12,3.85
+American Cheese,2000,1,3.843
+American Cheese,2000,2,3.731
+American Cheese,2000,3,3.845
+American Cheese,2000,4,3.747
+American Cheese,2000,5,3.692
+American Cheese,2000,6,3.622
+American Cheese,2000,7,3.628
+American Cheese,2000,8,3.649
+American Cheese,2000,9,3.65
+American Cheese,2000,10,3.64
+American Cheese,2000,11,3.639
+American Cheese,2000,12,3.693
+American Cheese,2001,1,3.674
+American Cheese,2001,2,3.693
+American Cheese,2001,3,3.723
+American Cheese,2001,4,3.738
+American Cheese,2001,5,3.862
+American Cheese,2001,6,3.949
+American Cheese,2001,7,3.928
+American Cheese,2001,8,3.918
+American Cheese,2001,9,3.984
+American Cheese,2001,10,4.023
+American Cheese,2001,11,3.971
+American Cheese,2001,12,3.994
+American Cheese,2002,1,3.937
+American Cheese,2002,2,3.869
+American Cheese,2002,3,3.885
+American Cheese,2002,4,3.93
+American Cheese,2002,5,3.868
+American Cheese,2002,6,3.856
+American Cheese,2002,7,3.783
+American Cheese,2002,8,3.895
+American Cheese,2002,9,3.841
+American Cheese,2002,10,3.92
+American Cheese,2002,11,3.941
+American Cheese,2002,12,3.842
+American Cheese,2003,1,3.713
+American Cheese,2003,2,3.844
+American Cheese,2003,3,3.814
+American Cheese,2003,4,3.76
+American Cheese,2003,5,3.589
+American Cheese,2003,6,3.769
+American Cheese,2003,7,3.688
+American Cheese,2003,8,3.815
+American Cheese,2003,9,3.803
+American Cheese,2003,10,3.714
+American Cheese,2003,11,3.905
+American Cheese,2003,12,3.843
+American Cheese,2004,1,3.813
+American Cheese,2004,2,3.937
+American Cheese,2004,3,3.895
+American Cheese,2004,4,3.848
+American Cheese,2004,5,4.052
+American Cheese,2004,6,4.09
+American Cheese,2004,7,4.077
+American Cheese,2004,8,4.113
+American Cheese,2004,9,4.03
+American Cheese,2004,10,4.032
+American Cheese,2004,11,3.988
+American Cheese,2004,12,3.937
+American Cheese,2005,1,3.876
+American Cheese,2005,2,3.873
+American Cheese,2005,3,3.843
+American Cheese,2005,4,3.84
+American Cheese,2005,5,3.776
+American Cheese,2005,6,3.829
+American Cheese,2005,7,3.895
+American Cheese,2005,8,3.926
+American Cheese,2005,9,3.948
+American Cheese,2005,10,3.903
+American Cheese,2005,11,3.945
+American Cheese,2005,12,3.915
+American Cheese,2006,1,3.938
+American Cheese,2006,2,3.886
+American Cheese,2006,3,3.836
+American Cheese,2006,4,3.814
+American Cheese,2006,5,3.701
+American Cheese,2006,6,3.526
+American Cheese,2006,7,3.581
+American Cheese,2006,8,3.654
+American Cheese,2006,9,3.756
+American Cheese,2006,10,3.63
+American Cheese,2006,11,3.712
+American Cheese,2006,12,3.605
+American Cheese,2007,1,3.771
+American Cheese,2007,2,3.705
+American Cheese,2007,3,3.769
+American Cheese,2007,4,3.73
+American Cheese,2007,5,3.739
+American Cheese,2007,6,3.629
+American Cheese,2007,7,3.757
+American Cheese,2007,8,3.972
+American Cheese,2007,9,4.051
+American Cheese,2007,10,4.158
+American Cheese,2007,11,3.884
+American Cheese,2007,12,3.905
+American Cheese,2008,1,3.994
+American Cheese,2008,2,4.059
+American Cheese,2008,3,4.008
+American Cheese,2008,4,3.876
+American Cheese,2008,5,3.938
+American Cheese,2008,6,3.929
+American Cheese,2008,7,4.182
+American Cheese,2008,8,4.188
+American Cheese,2008,9,4.089
+American Cheese,2008,10,4.021
+American Cheese,2008,11,4.08
+American Cheese,2008,12,4.141
+American Cheese,2009,1,4.124
+American Cheese,2009,2,4.049
+American Cheese,2009,3,3.885
+American Cheese,2009,4,3.776
+American Cheese,2009,5,3.92
+American Cheese,2009,6,3.9
+American Cheese,2009,7,3.881
+American Cheese,2009,8,3.902
+American Cheese,2009,9,3.82
+American Cheese,2009,10,3.881
+American Cheese,2009,11,3.838
+American Cheese,2009,12,3.858
+American Cheese,2010,1,3.875
+American Cheese,2010,2,3.943
+American Cheese,2010,3,3.914
+American Cheese,2010,4,3.939
+American Cheese,2010,5,3.912
+American Cheese,2010,6,4.074
+American Cheese,2010,7,3.956
+American Cheese,2010,8,3.811
+American Cheese,2010,9,3.864
+American Cheese,2010,10,4.004
+American Cheese,2010,11,3.836
+American Cheese,2010,12,3.797
+American Cheese,2011,1,3.758
+American Cheese,2011,2,3.734
+American Cheese,2011,3,3.828
+American Cheese,2011,4,3.891
+American Cheese,2011,5,4.052
+American Cheese,2011,6,3.922
+American Cheese,2011,7,4.093
+American Cheese,2011,8,4.204
+American Cheese,2011,9,4.281
+American Cheese,2011,10,4.36
+American Cheese,2011,11,4.367
+American Cheese,2011,12,4.303
+American Cheese,2012,1,4.396
+American Cheese,2012,2,4.262
+American Cheese,2012,3,4.316
+American Cheese,2012,4,4.252
+American Cheese,2012,5,4.218
+American Cheese,2012,6,4.03
+American Cheese,2012,7,4.052
+American Cheese,2012,8,4.085
+American Cheese,2012,9,4.127
+American Cheese,2012,10,4.093
+American Cheese,2012,11,4.188
+American Cheese,2012,12,4.237
+American Cheese,2013,1,4.258
+American Cheese,2013,2,4.238
+American Cheese,2013,3,4.207
+American Cheese,2013,4,4.131
+American Cheese,2013,5,4.065
+American Cheese,2013,6,4.085
+American Cheese,2013,7,4.092
+American Cheese,2013,8,4.135
+American Cheese,2013,9,4.137
+American Cheese,2013,10,4.088
+American Cheese,2013,11,4.317
+American Cheese,2013,12,4.345
+American Cheese,2014,1,4.286
+American Cheese,2014,2,4.286
+American Cheese,2014,3,4.46
+American Cheese,2014,4,4.535
+American Cheese,2014,5,4.515
+American Cheese,2014,6,4.412
+American Cheese,2014,7,4.426
+American Cheese,2014,8,4.482
+American Cheese,2014,9,4.45
+American Cheese,2014,10,4.487
+American Cheese,2014,11,4.87
+American Cheese,2014,12,4.713
+American Cheese,2015,1,4.944
+American Cheese,2015,2,4.598
+American Cheese,2015,3,4.558
+American Cheese,2015,4,4.543
+American Cheese,2015,5,4.417
+American Cheese,2015,6,4.265
+American Cheese,2015,7,4.352
+American Cheese,2015,8,4.346
+American Cheese,2015,9,4.439
+American Cheese,2015,10,4.331
+American Cheese,2015,11,4.333
+American Cheese,2015,12,4.345
+American Cheese,2016,1,4.374
+American Cheese,2016,2,4.436
+American Cheese,2016,3,4.462
+American Cheese,2016,4,4.434
+American Cheese,2016,5,4.325
+American Cheese,2016,6,4.31
+American Cheese,2016,7,4.373
+American Cheese,2016,8,4.273
+American Cheese,2016,9,4.396
+American Cheese,2016,10,4.484
+American Cheese,2016,11,4.322
+American Cheese,2016,12,4.214
+American Cheese,2017,1,4.322
+American Cheese,2017,2,4.293
+American Cheese,2017,3,4.271
+American Cheese,2017,4,4.352
+American Cheese,2017,5,4.393
+American Cheese,2017,6,4.306
+American Cheese,2017,7,4.282
+American Cheese,2017,8,4.241
+American Cheese,2017,9,4.203
+American Cheese,2017,10,4.089
+American Cheese,2017,11,4.091
+American Cheese,2017,12,4.13
+American Cheese,2018,1,4.015
+American Cheese,2018,2,4.064
+American Cheese,2018,3,4.105
+American Cheese,2018,4,4.034
+American Cheese,2018,5,4.025
+American Cheese,2018,6,3.956
+American Cheese,2018,7,3.958
+American Cheese,2018,8,3.946
+American Cheese,2018,9,4.04
+American Cheese,2018,10,3.994
+American Cheese,2018,12,3.944
+American Cheese,2019,1,3.922
+American Cheese,2019,2,3.863
+American Cheese,2019,3,3.924
+American Cheese,2019,4,3.928
+American Cheese,2019,5,3.869
+American Cheese,2019,6,3.844
+American Cheese,2019,7,3.772
+American Cheese,2019,8,3.873
+American Cheese,2019,9,3.875
+American Cheese,2019,10,3.821
+American Cheese,2019,11,3.917
+American Cheese,2019,12,3.909
+American Cheese,2020,1,3.847
+American Cheese,2020,2,3.912
+American Cheese,2020,3,3.907
+American Cheese,2020,4,3.981
+American Cheese,2020,5,4.097
+American Cheese,2020,6,4.222
+American Cheese,2020,7,4.189
+American Cheese,2020,8,4.285
+American Cheese,2020,9,4.246
+American Cheese,2020,10,4.233
+American Cheese,2020,11,4.132
+American Cheese,2020,12,4.2
+American Cheese,2021,1,4.193
+American Cheese,2021,2,4.162
+American Cheese,2021,3,4.145
+American Cheese,2021,4,4.1
+American Cheese,2021,5,4.048
+American Cheese,2021,6,3.989
+American Cheese,2021,7,3.972
+American Cheese,2021,8,3.977
+American Cheese,2021,9,4.019
+American Cheese,2021,10,3.987
+American Cheese,2021,11,3.948
+American Cheese,2021,12,3.894
+American Cheese,2022,1,3.948
+American Cheese,2022,2,3.98
+American Cheese,2022,3,3.983
+American Cheese,2022,4,4.152
+American Cheese,2022,5,4.34
+American Cheese,2022,6,4.509
+American Cheese,2022,7,4.54
+American Cheese,2022,8,4.601
+American Cheese,2022,9,4.679
+American Cheese,2022,10,4.578
+American Cheese,2022,11,4.84
+American Cheese,2022,12,4.663
+Rice,1980,1,0.484
+Rice,1980,2,0.488
+Rice,1980,3,0.489
+Rice,1980,4,0.511
+Rice,1980,5,0.51
+Rice,1980,6,0.521
+Rice,1980,7,0.523
+Rice,1980,8,0.518
+Rice,1980,9,0.517
+Rice,1980,10,0.519
+Rice,1980,11,0.52
+Rice,1980,12,0.539
+Rice,1981,1,0.551
+Rice,1981,2,0.554
+Rice,1981,3,0.563
+Rice,1981,4,0.572
+Rice,1981,5,0.575
+Rice,1981,6,0.572
+Rice,1981,7,0.574
+Rice,1981,8,0.577
+Rice,1981,9,0.567
+Rice,1981,10,0.556
+Rice,1981,11,0.55
+Rice,1981,12,0.545
+Rice,1982,1,0.545
+Rice,1982,2,0.547
+Rice,1982,3,0.516
+Rice,1982,4,0.504
+Rice,1982,5,0.508
+Rice,1982,6,0.499
+Rice,1982,7,0.496
+Rice,1982,8,0.494
+Rice,1982,9,0.491
+Rice,1982,10,0.488
+Rice,1982,11,0.487
+Rice,1982,12,0.482
+Rice,1983,1,0.486
+Rice,1983,2,0.473
+Rice,1983,3,0.468
+Rice,1983,4,0.47
+Rice,1983,5,0.468
+Rice,1983,6,0.469
+Rice,1983,7,0.475
+Rice,1983,8,0.468
+Rice,1983,9,0.475
+Rice,1983,10,0.473
+Rice,1983,11,0.474
+Rice,1983,12,0.479
+Rice,1984,1,0.484
+Rice,1984,2,0.485
+Rice,1984,3,0.476
+Rice,1984,4,0.471
+Rice,1984,5,0.471
+Rice,1984,6,0.477
+Rice,1984,7,0.484
+Rice,1984,8,0.479
+Rice,1984,9,0.478
+Rice,1984,10,0.48
+Rice,1984,11,0.479
+Rice,1984,12,0.472
+Rice,1985,1,0.475
+Rice,1985,2,0.472
+Rice,1985,3,0.476
+Rice,1985,4,0.475
+Rice,1985,5,0.472
+Rice,1985,6,0.467
+Rice,1985,7,0.471
+Rice,1985,8,0.473
+Rice,1985,9,0.473
+Rice,1985,10,0.468
+Rice,1985,11,0.466
+Rice,1985,12,0.45
+Rice,1986,1,0.456
+Rice,1986,2,0.455
+Rice,1986,3,0.453
+Rice,1986,4,0.453
+Rice,1986,5,0.451
+Rice,1986,6,0.446
+Rice,1986,7,0.453
+Rice,1986,8,0.443
+Rice,1986,9,0.434
+Rice,1986,10,0.436
+Rice,1986,11,0.432
+Rice,1986,12,0.434
+Rice,1987,1,0.416
+Rice,1987,2,0.411
+Rice,1987,3,0.394
+Rice,1987,4,0.398
+Rice,1987,5,0.395
+Rice,1987,6,0.393
+Rice,1987,7,0.391
+Rice,1987,8,0.403
+Rice,1987,9,0.395
+Rice,1987,10,0.395
+Rice,1987,11,0.405
+Rice,1987,12,0.422
+Rice,1988,1,0.446
+Rice,1988,2,0.462
+Rice,1988,3,0.468
+Rice,1988,4,0.488
+Rice,1988,5,0.497
+Rice,1988,6,0.492
+Rice,1988,7,0.507
+Rice,1988,8,0.506
+Rice,1988,9,0.503
+Rice,1988,10,0.475
+Rice,1988,11,0.485
+Rice,1988,12,0.484
+Rice,1989,1,0.489
+Rice,1989,2,0.495
+Rice,1989,3,0.488
+Rice,1989,4,0.482
+Rice,1989,5,0.485
+Rice,1989,6,0.486
+Rice,1989,7,0.514
+Rice,1989,8,0.509
+Rice,1989,9,0.52
+Rice,1989,10,0.513
+Rice,1989,11,0.497
+Rice,1989,12,0.504
+Rice,1990,1,0.501
+Rice,1990,2,0.476
+Rice,1990,3,0.502
+Rice,1990,4,0.497
+Rice,1990,5,0.496
+Rice,1990,6,0.494
+Rice,1990,7,0.494
+Rice,1990,8,0.497
+Rice,1990,9,0.505
+Rice,1990,10,0.497
+Rice,1990,11,0.507
+Rice,1990,12,0.491
+Rice,1991,1,0.494
+Rice,1991,2,0.492
+Rice,1991,3,0.498
+Rice,1991,4,0.502
+Rice,1991,5,0.502
+Rice,1991,6,0.506
+Rice,1991,7,0.503
+Rice,1991,8,0.494
+Rice,1991,9,0.506
+Rice,1991,10,0.508
+Rice,1991,11,0.517
+Rice,1991,12,0.51
+Rice,1992,1,0.516
+Rice,1992,2,0.515
+Rice,1992,3,0.515
+Rice,1992,4,0.522
+Rice,1992,5,0.524
+Rice,1992,6,0.52
+Rice,1992,7,0.54
+Rice,1992,8,0.537
+Rice,1992,9,0.542
+Rice,1992,10,0.543
+Rice,1992,11,0.536
+Rice,1992,12,0.525
+Rice,1993,1,0.526
+Rice,1993,2,0.53
+Rice,1993,3,0.525
+Rice,1993,4,0.522
+Rice,1993,5,0.518
+Rice,1993,6,0.518
+Rice,1993,7,0.527
+Rice,1993,8,0.507
+Rice,1993,9,0.494
+Rice,1993,10,0.495
+Rice,1993,11,0.49
+Rice,1993,12,0.495
+Rice,1994,1,0.515
+Rice,1994,2,0.543
+Rice,1994,3,0.556
+Rice,1994,4,0.575
+Rice,1994,5,0.562
+Rice,1994,6,0.555
+Rice,1994,7,0.566
+Rice,1994,8,0.546
+Rice,1994,9,0.534
+Rice,1994,10,0.534
+Rice,1994,11,0.541
+Rice,1994,12,0.534
+Rice,1995,1,0.523
+Rice,1995,2,0.518
+Rice,1995,3,0.511
+Rice,1995,4,0.515
+Rice,1995,5,0.518
+Rice,1995,6,0.518
+Rice,1995,7,0.519
+Rice,1995,8,0.526
+Rice,1995,9,0.523
+Rice,1995,10,0.535
+Rice,1995,11,0.535
+Rice,1995,12,0.553
+Rice,1996,1,0.552
+Rice,1996,2,0.552
+Rice,1996,3,0.556
+Rice,1996,4,0.538
+Rice,1996,5,0.548
+Rice,1996,6,0.537
+Rice,1996,7,0.537
+Rice,1996,8,0.541
+Rice,1996,9,0.54
+Rice,1996,10,0.555
+Rice,1996,11,0.552
+Rice,1996,12,0.546
+Rice,1997,1,0.56
+Rice,1997,2,0.565
+Rice,1997,3,0.564
+Rice,1997,4,0.558
+Rice,1997,5,0.563
+Rice,1997,6,0.558
+Rice,1997,7,0.564
+Rice,1997,8,0.569
+Rice,1997,9,0.564
+Rice,1997,10,0.568
+Rice,1997,11,0.572
+Rice,1997,12,0.575
+Rice,1998,1,0.546
+Rice,1998,2,0.547
+Rice,1998,3,0.545
+Rice,1998,4,0.544
+Rice,1998,5,0.541
+Rice,1998,6,0.536
+Rice,1998,7,0.54
+Rice,1998,8,0.536
+Rice,1998,9,0.544
+Rice,1998,10,0.542
+Rice,1998,11,0.539
+Rice,1998,12,0.543
+Rice,1999,1,0.551
+Rice,1999,2,0.54
+Rice,1999,3,0.544
+Rice,1999,4,0.548
+Rice,1999,5,0.551
+Rice,1999,6,0.553
+Rice,1999,7,0.55
+Rice,1999,8,0.557
+Rice,1999,9,0.547
+Rice,1999,10,0.511
+Rice,1999,11,0.488
+Rice,1999,12,0.502
+Rice,2000,1,0.499
+Rice,2000,2,0.492
+Rice,2000,3,0.481
+Rice,2000,4,0.49
+Rice,2002,5,0.472
+Rice,2002,6,0.47
+Rice,2002,7,0.475
+Rice,2002,8,0.482
+Rice,2002,9,0.471
+Rice,2002,10,0.466
+Rice,2002,11,0.461
+Rice,2002,12,0.458
+Rice,2003,1,0.441
+Rice,2003,2,0.447
+Rice,2003,3,0.44
+Rice,2003,4,0.44
+Rice,2003,5,0.429
+Rice,2003,6,0.428
+Rice,2003,7,0.451
+Rice,2003,8,0.454
+Rice,2003,9,0.461
+Rice,2003,10,0.463
+Rice,2003,11,0.49
+Rice,2003,12,0.482
+Rice,2004,1,0.482
+Rice,2004,2,0.487
+Rice,2004,3,0.504
+Rice,2004,4,0.503
+Rice,2004,5,0.528
+Rice,2004,6,0.538
+Rice,2004,7,0.56
+Rice,2004,8,0.556
+Rice,2004,9,0.565
+Rice,2004,10,0.569
+Rice,2004,11,0.572
+Rice,2004,12,0.572
+Rice,2005,1,0.597
+Rice,2005,2,0.575
+Rice,2005,3,0.57
+Rice,2005,4,0.584
+Rice,2005,5,0.552
+Rice,2005,6,0.547
+Rice,2005,7,0.553
+Rice,2005,8,0.532
+Rice,2005,9,0.544
+Rice,2005,10,0.541
+Rice,2005,11,0.53
+Rice,2005,12,0.524
+Rice,2006,1,0.532
+Rice,2006,2,0.534
+Rice,2006,3,0.534
+Rice,2006,4,0.538
+Rice,2006,5,0.549
+Rice,2006,6,0.549
+Rice,2006,7,0.561
+Rice,2006,8,0.565
+Rice,2006,9,0.55
+Rice,2006,10,0.568
+Rice,2006,11,0.555
+Rice,2006,12,0.555
+Rice,2007,1,0.563
+Rice,2007,2,0.554
+Rice,2007,3,0.548
+Rice,2007,4,0.556
+Rice,2007,5,0.544
+Rice,2007,6,0.529
+Rice,2007,7,0.547
+Rice,2007,8,0.551
+Rice,2007,9,0.546
+Rice,2007,10,0.555
+Rice,2007,11,0.544
+Rice,2007,12,0.551
+Rice,2008,1,0.568
+Rice,2008,2,0.583
+Rice,2008,3,0.584
+Rice,2008,4,0.608
+Rice,2008,5,0.704
+Rice,2008,6,0.753
+Rice,2008,7,0.795
+Rice,2008,8,0.854
+Rice,2008,9,0.853
+Rice,2008,10,0.856
+Rice,2008,11,0.82
+Rice,2008,12,0.813
+Rice,2009,1,0.797
+Rice,2009,2,0.783
+Rice,2009,3,0.774
+Rice,2009,4,0.757
+Rice,2009,5,0.773
+Rice,2009,6,0.766
+Rice,2009,7,0.756
+Rice,2009,8,0.752
+Rice,2009,9,0.76
+Rice,2009,10,0.751
+Rice,2009,11,0.768
+Rice,2009,12,0.751
+Rice,2010,1,0.754
+Rice,2010,2,0.759
+Rice,2010,3,0.764
+Rice,2010,4,0.759
+Rice,2010,5,0.746
+Rice,2010,6,0.739
+Rice,2010,7,0.749
+Rice,2010,8,0.743
+Rice,2010,9,0.723
+Rice,2010,10,0.714
+Rice,2010,11,0.71
+Rice,2010,12,0.728
+Rice,2011,1,0.742
+Rice,2011,2,0.747
+Rice,2011,3,0.745
+Rice,2011,4,0.734
+Rice,2011,5,0.767
+Rice,2011,6,0.755
+Rice,2011,7,0.716
+Rice,2011,8,0.715
+Rice,2011,9,0.719
+Rice,2011,10,0.767
+Rice,2011,11,0.752
+Rice,2011,12,0.729
+Rice,2012,1,0.739
+Rice,2012,2,0.718
+Rice,2012,3,0.7
+Rice,2012,4,0.696
+Rice,2012,5,0.677
+Rice,2012,6,0.681
+Rice,2012,7,0.681
+Rice,2012,8,0.683
+Rice,2012,9,0.684
+Rice,2012,10,0.685
+Rice,2012,11,0.704
+Rice,2012,12,0.714
+Rice,2013,1,0.715
+Rice,2013,2,0.708
+Rice,2013,3,0.714
+Rice,2013,4,0.724
+Rice,2013,5,0.702
+Rice,2013,6,0.723
+Rice,2013,7,0.721
+Rice,2013,8,0.737
+Rice,2013,9,0.741
+Rice,2013,10,0.734
+Rice,2013,11,0.729
+Rice,2013,12,0.735
+Rice,2014,1,0.731
+Rice,2014,2,0.732
+Rice,2014,3,0.733
+Rice,2014,4,0.75
+Rice,2014,5,0.739
+Rice,2014,6,0.742
+Rice,2014,7,0.758
+Rice,2014,8,0.737
+Rice,2014,9,0.746
+Rice,2014,10,0.723
+Rice,2014,11,0.717
+Rice,2014,12,0.7
+Rice,2015,1,0.692
+Rice,2015,2,0.689
+Rice,2015,3,0.67
+Rice,2015,4,0.67
+Rice,2015,5,0.676
+Rice,2015,6,0.691
+Rice,2015,7,0.673
+Rice,2015,8,0.669
+Rice,2015,9,0.662
+Rice,2015,10,0.69
+Rice,2015,11,0.732
+Rice,2015,12,0.711
+Rice,2016,1,0.709
+Rice,2016,2,0.707
+Rice,2016,3,0.711
+Rice,2016,4,0.703
+Rice,2016,5,0.747
+Rice,2016,6,0.734
+Rice,2016,7,0.74
+Rice,2016,8,0.729
+Rice,2016,9,0.721
+Rice,2016,10,0.697
+Rice,2016,11,0.703
+Rice,2016,12,0.693
+Rice,2017,1,0.7
+Rice,2017,2,0.695
+Rice,2017,3,0.692
+Rice,2017,4,0.686
+Rice,2017,5,0.726
+Rice,2017,6,0.752
+Rice,2017,7,0.764
+Rice,2017,8,0.753
+Rice,2017,9,0.741
+Rice,2017,10,0.723
+Rice,2017,11,0.712
+Rice,2017,12,0.711
+Rice,2018,1,0.682
+Rice,2018,2,0.691
+Rice,2018,3,0.682
+Rice,2018,4,0.685
+Rice,2018,5,0.698
+Rice,2018,6,0.689
+Rice,2018,7,0.69
+Rice,2018,8,0.705
+Rice,2018,9,0.693
+Rice,2018,10,0.685
+Rice,2018,11,0.711
+Rice,2018,12,0.712
+Rice,2019,1,0.73
+Rice,2019,2,0.762
+Rice,2019,3,0.757
+Rice,2019,4,0.767
+Rice,2019,5,0.761
+Rice,2019,6,0.801
+Rice,2019,7,0.798
+Rice,2019,8,0.793
+Rice,2019,9,0.797
+Rice,2019,10,0.773
+Rice,2019,11,0.721
+Rice,2019,12,0.714
+Rice,2020,1,0.716
+Rice,2020,2,0.734
+Rice,2020,3,0.733
+Rice,2020,5,0.748
+Rice,2020,6,0.749
+Rice,2020,7,0.772
+Rice,2020,8,0.769
+Rice,2020,9,0.777
+Rice,2020,10,0.766
+Rice,2020,11,0.791
+Rice,2020,12,0.789
+Rice,2021,1,0.794
+Rice,2021,2,0.779
+Rice,2021,3,0.772
+Rice,2021,4,0.785
+Rice,2021,5,0.801
+Rice,2021,6,0.778
+Rice,2021,7,0.782
+Rice,2021,8,0.784
+Rice,2021,9,0.798
+Rice,2021,10,0.788
+Rice,2021,11,0.844
+Rice,2021,12,0.82
+Rice,2022,1,0.832
+Rice,2022,2,0.83
+Rice,2022,3,0.871
+Rice,2022,4,0.9
+Rice,2022,5,0.909
+Rice,2022,6,0.924
+Rice,2022,7,0.929
+Rice,2022,8,0.925
+Rice,2022,9,0.939
+Rice,2022,10,0.963
+Rice,2022,11,0.963
+Rice,2022,12,0.971
+Pork,1980,1,1.431474
+Pork,1980,2,1.409256
+Pork,1980,3,1.4103139999999998
+Pork,1980,4,1.352124
+Pork,1980,5,1.307688
+Pork,1980,6,1.3161519999999998
+Pork,1980,7,1.4409960000000002
+Pork,1980,8,1.541506
+Pork,1980,9,1.594406
+Pork,1980,10,1.6166239999999998
+Pork,1980,11,1.653654
+Pork,1980,12,1.627204
+Pork,1981,1,1.60287
+Pork,1981,2,1.570072
+Pork,1981,3,1.5467959999999998
+Pork,1981,4,1.509766
+Pork,1981,5,1.533042
+Pork,1981,6,1.551028
+Pork,1981,7,1.638842
+Pork,1981,8,1.672698
+Pork,1981,9,1.68751
+Pork,1981,10,1.697032
+Pork,1981,11,1.673756
+Pork,1981,12,1.665292
+Pork,1982,1,1.673756
+Pork,1982,2,1.700206
+Pork,1982,3,1.707612
+Pork,1982,4,1.7245400000000002
+Pork,1982,5,1.794368
+Pork,1982,6,1.855732
+Pork,1982,7,1.916038
+Pork,1982,8,1.94143
+Pork,1982,9,2.013374
+Pork,1982,10,2.019722
+Pork,1982,11,1.97846
+Pork,1982,12,1.94143
+Pork,1983,1,1.9573
+Pork,1983,2,1.939314
+Pork,1983,3,1.911806
+Pork,1983,4,1.839862
+Pork,1983,5,1.810238
+Pork,1983,6,1.779556
+Pork,1983,7,1.762628
+Pork,1983,8,1.7531059999999998
+Pork,1983,9,1.7340620000000002
+Pork,1983,10,1.7171340000000002
+Pork,1983,11,1.68222
+Pork,1983,12,1.672698
+Pork,1984,1,1.716076
+Pork,1984,2,1.723482
+Pork,1984,3,1.6864519999999998
+Pork,1984,4,1.690684
+Pork,1984,5,1.677988
+Pork,1984,6,1.691742
+Pork,1984,7,1.716076
+Pork,1984,8,1.757338
+Pork,1984,9,1.730888
+Pork,1984,10,1.7340620000000002
+Pork,1984,11,1.718192
+Pork,1984,12,1.72983
+Pork,1985,1,1.7562799999999998
+Pork,1985,2,1.752048
+Pork,1985,3,1.742526
+Pork,1985,4,1.685394
+Pork,1985,5,1.6790459999999998
+Pork,1985,6,1.670582
+Pork,1985,7,1.617
+Pork,1985,8,1.710786
+Pork,1985,9,1.711844
+Pork,1985,10,1.6928
+Pork,1985,11,1.718192
+Pork,1985,12,1.76157
+Pork,1986,1,1.78802
+Pork,1986,2,1.780614
+Pork,1986,3,1.754164
+Pork,1986,4,1.716076
+Pork,1986,5,1.7171340000000002
+Pork,1986,6,1.76157
+Pork,1986,7,1.940372
+Pork,1986,8,2.013374
+Pork,1986,9,2.056752
+Pork,1986,10,2.062042
+Pork,1986,11,2.03665
+Pork,1986,12,2.023954
+Pork,1987,1,1.990098
+Pork,1987,2,1.963648
+Pork,1987,3,1.918154
+Pork,1987,4,1.892762
+Pork,1987,5,1.943546
+Pork,1987,6,1.984808
+Pork,1987,7,2.048288
+Pork,1987,8,2.075796
+Pork,1987,9,2.083202
+Pork,1987,10,2.056752
+Pork,1987,11,2.001736
+Pork,1987,12,1.963648
+Pork,1988,1,1.960474
+Pork,1988,2,1.937198
+Pork,1988,3,1.939314
+Pork,1988,4,1.935082
+Pork,1988,5,1.942488
+Pork,1988,6,1.987982
+Pork,1988,7,1.982692
+Pork,1988,8,1.96259
+Pork,1988,9,1.956242
+Pork,1988,10,1.921328
+Pork,1988,11,1.88324
+Pork,1988,12,1.876892
+Pork,1989,1,1.916038
+Pork,1989,2,1.896994
+Pork,1989,3,1.901226
+Pork,1989,4,1.89911
+Pork,1989,5,1.873718
+Pork,1989,6,1.894878
+Pork,1989,7,1.934024
+Pork,1989,8,1.953068
+Pork,1989,9,1.950952
+Pork,1989,10,1.965764
+Pork,1989,11,2.005968
+Pork,1989,12,2.022896
+Pork,1990,1,2.064158
+Pork,1990,2,2.07897
+Pork,1990,3,2.08426
+Pork,1990,4,2.125522
+Pork,1990,5,2.1815960000000003
+Pork,1990,6,2.307498
+Pork,1990,7,2.350876
+Pork,1990,8,2.379442
+Pork,1990,9,2.336064
+Pork,1990,10,2.361456
+Pork,1990,11,2.358282
+Pork,1990,12,2.361456
+Pork,1991,1,2.286338
+Pork,1991,2,2.27999
+Pork,1991,3,2.263062
+Pork,1991,4,2.239786
+Pork,1991,5,2.256714
+Pork,1991,6,2.270468
+Pork,1991,7,2.3032660000000003
+Pork,1991,8,2.266236
+Pork,1991,9,2.241902
+Pork,1991,10,2.197466
+Pork,1991,11,2.169958
+Pork,1991,12,2.125522
+Pork,1992,1,2.102246
+Pork,1992,2,2.113884
+Pork,1992,3,2.096956
+Pork,1992,4,2.0546360000000004
+Pork,1992,5,2.077912
+Pork,1992,6,2.085318
+Pork,1992,7,2.122348
+Pork,1992,8,2.120232
+Pork,1992,9,2.111768
+Pork,1992,10,2.099072
+Pork,1992,11,2.077912
+Pork,1992,12,2.076854
+Pork,1993,1,2.07368
+Pork,1993,2,2.051462
+Pork,1993,3,2.051462
+Pork,1993,4,2.0250120000000003
+Pork,1993,5,2.060984
+Pork,1993,6,2.07897
+Pork,1993,7,2.118116
+Pork,1993,8,2.102246
+Pork,1993,9,2.132928
+Pork,1993,10,2.128696
+Pork,1993,11,2.138218
+Pork,1993,12,2.127638
+Pork,1994,1,2.128696
+Pork,1994,2,2.114942
+Pork,1994,3,2.130812
+Pork,1994,4,2.102246
+Pork,1994,5,2.103304
+Pork,1994,6,2.10542
+Pork,1994,7,2.12129
+Pork,1994,8,2.106478
+Pork,1994,9,2.087434
+Pork,1994,10,2.087434
+Pork,1994,11,2.0631
+Pork,1994,12,1.993272
+Pork,1995,1,2.0250120000000003
+Pork,1995,2,2.009142
+Pork,1995,3,2.0472300000000003
+Pork,1995,4,2.016548
+Pork,1995,5,2.02078
+Pork,1995,6,1.99962
+Pork,1995,7,2.0250120000000003
+Pork,1995,8,2.087434
+Pork,1995,9,2.09484
+Pork,1995,10,2.141392
+Pork,1995,11,2.124464
+Pork,1995,12,2.139276
+Pork,1996,1,2.127638
+Pork,1996,2,2.202756
+Pork,1996,3,2.218626
+Pork,1996,4,2.206988
+Pork,1996,5,2.259888
+Pork,1996,6,2.35405
+Pork,1996,7,2.387906
+Pork,1996,8,2.448212
+Pork,1996,9,2.477836
+Pork,1996,10,2.46514
+Pork,1996,11,2.4503280000000003
+Pork,1996,12,2.446096
+Pork,1997,1,2.461966
+Pork,1997,2,2.447154
+Pork,1997,3,2.421762
+Pork,1997,4,2.39637
+Pork,1997,5,2.42282
+Pork,1997,6,2.472546
+Pork,1997,7,2.461966
+Pork,1997,8,2.49688
+Pork,1997,9,2.483126
+Pork,1997,10,2.485242
+Pork,1997,11,2.447154
+Pork,1997,12,2.399544
+Pork,1998,1,2.484184
+Pork,1998,2,2.48101
+Pork,1998,3,2.404
+Pork,1998,4,2.356
+Pork,1998,5,2.406
+Pork,1998,6,2.431
+Pork,1998,7,2.451
+Pork,1998,8,2.45
+Pork,1998,9,2.447
+Pork,1998,10,2.422
+Pork,1998,11,2.41
+Pork,1998,12,2.381
+Pork,1999,1,2.334
+Pork,1999,2,2.369
+Pork,1999,3,2.371
+Pork,1999,4,2.3480000000000003
+Pork,1999,5,2.392
+Pork,1999,6,2.412
+Pork,1999,7,2.443
+Pork,1999,8,2.468
+Pork,1999,9,2.4814815
+Pork,1999,10,2.447
+Pork,1999,11,2.4466813
+Pork,1999,12,2.4609199
+Pork,2000,1,2.4567877999999994
+Pork,2000,2,2.5097305
+Pork,2000,3,2.5281022
+Pork,2000,4,2.5550021
+Pork,2000,5,2.5623346
+Pork,2000,6,2.6031771000000004
+Pork,2000,7,2.6228617
+Pork,2000,8,2.6563357
+Pork,2000,9,2.6500321
+Pork,2000,10,2.6214212000000003
+Pork,2000,11,2.5928374
+Pork,2000,12,2.625436
+Pork,2001,1,2.6059815
+Pork,2001,2,2.6153909
+Pork,2001,3,2.654194
+Pork,2001,4,2.633265
+Pork,2001,5,2.6694997
+Pork,2001,6,2.7089132
+Pork,2001,7,2.7047271
+Pork,2001,8,2.7632755
+Pork,2001,9,2.7808061000000004
+Pork,2001,10,2.7642773
+Pork,2001,11,2.7125945
+Pork,2001,12,2.7144653
+Pork,2002,1,2.7075348000000004
+Pork,2002,2,2.7171849999999997
+Pork,2002,3,2.7029527
+Pork,2002,4,2.6668579
+Pork,2002,5,2.6988034
+Pork,2002,6,2.6662188
+Pork,2002,7,2.6416479
+Pork,2002,8,2.6660167
+Pork,2002,9,2.6163297
+Pork,2002,10,2.609500390048413
+Pork,2002,11,2.591268930392685
+Pork,2002,12,2.60588240387305
+Pork,2003,1,2.5817076469607314
+Pork,2003,2,2.6260614917159764
+Pork,2003,3,2.6182503425497576
+Pork,2003,4,2.638486438676708
+Pork,2003,5,2.5845992525013446
+Pork,2003,6,2.6442365436793978
+Pork,2003,7,2.663299192845616
+Pork,2003,8,2.7063893265734267
+Pork,2003,9,2.7259772530930606
+Pork,2003,10,2.704571793975256
+Pork,2003,11,2.721740548682087
+Pork,2003,12,2.680148491769769
+Pork,2004,1,2.692927681818182
+Pork,2004,2,2.69049732049489
+Pork,2004,3,2.696030647552448
+Pork,2004,4,2.713345116083916
+Pork,2004,5,2.762332689026358
+Pork,2004,6,2.8297428271651426
+Pork,2004,7,2.8474242232920925
+Pork,2004,8,2.885454767509413
+Pork,2004,9,2.897611104518558
+Pork,2004,10,2.887337992361485
+Pork,2004,11,2.811126888488435
+Pork,2004,12,2.7867785277030657
+Pork,2005,1,2.833761949811727
+Pork,2005,2,2.8399258232920928
+Pork,2005,3,2.811699882947822
+Pork,2005,4,2.849112196772458
+Pork,2005,5,2.8925659420656267
+Pork,2005,6,2.860456993437332
+Pork,2005,7,2.840309226035503
+Pork,2005,8,2.821015989564282
+Pork,2005,9,2.8259614774072084
+Pork,2005,10,2.792312432651963
+Pork,2005,11,2.770013363044648
+Pork,2005,12,2.7861261812802582
+Pork,2006,1,2.7629366464766
+Pork,2006,2,2.7962538790747717
+Pork,2006,3,2.7629366464766
+Pork,2006,4,2.796117305594405
+Pork,2006,5,2.7661276973103823
+Pork,2006,6,2.79918435809575
+Pork,2006,7,2.842224421086606
+Pork,2006,8,2.8499638763313606
+Pork,2006,9,2.8821594210866057
+Pork,2006,10,2.8661971227541687
+Pork,2006,11,2.79514733986014
+Pork,2006,12,2.768183682947821
+Pork,2007,1,2.8024306985174827
+Pork,2007,2,2.7973301202775684
+Pork,2007,3,2.8246380079612696
+Pork,2007,4,2.8134016232920924
+Pork,2007,5,2.873527673620225
+Pork,2007,6,2.908801338816568
+Pork,2007,7,2.936390375255513
+Pork,2007,8,2.931334840215169
+Pork,2007,9,2.906115452148467
+Pork,2007,10,2.929336314930607
+Pork,2007,11,2.863393283791286
+Pork,2007,12,2.859429175126412
+Pork,2008,1,2.8556147535578265
+Pork,2008,2,2.825293452589564
+Pork,2008,3,2.833110396931683
+Pork,2008,4,2.858482699423345
+Pork,2008,5,2.903375526672404
+Pork,2008,6,2.932542598788596
+Pork,2008,7,2.961661862810113
+Pork,2008,8,3.0170031960774613
+Pork,2008,9,3.02610276386014
+Pork,2008,10,3.0169763373405054
+Pork,2008,11,3.0026206620182894
+Pork,2008,12,3.0052341022334583
+Pork,2009,1,2.9963644159462075
+Pork,2009,2,2.9612495162947816
+Pork,2009,3,2.942435798788596
+Pork,2009,4,2.9139253863453467
+Pork,2009,5,2.9540618661280256
+Pork,2009,6,2.953880412882194
+Pork,2009,7,2.9572894608262503
+Pork,2009,8,2.9337315010091447
+Pork,2009,9,2.9060133462721893
+Pork,2009,10,2.880054108230232
+Pork,2009,11,2.8178464565228616
+Pork,2009,12,2.819989905325444
+Pork,2010,1,2.877738997073694
+Pork,2010,2,2.917120652763852
+Pork,2010,3,2.914284390059171
+Pork,2010,4,2.918730449510489
+Pork,2010,5,3.0430335838558364
+Pork,2010,6,3.1036595452286178
+Pork,2010,7,3.1852188141409363
+Pork,2010,8,3.2315961333146843
+Pork,2010,9,3.299539181278106
+Pork,2010,10,3.3625969040086066
+Pork,2010,11,3.319702993342657
+Pork,2010,12,3.188436073848305
+Pork,2011,1,3.241326280576654
+Pork,2011,2,3.283163989719203
+Pork,2011,3,3.357412646760624
+Pork,2011,4,3.376612726909091
+Pork,2011,5,3.4841361362130177
+Pork,2011,6,3.48108034181603
+Pork,2011,7,3.4659094558450776
+Pork,2011,8,3.5117053981409354
+Pork,2011,9,3.5614797369445936
+Pork,2011,10,3.4681523331038187
+Pork,2011,11,3.510688405013448
+Pork,2011,12,3.4607082837934366
+Pork,2012,1,3.4950487571791284
+Pork,2012,2,3.4946267016008608
+Pork,2012,3,3.4899497348015056
+Pork,2012,4,3.459474925039268
+Pork,2012,5,3.4079633724583105
+Pork,2012,6,3.396843474076385
+Pork,2012,7,3.434385502089295
+Pork,2012,8,3.5264262412931684
+Pork,2012,9,3.507313179255513
+Pork,2012,10,3.4842447371339427
+Pork,2012,11,3.4783060911715973
+Pork,2012,12,3.426591293663259
+Pork,2013,1,3.451067008550834
+Pork,2013,2,3.490771989045724
+Pork,2013,3,3.517112717456697
+Pork,2013,4,3.506931332167832
+Pork,2013,5,3.5525742392296933
+Pork,2013,6,3.616567521869822
+Pork,2013,7,3.695673623681549
+Pork,2013,8,3.757369076834857
+Pork,2013,9,3.7921527153695536
+Pork,2013,10,3.809327792817644
+Pork,2013,11,3.776061338332436
+Pork,2013,12,3.761305073357719
+Pork,2014,1,3.7576444957504034
+Pork,2014,2,3.7267530417105967
+Pork,2014,3,3.830358297415815
+Pork,2014,4,3.9499753037998926
+Pork,2014,5,4.099182073508338
+Pork,2014,6,4.1156136753007
+Pork,2014,7,4.126859057174825
+Pork,2014,8,4.199773116023668
+Pork,2014,9,4.215491409850458
+Pork,2014,10,4.148504969075848
+Pork,2014,11,4.063854713844002
+Pork,2014,12,3.991127533299624
+Pork,2015,1,3.9894365185562135
+Pork,2015,2,3.94115883340936
+Pork,2015,3,3.8742708512296935
+Pork,2015,4,3.7692813578138784
+Pork,2015,5,3.6958632229263046
+Pork,2015,6,3.703272449448091
+Pork,2015,7,3.769481987507262
+Pork,2015,8,3.834090976004303
+Pork,2015,9,3.919232310224853
+Pork,2015,10,3.9726225881032815
+Pork,2015,11,3.917184098418505
+Pork,2015,12,3.84578067883163
+Pork,2016,1,3.793409782084992
+Pork,2016,2,3.7383493846046254
+Pork,2016,3,3.7597567561032816
+Pork,2016,4,3.7986347378224856
+Pork,2016,5,3.780866208398064
+Pork,2016,6,3.769816466483056
+Pork,2016,7,3.7813784575642826
+Pork,2016,8,3.7980503091748257
+Pork,2016,9,3.7889239818784297
+Pork,2016,10,3.743201008079613
+Pork,2016,11,3.625408352593868
+Pork,2016,12,3.5831220982054868
+Pork,2017,1,3.570141506491662
+Pork,2017,2,3.643172879513717
+Pork,2017,3,3.779861098341044
+Pork,2017,4,3.747093793437332
+Pork,2017,5,3.727683637936525
+Pork,2017,6,3.755833622097902
+Pork,2017,7,3.832853592120495
+Pork,2017,8,3.935098024025821
+Pork,2017,9,3.985390684843464
+Pork,2017,10,3.9067077778418495
+Pork,2017,11,3.786167095722432
+Pork,2017,12,3.740465925811727
+Pork,2018,1,3.749884949127488
+Pork,2018,2,3.7395795102442175
+Pork,2018,3,3.752661885755783
+Pork,2018,4,3.7523359270016137
+Pork,2018,5,3.7408350587735337
+Pork,2018,6,3.6965458028122646
+Pork,2018,7,3.73066489381603
+Pork,2018,8,3.8165423822958577
+Pork,2018,9,3.78511326579021
+Pork,2018,10,3.726879996703604
+Pork,2018,11,3.700520056361485
+Pork,2018,12,3.739808854409897
+Pork,2019,1,3.714021032191501
+Pork,2019,2,3.7314274714706825
+Pork,2019,3,3.799471740873587
+Pork,2019,4,3.787478392785368
+Pork,2019,5,3.882637658586337
+Pork,2019,6,3.919982035369553
+Pork,2019,7,3.926818926276492
+Pork,2019,8,3.8958965985476057
+Pork,2019,9,3.879179915561054
+Pork,2019,10,3.911513773172673
+Pork,2019,11,3.860231570394835
+Pork,2019,12,3.810940496722969
+Pork,2020,1,3.837406268585261
+Pork,2020,2,3.864326316101129
+Pork,2020,3,3.84550381205164
+Pork,2020,4,3.892816758722277
+Pork,2020,5,4.048498447697626
+Pork,2020,6,4.245116343981072
+Pork,2020,7,4.178817649114455
+Pork,2020,8,4.084428572106311
+Pork,2020,9,4.052804082912089
+Pork,2020,10,4.0842029402452935
+Pork,2020,11,4.098458740372243
+Pork,2020,12,4.119527353529855
+Pork,2021,1,4.122249316376546
+Pork,2021,2,4.153267469986013
+Pork,2021,3,4.165238857338354
+Pork,2021,4,4.323124585353416
+Pork,2021,5,4.38430959000538
+Pork,2021,6,4.545895550459386
+Pork,2021,7,4.601641763825712
+Pork,2021,8,4.650463824914469
+Pork,2021,9,4.715529606777837
+Pork,2021,10,4.816049241060785
+Pork,2021,11,4.823176387117805
+Pork,2021,12,4.736853250995158
+Chicken,1980,1,1.06
+Chicken,1980,2,1.024
+Chicken,1980,3,0.985
+Chicken,1980,4,0.967
+Chicken,1980,5,0.985
+Chicken,1980,6,1.005
+Chicken,1980,7,1.067
+Chicken,1980,8,1.127
+Chicken,1980,9,1.164
+Chicken,1980,10,1.145
+Chicken,1980,11,1.13
+Chicken,1980,12,1.141
+Chicken,1981,1,1.15
+Chicken,1981,2,1.147
+Chicken,1981,3,1.128
+Chicken,1981,4,1.046
+Chicken,1981,5,1.105
+Chicken,1981,6,1.101
+Chicken,1981,7,1.156
+Chicken,1981,8,1.137
+Chicken,1981,9,1.124
+Chicken,1981,10,1.126
+Chicken,1981,11,1.109
+Chicken,1981,12,1.099
+Chicken,1982,1,1.112
+Chicken,1982,2,1.099
+Chicken,1982,3,1.062
+Chicken,1982,4,1.029
+Chicken,1982,5,1.074
+Chicken,1982,6,1.072
+Chicken,1982,7,1.102
+Chicken,1982,8,1.082
+Chicken,1982,9,1.062
+Chicken,1982,10,1.061
+Chicken,1982,11,1.034
+Chicken,1982,12,1.042
+Chicken,1983,1,1.021
+Chicken,1983,2,1.042
+Chicken,1983,3,1.052
+Chicken,1983,4,1.048
+Chicken,1983,5,1.069
+Chicken,1983,6,1.02
+Chicken,1983,7,1.067
+Chicken,1983,8,1.046
+Chicken,1983,9,1.05
+Chicken,1983,10,1.017
+Chicken,1983,11,1.006
+Chicken,1983,12,1.075
+Chicken,1984,1,1.178
+Chicken,1984,2,1.259
+Chicken,1984,3,1.236
+Chicken,1984,4,1.191
+Chicken,1984,5,1.155
+Chicken,1984,6,1.169
+Chicken,1984,7,1.173
+Chicken,1984,8,1.109
+Chicken,1984,9,1.137
+Chicken,1984,10,1.092
+Chicken,1984,11,1.065
+Chicken,1984,12,1.084
+Chicken,1985,1,1.131
+Chicken,1985,2,1.09
+Chicken,1985,3,1.079
+Chicken,1985,4,1.048
+Chicken,1985,5,1.065
+Chicken,1985,6,1.066
+Chicken,1985,7,1.094
+Chicken,1985,8,1.061
+Chicken,1985,9,1.06
+Chicken,1985,10,1.031
+Chicken,1985,11,1.051
+Chicken,1985,12,1.142
+Chicken,1986,1,1.115
+Chicken,1986,2,1.089
+Chicken,1986,3,1.037
+Chicken,1986,4,1.067
+Chicken,1986,5,1.061
+Chicken,1986,6,1.108
+Chicken,1986,7,1.194
+Chicken,1986,8,1.32
+Chicken,1986,9,1.271
+Chicken,1986,10,1.221
+Chicken,1986,11,1.268
+Chicken,1986,12,1.251
+Chicken,1987,2,1.138
+Chicken,1987,3,1.124
+Chicken,1987,4,1.119
+Chicken,1987,5,1.078
+Chicken,1987,6,1.062
+Chicken,1987,7,1.053
+Chicken,1987,8,1.098
+Chicken,1987,9,1.085
+Chicken,1987,10,1.07
+Chicken,1987,11,1.054
+Chicken,1987,12,1.05
+Chicken,1988,1,1.029
+Chicken,1988,2,0.995
+Chicken,1988,3,1.02
+Chicken,1988,4,1.026
+Chicken,1988,5,1.052
+Chicken,1988,6,1.142
+Chicken,1988,7,1.271
+Chicken,1988,8,1.297
+Chicken,1988,9,1.256
+Chicken,1988,10,1.237
+Chicken,1988,11,1.199
+Chicken,1988,12,1.168
+Chicken,1989,1,1.176
+Chicken,1989,2,1.175
+Chicken,1989,3,1.17
+Chicken,1989,4,1.196
+Chicken,1989,5,1.257
+Chicken,1989,6,1.301
+Chicken,1989,7,1.268
+Chicken,1989,8,1.254
+Chicken,1989,9,1.182
+Chicken,1989,10,1.208
+Chicken,1989,11,1.143
+Chicken,1989,12,1.141
+Chicken,1990,1,1.125
+Chicken,1990,2,1.168
+Chicken,1990,3,1.223
+Chicken,1990,4,1.159
+Chicken,1990,5,1.182
+Chicken,1990,6,1.23
+Chicken,1990,7,1.233
+Chicken,1990,8,1.232
+Chicken,1990,9,1.225
+Chicken,1990,10,1.201
+Chicken,1990,11,1.155
+Chicken,1990,12,1.165
+Chicken,1991,1,1.195
+Chicken,1991,2,1.182
+Chicken,1991,3,1.159
+Chicken,1991,4,1.152
+Chicken,1991,5,1.154
+Chicken,1991,6,1.157
+Chicken,1991,7,1.164
+Chicken,1991,8,1.163
+Chicken,1991,9,1.136
+Chicken,1991,10,1.12
+Chicken,1991,11,1.131
+Chicken,1991,12,1.141
+Chicken,1992,1,1.147
+Chicken,1992,2,1.092
+Chicken,1992,3,1.066
+Chicken,1992,4,1.113
+Chicken,1992,5,1.104
+Chicken,1992,6,1.131
+Chicken,1992,7,1.147
+Chicken,1992,8,1.144
+Chicken,1992,9,1.116
+Chicken,1992,10,1.112
+Chicken,1992,11,1.125
+Chicken,1992,12,1.139
+Chicken,1993,1,1.095
+Chicken,1993,2,1.084
+Chicken,1993,3,1.099
+Chicken,1993,4,1.127
+Chicken,1993,5,1.147
+Chicken,1993,6,1.1
+Chicken,1993,7,1.106
+Chicken,1993,8,1.069
+Chicken,1993,9,1.094
+Chicken,1993,10,1.116
+Chicken,1993,11,1.077
+Chicken,1993,12,1.13
+Chicken,1994,1,1.117
+Chicken,1994,2,1.114
+Chicken,1994,3,1.087
+Chicken,1994,4,1.118
+Chicken,1994,5,1.134
+Chicken,1994,6,1.155
+Chicken,1994,7,1.159
+Chicken,1994,8,1.121
+Chicken,1994,9,1.163
+Chicken,1994,10,1.144
+Chicken,1994,11,1.134
+Chicken,1994,12,1.123
+Chicken,1995,1,1.112
+Chicken,1995,2,1.146
+Chicken,1995,3,1.153
+Chicken,1995,4,1.152
+Chicken,1995,5,1.141
+Chicken,1995,6,1.134
+Chicken,1995,7,1.13
+Chicken,1995,8,1.15
+Chicken,1995,9,1.195
+Chicken,1995,10,1.176
+Chicken,1995,11,1.209
+Chicken,1995,12,1.201
+Chicken,1996,1,1.218
+Chicken,1996,2,1.232
+Chicken,1996,3,1.217
+Chicken,1996,4,1.212
+Chicken,1996,5,1.234
+Chicken,1996,6,1.205
+Chicken,1996,7,1.239
+Chicken,1996,8,1.252
+Chicken,1996,9,1.299
+Chicken,1996,10,1.285
+Chicken,1996,11,1.235
+Chicken,1996,12,1.256
+Chicken,1997,1,1.265
+Chicken,1997,2,1.239
+Chicken,1997,3,1.231
+Chicken,1997,4,1.215
+Chicken,1997,5,1.221
+Chicken,1997,6,1.243
+Chicken,1997,7,1.255
+Chicken,1997,8,1.216
+Chicken,1997,9,1.227
+Chicken,1997,10,1.236
+Chicken,1997,11,1.246
+Chicken,1997,12,1.217
+Chicken,1998,1,1.28
+Chicken,1998,2,1.271
+Chicken,1998,3,1.249
+Chicken,1998,4,1.256
+Chicken,1998,5,1.26
+Chicken,1998,6,1.279
+Chicken,1998,7,1.252
+Chicken,1998,8,1.291
+Chicken,1998,9,1.255
+Chicken,1998,10,1.3
+Chicken,1998,11,1.301
+Chicken,1998,12,1.261
+Chicken,1999,1,1.274
+Chicken,1999,2,1.28
+Chicken,1999,3,1.281
+Chicken,1999,4,1.253
+Chicken,1999,5,1.237
+Chicken,1999,6,1.283
+Chicken,1999,7,1.316
+Chicken,1999,8,1.284
+Chicken,1999,9,1.269
+Chicken,1999,10,1.274
+Chicken,1999,11,1.268
+Chicken,1999,12,1.168
+Chicken,2000,1,1.273
+Chicken,2000,2,1.255
+Chicken,2000,3,1.255
+Chicken,2000,4,1.26
+Chicken,2000,5,1.262
+Chicken,2000,6,1.286
+Chicken,2000,7,1.293
+Chicken,2000,8,1.298
+Chicken,2000,9,1.297
+Chicken,2000,10,1.287
+Chicken,2000,11,1.209
+Chicken,2000,12,1.264
+Chicken,2001,1,1.271
+Chicken,2001,2,1.282
+Chicken,2001,3,1.293
+Chicken,2001,4,1.294
+Chicken,2001,5,1.282
+Chicken,2001,6,1.301
+Chicken,2001,7,1.351
+Chicken,2001,8,1.356
+Chicken,2001,9,1.306
+Chicken,2001,10,1.341
+Chicken,2001,11,1.355
+Chicken,2001,12,1.339
+Chicken,2002,1,1.361
+Chicken,2002,2,1.329
+Chicken,2002,3,1.319
+Chicken,2002,4,1.307
+Chicken,2002,5,1.282
+Chicken,2002,6,1.311
+Chicken,2002,7,1.27
+Chicken,2002,8,1.295
+Chicken,2002,9,1.339
+Chicken,2002,10,1.313
+Chicken,2002,11,1.285
+Chicken,2002,12,1.275
+Chicken,2003,1,1.238
+Chicken,2003,2,1.223
+Chicken,2003,3,1.249
+Chicken,2003,4,1.259
+Chicken,2003,5,1.248
+Chicken,2003,6,1.226
+Chicken,2003,7,1.262
+Chicken,2003,8,1.242
+Chicken,2003,9,1.254
+Chicken,2003,10,1.325
+Chicken,2003,11,1.275
+Chicken,2003,12,1.274
+Chicken,2004,1,1.283
+Chicken,2004,2,1.305
+Chicken,2004,3,1.299
+Chicken,2004,4,1.268
+Chicken,2004,5,1.378
+Chicken,2004,6,1.316
+Chicken,2004,7,1.333
+Chicken,2004,8,1.351
+Chicken,2004,9,1.368
+Chicken,2004,10,1.398
+Chicken,2004,11,1.302
+Chicken,2004,12,1.368
+Chicken,2005,1,1.293
+Chicken,2005,2,1.347
+Chicken,2005,3,1.291
+Chicken,2005,4,1.322
+Chicken,2005,5,1.299
+Chicken,2005,6,1.357
+Chicken,2005,7,1.311
+Chicken,2005,8,1.315
+Chicken,2005,9,1.35
+Chicken,2005,10,1.336
+Chicken,2005,11,1.373
+Chicken,2005,12,1.326
+Chicken,2006,1,1.295
+Chicken,2006,2,1.27
+Chicken,2006,3,1.29
+Chicken,2006,4,1.253
+Chicken,2006,5,1.231
+Chicken,2006,6,1.183
+Chicken,2006,7,1.205
+Chicken,2006,8,1.228
+Chicken,2006,9,1.242
+Chicken,2006,10,1.222
+Chicken,2006,11,1.21
+Chicken,2006,12,1.233
+Chicken,2007,1,1.222
+Chicken,2007,2,1.266
+Chicken,2007,3,1.294
+Chicken,2007,4,1.28
+Chicken,2007,5,1.298
+Chicken,2007,6,1.332
+Chicken,2007,7,1.334
+Chicken,2007,8,1.304
+Chicken,2007,9,1.356
+Chicken,2007,10,1.304
+Chicken,2007,11,1.372
+Chicken,2007,12,1.36
+Chicken,2008,1,1.355
+Chicken,2008,2,1.391
+Chicken,2008,3,1.387
+Chicken,2008,4,1.358
+Chicken,2008,5,1.388
+Chicken,2008,6,1.411
+Chicken,2008,7,1.417
+Chicken,2008,8,1.435
+Chicken,2008,9,1.481
+Chicken,2008,10,1.467
+Chicken,2008,11,1.478
+Chicken,2008,12,1.497
+Chicken,2009,1,1.506
+Chicken,2009,2,1.512
+Chicken,2009,3,1.492
+Chicken,2009,4,1.527
+Chicken,2009,5,1.553
+Chicken,2009,6,1.565
+Chicken,2009,7,1.476
+Chicken,2009,8,1.476
+Chicken,2009,9,1.43
+Chicken,2009,10,1.47
+Chicken,2009,11,1.472
+Chicken,2009,12,1.455
+Chicken,2010,1,1.436
+Chicken,2010,2,1.471
+Chicken,2010,3,1.357
+Chicken,2010,4,1.385
+Chicken,2010,5,1.433
+Chicken,2010,6,1.491
+Chicken,2010,7,1.508
+Chicken,2010,8,1.468
+Chicken,2010,9,1.521
+Chicken,2010,10,1.48
+Chicken,2010,11,1.502
+Chicken,2010,12,1.483
+Chicken,2011,1,1.422
+Chicken,2011,2,1.521
+Chicken,2011,3,1.507
+Chicken,2011,4,1.481
+Chicken,2011,5,1.483
+Chicken,2011,6,1.452
+Chicken,2011,7,1.499
+Chicken,2011,8,1.525
+Chicken,2011,9,1.561
+Chicken,2011,10,1.496
+Chicken,2011,11,1.47
+Chicken,2011,12,1.457
+Chicken,2012,1,1.585
+Chicken,2012,2,1.515
+Chicken,2012,3,1.643
+Chicken,2012,4,1.594
+Chicken,2012,5,1.588
+Chicken,2012,6,1.612
+Chicken,2012,7,1.61
+Chicken,2012,8,1.584
+Chicken,2012,9,1.492
+Chicken,2012,10,1.464
+Chicken,2012,11,1.6
+Chicken,2012,12,1.651
+Chicken,2013,1,1.583
+Chicken,2013,2,1.625
+Chicken,2013,3,1.525
+Chicken,2013,4,1.538
+Chicken,2013,5,1.609
+Chicken,2013,6,1.649
+Chicken,2013,7,1.65
+Chicken,2013,8,1.65
+Chicken,2013,9,1.658
+Chicken,2013,10,1.683
+Chicken,2013,11,1.578
+Chicken,2013,12,1.591
+Chicken,2014,1,1.536
+Chicken,2014,2,1.579
+Chicken,2014,3,1.554
+Chicken,2014,4,1.538
+Chicken,2014,5,1.559
+Chicken,2014,6,1.548
+Chicken,2014,7,1.553
+Chicken,2014,8,1.564
+Chicken,2014,9,1.575
+Chicken,2014,10,1.62
+Chicken,2014,11,1.629
+Chicken,2014,12,1.609
+Chicken,2015,1,1.584
+Chicken,2015,2,1.581
+Chicken,2015,3,1.588
+Chicken,2015,4,1.609
+Chicken,2015,5,1.552
+Chicken,2015,6,1.622
+Chicken,2015,7,1.591
+Chicken,2015,8,1.612
+Chicken,2015,9,1.595
+Chicken,2015,10,1.61
+Chicken,2015,11,1.605
+Chicken,2015,12,1.573
+Chicken,2016,1,1.579
+Chicken,2016,2,1.485
+Chicken,2016,3,1.509
+Chicken,2016,4,1.565
+Chicken,2016,5,1.528
+Chicken,2016,6,1.562
+Chicken,2016,7,1.547
+Chicken,2016,8,1.57
+Chicken,2016,9,1.548
+Chicken,2016,10,1.509
+Chicken,2016,11,1.51
+Chicken,2016,12,1.432
+Chicken,2017,1,1.462
+Chicken,2017,2,1.484
+Chicken,2017,3,1.48
+Chicken,2017,4,1.492
+Chicken,2017,5,1.454
+Chicken,2017,6,1.436
+Chicken,2017,7,1.418
+Chicken,2017,8,1.453
+Chicken,2017,9,1.439
+Chicken,2017,10,1.436
+Chicken,2017,11,1.437
+Chicken,2017,12,1.461
+Chicken,2018,1,1.327
+Chicken,2018,2,1.402
+Chicken,2018,3,1.394
+Chicken,2018,4,1.45
+Chicken,2018,5,1.447
+Chicken,2018,6,1.427
+Chicken,2018,7,1.431
+Chicken,2018,8,1.439
+Chicken,2018,9,1.426
+Chicken,2018,10,1.46
+Chicken,2018,11,1.385
+Chicken,2018,12,1.404
+Chicken,2019,1,1.381
+Chicken,2019,2,1.417
+Chicken,2019,3,1.392
+Chicken,2019,4,1.435
+Chicken,2019,5,1.442
+Chicken,2019,6,1.415
+Chicken,2019,7,1.412
+Chicken,2019,8,1.414
+Chicken,2019,9,1.425
+Chicken,2019,10,1.429
+Chicken,2019,11,1.488
+Chicken,2019,12,1.505
+Chicken,2020,1,1.451
+Chicken,2020,2,1.479
+Chicken,2020,3,1.538
+Chicken,2020,4,1.598
+Chicken,2020,5,1.581
+Chicken,2020,6,1.602
+Chicken,2020,7,1.579
+Chicken,2020,8,1.568
+Chicken,2020,9,1.557
+Chicken,2020,10,1.551
+Chicken,2020,11,1.55
+Chicken,2020,12,1.543
+Chicken,2021,1,1.6
+Chicken,2021,2,1.553
+Chicken,2021,3,1.569
+Chicken,2021,4,1.579
+Chicken,2021,5,1.593
+Chicken,2021,6,1.611
+Chicken,2021,7,1.615
+Chicken,2021,8,1.706
+Chicken,2021,9,1.723
+Chicken,2021,10,1.709
+Chicken,2021,11,1.733
+Chicken,2021,12,1.729
+Chicken,2022,1,1.731
+Chicken,2022,2,1.797
+Chicken,2022,3,1.834
+Chicken,2022,4,1.886
+Chicken,2022,5,1.861
+Chicken,2022,6,1.882
+Chicken,2022,7,1.835
+Chicken,2022,8,1.993
+Chicken,2022,9,1.975
+Chicken,2022,10,2.013
+Chicken,2022,11,2.024
+Chicken,2022,12,1.945
+Bread,1980,1,0.501
+Bread,1980,2,0.507
+Bread,1980,3,0.502
+Bread,1980,4,0.507
+Bread,1980,5,0.504
+Bread,1980,6,0.503
+Bread,1980,7,0.511
+Bread,1980,8,0.507
+Bread,1980,9,0.511
+Bread,1980,10,0.514
+Bread,1980,11,0.519
+Bread,1980,12,0.519
+Bread,1981,1,0.531
+Bread,1981,2,0.533
+Bread,1981,3,0.538
+Bread,1981,4,0.519
+Bread,1981,5,0.525
+Bread,1981,6,0.523
+Bread,1981,7,0.521
+Bread,1981,8,0.519
+Bread,1981,9,0.524
+Bread,1981,10,0.521
+Bread,1981,11,0.527
+Bread,1981,12,0.521
+Bread,1982,1,0.537
+Bread,1982,2,0.534
+Bread,1982,3,0.526
+Bread,1982,4,0.526
+Bread,1982,5,0.529
+Bread,1982,6,0.525
+Bread,1982,7,0.534
+Bread,1982,8,0.534
+Bread,1982,9,0.536
+Bread,1982,10,0.534
+Bread,1982,11,0.534
+Bread,1982,12,0.537
+Bread,1983,1,0.541
+Bread,1983,2,0.544
+Bread,1983,3,0.544
+Bread,1983,4,0.538
+Bread,1983,5,0.542
+Bread,1983,6,0.542
+Bread,1983,7,0.544
+Bread,1983,8,0.539
+Bread,1983,9,0.536
+Bread,1983,10,0.535
+Bread,1983,11,0.547
+Bread,1983,12,0.547
+Bread,1984,1,0.543
+Bread,1984,2,0.541
+Bread,1984,3,0.542
+Bread,1984,4,0.536
+Bread,1984,5,0.541
+Bread,1984,6,0.542
+Bread,1984,7,0.541
+Bread,1984,8,0.543
+Bread,1984,9,0.539
+Bread,1984,10,0.54
+Bread,1984,11,0.543
+Bread,1984,12,0.544
+Bread,1985,1,0.551
+Bread,1985,2,0.544
+Bread,1985,3,0.544
+Bread,1985,4,0.544
+Bread,1985,5,0.542
+Bread,1985,6,0.546
+Bread,1985,7,0.556
+Bread,1985,8,0.553
+Bread,1985,9,0.561
+Bread,1985,10,0.566
+Bread,1985,11,0.564
+Bread,1985,12,0.568
+Bread,1986,1,0.566
+Bread,1986,2,0.563
+Bread,1986,3,0.56
+Bread,1986,4,0.561
+Bread,1986,5,0.562
+Bread,1986,6,0.569
+Bread,1986,7,0.564
+Bread,1986,8,0.57
+Bread,1986,9,0.566
+Bread,1986,10,0.565
+Bread,1986,11,0.564
+Bread,1986,12,0.566
+Bread,1987,1,0.544
+Bread,1987,2,0.539
+Bread,1987,3,0.541
+Bread,1987,4,0.542
+Bread,1987,5,0.54
+Bread,1987,6,0.533
+Bread,1987,7,0.544
+Bread,1987,8,0.546
+Bread,1987,9,0.551
+Bread,1987,10,0.559
+Bread,1987,11,0.559
+Bread,1987,12,0.571
+Bread,1988,1,0.586
+Bread,1988,2,0.586
+Bread,1988,3,0.587
+Bread,1988,4,0.595
+Bread,1988,5,0.598
+Bread,1988,6,0.601
+Bread,1988,7,0.602
+Bread,1988,8,0.619
+Bread,1988,9,0.636
+Bread,1988,10,0.642
+Bread,1988,11,0.645
+Bread,1988,12,0.657
+Bread,1989,1,0.653
+Bread,1989,2,0.652
+Bread,1989,3,0.654
+Bread,1989,4,0.655
+Bread,1989,5,0.655
+Bread,1989,6,0.664
+Bread,1989,7,0.671
+Bread,1989,8,0.674
+Bread,1989,9,0.671
+Bread,1989,10,0.674
+Bread,1989,11,0.676
+Bread,1989,12,0.688
+Bread,1990,1,0.689
+Bread,1990,2,0.701
+Bread,1990,3,0.68
+Bread,1990,4,0.686
+Bread,1990,5,0.678
+Bread,1990,6,0.687
+Bread,1990,7,0.685
+Bread,1990,8,0.713
+Bread,1990,9,0.7
+Bread,1990,10,0.706
+Bread,1990,11,0.71
+Bread,1990,12,0.7
+Bread,1991,1,0.705
+Bread,1991,2,0.701
+Bread,1991,3,0.702
+Bread,1991,4,0.701
+Bread,1991,5,0.705
+Bread,1991,6,0.705
+Bread,1991,7,0.7
+Bread,1991,8,0.714
+Bread,1991,9,0.717
+Bread,1991,10,0.72
+Bread,1991,11,0.731
+Bread,1991,12,0.717
+Bread,1992,1,0.726
+Bread,1992,2,0.73
+Bread,1992,3,0.747
+Bread,1992,4,0.746
+Bread,1992,5,0.752
+Bread,1992,6,0.757
+Bread,1992,7,0.771
+Bread,1992,8,0.776
+Bread,1992,9,0.756
+Bread,1992,10,0.752
+Bread,1992,11,0.747
+Bread,1992,12,0.738
+Bread,1993,1,0.748
+Bread,1993,2,0.751
+Bread,1993,3,0.742
+Bread,1993,4,0.744
+Bread,1993,5,0.752
+Bread,1993,6,0.752
+Bread,1993,7,0.762
+Bread,1993,8,0.745
+Bread,1993,9,0.748
+Bread,1993,10,0.75
+Bread,1993,11,0.771
+Bread,1993,12,0.76
+Bread,1994,1,0.768
+Bread,1994,2,0.756
+Bread,1994,3,0.755
+Bread,1994,4,0.765
+Bread,1994,5,0.765
+Bread,1994,6,0.761
+Bread,1994,7,0.759
+Bread,1994,8,0.753
+Bread,1994,9,0.776
+Bread,1994,10,0.756
+Bread,1994,11,0.766
+Bread,1994,12,0.748
+Bread,1995,1,0.767
+Bread,1995,2,0.767
+Bread,1995,3,0.775
+Bread,1995,4,0.776
+Bread,1995,5,0.768
+Bread,1995,6,0.781
+Bread,1995,7,0.789
+Bread,1995,8,0.797
+Bread,1995,9,0.808
+Bread,1995,10,0.809
+Bread,1995,11,0.821
+Bread,1995,12,0.837
+Bread,1996,1,0.86
+Bread,1996,2,0.858
+Bread,1996,3,0.852
+Bread,1996,4,0.865
+Bread,1996,5,0.869
+Bread,1996,6,0.886
+Bread,1996,7,0.889
+Bread,1996,8,0.915
+Bread,1996,9,0.886
+Bread,1996,10,0.873
+Bread,1996,11,0.88
+Bread,1996,12,0.875
+Bread,1997,1,0.862
+Bread,1997,2,0.858
+Bread,1997,3,0.855
+Bread,1997,4,0.855
+Bread,1997,5,0.854
+Bread,1997,6,0.874
+Bread,1997,7,0.872
+Bread,1997,8,0.872
+Bread,1997,9,0.885
+Bread,1997,10,0.899
+Bread,1997,11,0.897
+Bread,1997,12,0.884
+Bread,1998,1,0.855
+Bread,1998,2,0.86
+Bread,1998,3,0.853
+Bread,1998,4,0.863
+Bread,1998,5,0.866
+Bread,1998,6,0.859
+Bread,1998,7,0.867
+Bread,1998,8,0.869
+Bread,1998,9,0.86
+Bread,1998,10,0.849
+Bread,1998,11,0.855
+Bread,1998,12,0.866
+Bread,1999,1,0.872
+Bread,1999,2,0.88
+Bread,1999,3,0.883
+Bread,1999,4,0.897
+Bread,1999,5,0.886
+Bread,1999,6,0.885
+Bread,1999,7,0.893
+Bread,1999,8,0.884
+Bread,1999,9,0.878
+Bread,1999,10,0.889
+Bread,1999,11,0.899
+Bread,1999,12,0.899
+Bread,2000,1,0.907
+Bread,2000,2,0.924
+Bread,2000,3,0.924
+Bread,2000,4,0.927
+Bread,2000,5,0.915
+Bread,2000,6,0.915
+Bread,2000,7,0.935
+Bread,2000,8,0.923
+Bread,2000,9,0.918
+Bread,2000,10,0.934
+Bread,2000,11,0.953
+Bread,2000,12,0.987
+Bread,2001,1,0.982
+Bread,2001,2,0.994
+Bread,2001,3,1.02
+Bread,2001,4,1.008
+Bread,2001,5,0.995
+Bread,2001,6,0.989
+Bread,2001,7,0.987
+Bread,2001,8,0.991
+Bread,2001,9,0.996
+Bread,2001,10,1.01
+Bread,2001,11,1.012
+Bread,2001,12,1.005
+Bread,2002,1,1.001
+Bread,2002,2,1.008
+Bread,2002,3,1.012
+Bread,2002,4,1.005
+Bread,2002,5,1.012
+Bread,2002,6,1.011
+Bread,2002,7,1.015
+Bread,2002,8,1.012
+Bread,2002,9,1.016
+Bread,2002,10,1.015
+Bread,2002,11,1.054
+Bread,2002,12,1.026
+Bread,2003,1,1.042
+Bread,2003,2,1.048
+Bread,2003,3,1.042
+Bread,2003,4,1.047
+Bread,2003,5,1.001
+Bread,2003,6,0.961
+Bread,2003,7,1.002
+Bread,2003,8,0.996
+Bread,2003,9,0.994
+Bread,2003,10,0.969
+Bread,2003,11,0.953
+Bread,2003,12,0.954
+Bread,2004,1,0.946
+Bread,2004,2,0.943
+Bread,2004,3,0.947
+Bread,2004,4,0.974
+Bread,2004,5,0.96
+Bread,2004,6,0.979
+Bread,2004,7,0.985
+Bread,2004,8,0.996
+Bread,2004,9,0.985
+Bread,2004,10,0.972
+Bread,2004,11,0.976
+Bread,2004,12,0.97
+Bread,2005,1,0.997
+Bread,2005,2,0.982
+Bread,2005,3,1.002
+Bread,2005,4,1.004
+Bread,2005,5,1.086
+Bread,2005,6,1.09
+Bread,2005,7,1.067
+Bread,2005,8,1.06
+Bread,2005,9,1.052
+Bread,2005,10,1.043
+Bread,2005,11,1.055
+Bread,2005,12,1.046
+Bread,2006,1,1.046
+Bread,2006,2,1.029
+Bread,2006,3,1.04
+Bread,2006,4,1.072
+Bread,2006,5,1.086
+Bread,2006,6,1.074
+Bread,2006,7,1.071
+Bread,2006,8,1.088
+Bread,2006,9,1.083
+Bread,2006,10,1.097
+Bread,2006,11,1.143
+Bread,2006,12,1.137
+Bread,2007,1,1.153
+Bread,2007,2,1.168
+Bread,2007,3,1.161
+Bread,2007,4,1.201
+Bread,2007,5,1.192
+Bread,2007,6,1.193
+Bread,2007,7,1.209
+Bread,2007,8,1.21
+Bread,2007,9,1.212
+Bread,2007,10,1.274
+Bread,2007,11,1.235
+Bread,2007,12,1.28
+Bread,2008,1,1.281
+Bread,2008,2,1.321
+Bread,2008,3,1.35
+Bread,2008,4,1.373
+Bread,2008,5,1.37
+Bread,2008,6,1.373
+Bread,2008,7,1.384
+Bread,2008,8,1.381
+Bread,2008,9,1.379
+Bread,2008,10,1.393
+Bread,2008,11,1.377
+Bread,2008,12,1.415
+Bread,2009,1,1.381
+Bread,2009,2,1.404
+Bread,2009,3,1.41
+Bread,2009,4,1.395
+Bread,2009,5,1.413
+Bread,2009,6,1.385
+Bread,2009,7,1.391
+Bread,2009,8,1.375
+Bread,2009,9,1.34
+Bread,2009,10,1.392
+Bread,2009,11,1.373
+Bread,2009,12,1.39
+Bread,2010,1,1.36
+Bread,2010,2,1.361
+Bread,2010,3,1.368
+Bread,2010,4,1.363
+Bread,2010,5,1.359
+Bread,2010,6,1.383
+Bread,2010,7,1.36
+Bread,2010,8,1.372
+Bread,2010,9,1.386
+Bread,2010,10,1.407
+Bread,2010,11,1.375
+Bread,2010,12,1.386
+Bread,2011,1,1.401
+Bread,2011,2,1.398
+Bread,2011,3,1.415
+Bread,2011,4,1.42
+Bread,2011,5,1.472
+Bread,2011,6,1.49
+Bread,2011,7,1.513
+Bread,2011,8,1.474
+Bread,2011,9,1.477
+Bread,2011,10,1.457
+Bread,2011,11,1.399
+Bread,2011,12,1.42
+Bread,2012,1,1.423
+Bread,2012,2,1.442
+Bread,2012,3,1.395
+Bread,2012,4,1.426
+Bread,2012,5,1.412
+Bread,2012,6,1.403
+Bread,2012,7,1.427
+Bread,2012,8,1.407
+Bread,2012,9,1.401
+Bread,2012,10,1.422
+Bread,2012,11,1.418
+Bread,2012,12,1.436
+Bread,2013,1,1.422
+Bread,2013,2,1.411
+Bread,2013,3,1.412
+Bread,2013,4,1.409
+Bread,2013,5,1.401
+Bread,2013,6,1.439
+Bread,2013,7,1.434
+Bread,2013,8,1.408
+Bread,2013,9,1.419
+Bread,2013,10,1.358
+Bread,2013,11,1.382
+Bread,2013,12,1.385
+Bread,2014,1,1.365
+Bread,2014,2,1.388
+Bread,2014,3,1.359
+Bread,2014,4,1.388
+Bread,2014,5,1.401
+Bread,2014,6,1.4
+Bread,2014,7,1.413
+Bread,2014,8,1.396
+Bread,2014,9,1.405
+Bread,2014,10,1.414
+Bread,2014,11,1.42
+Bread,2014,12,1.466
+Bread,2015,1,1.479
+Bread,2015,2,1.435
+Bread,2015,3,1.44
+Bread,2015,4,1.454
+Bread,2015,5,1.463
+Bread,2015,6,1.467
+Bread,2015,7,1.447
+Bread,2015,8,1.42
+Bread,2015,9,1.432
+Bread,2015,10,1.418
+Bread,2015,11,1.409
+Bread,2015,12,1.428
+Bread,2016,1,1.425
+Bread,2016,2,1.407
+Bread,2016,3,1.416
+Bread,2016,4,1.406
+Bread,2016,5,1.382
+Bread,2016,6,1.333
+Bread,2016,7,1.349
+Bread,2016,8,1.341
+Bread,2016,9,1.329
+Bread,2016,10,1.343
+Bread,2016,11,1.362
+Bread,2016,12,1.362
+Bread,2017,1,1.351
+Bread,2017,2,1.358
+Bread,2017,3,1.329
+Bread,2017,4,1.328
+Bread,2017,5,1.327
+Bread,2017,6,1.335
+Bread,2017,7,1.327
+Bread,2017,8,1.348
+Bread,2017,9,1.349
+Bread,2017,10,1.328
+Bread,2017,11,1.295
+Bread,2017,12,1.316
+Bread,2018,1,1.281
+Bread,2018,2,1.265
+Bread,2018,3,1.309
+Bread,2018,4,1.281
+Bread,2018,5,1.293
+Bread,2018,6,1.279
+Bread,2018,7,1.293
+Bread,2018,8,1.302
+Bread,2018,9,1.288
+Bread,2018,10,1.277
+Bread,2018,11,1.274
+Bread,2018,12,1.29
+Bread,2019,1,1.274
+Bread,2019,2,1.282
+Bread,2019,3,1.261
+Bread,2019,4,1.285
+Bread,2019,5,1.289
+Bread,2019,6,1.28
+Bread,2019,7,1.281
+Bread,2019,8,1.275
+Bread,2019,9,1.296
+Bread,2019,10,1.325
+Bread,2019,11,1.361
+Bread,2019,12,1.363
+Bread,2020,1,1.351
+Bread,2020,2,1.375
+Bread,2020,3,1.374
+Bread,2020,4,1.406
+Bread,2020,5,1.412
+Bread,2020,6,1.474
+Bread,2020,7,1.485
+Bread,2020,8,1.495
+Bread,2020,9,1.492
+Bread,2020,10,1.503
+Bread,2020,11,1.515
+Bread,2020,12,1.538
+Bread,2021,1,1.546
+Bread,2021,2,1.537
+Bread,2021,3,1.526
+Bread,2021,4,1.51
+Bread,2021,5,1.511
+Bread,2021,6,1.51
+Bread,2021,7,1.491
+Bread,2021,8,1.467
+Bread,2021,9,1.58
+Bread,2021,10,1.526
+Bread,2021,11,1.547
+Bread,2021,12,1.532
+Bread,2022,1,1.555
+Bread,2022,2,1.578
+Bread,2022,3,1.607
+Bread,2022,4,1.612
+Bread,2022,5,1.606
+Bread,2022,6,1.691
+Bread,2022,7,1.715
+Bread,2022,8,1.756
+Bread,2022,9,1.749
+Bread,2022,10,1.814
+Bread,2022,11,1.847
+Bread,2022,12,1.873
+Beef steaks,1980,1,2.724
+Beef steaks,1980,2,2.725
+Beef steaks,1980,3,2.737
+Beef steaks,1980,4,2.73
+Beef steaks,1980,5,2.713
+Beef steaks,1980,6,2.705
+Beef steaks,1980,7,2.769
+Beef steaks,1980,8,2.793
+Beef steaks,1980,9,2.832
+Beef steaks,1980,10,2.814
+Beef steaks,1980,11,2.867
+Beef steaks,1980,12,2.813
+Beef steaks,1981,1,2.826
+Beef steaks,1981,2,2.836
+Beef steaks,1981,3,2.798
+Beef steaks,1981,4,2.801
+Beef steaks,1981,5,2.822
+Beef steaks,1981,6,2.855
+Beef steaks,1981,7,2.891
+Beef steaks,1981,8,2.897
+Beef steaks,1981,9,2.864
+Beef steaks,1981,10,2.939
+Beef steaks,1981,11,2.916
+Beef steaks,1981,12,2.905
+Beef steaks,1982,1,2.877
+Beef steaks,1982,2,2.838
+Beef steaks,1982,3,2.902
+Beef steaks,1982,4,2.949
+Beef steaks,1982,5,2.992
+Beef steaks,1982,6,3.137
+Beef steaks,1982,7,3.018
+Beef steaks,1982,8,2.958
+Beef steaks,1982,9,2.998
+Beef steaks,1982,10,2.93
+Beef steaks,1982,11,2.941
+Beef steaks,1982,12,2.899
+Beef steaks,1983,1,2.92
+Beef steaks,1983,2,2.942
+Beef steaks,1983,3,2.907
+Beef steaks,1983,4,2.961
+Beef steaks,1983,5,3.039
+Beef steaks,1983,6,2.946
+Beef steaks,1983,7,2.944
+Beef steaks,1983,8,2.854
+Beef steaks,1983,9,2.81
+Beef steaks,1983,10,2.815
+Beef steaks,1983,11,2.831
+Beef steaks,1983,12,2.814
+Beef steaks,1984,1,2.928
+Beef steaks,1984,2,2.96
+Beef steaks,1984,3,2.977
+Beef steaks,1984,4,2.959
+Beef steaks,1984,5,2.903
+Beef steaks,1984,6,2.898
+Beef steaks,1984,7,2.826
+Beef steaks,1984,8,2.894
+Beef steaks,1984,9,2.866
+Beef steaks,1984,10,2.89
+Beef steaks,1984,11,2.852
+Beef steaks,1984,12,2.921
+Beef steaks,1985,1,2.939
+Beef steaks,1985,2,2.941
+Beef steaks,1985,3,2.947
+Beef steaks,1985,4,2.904
+Beef steaks,1985,5,2.877
+Beef steaks,1985,6,2.844
+Beef steaks,1985,7,2.762
+Beef steaks,1985,8,2.678
+Beef steaks,1985,9,2.672
+Beef steaks,1985,10,2.686
+Beef steaks,1985,11,2.781
+Beef steaks,1985,12,2.834
+Beef steaks,1986,1,2.909
+Beef steaks,1986,2,2.817
+Beef steaks,1986,3,2.825
+Beef steaks,1986,4,2.75
+Beef steaks,1986,5,2.737
+Beef steaks,1986,6,2.741
+Beef steaks,1986,7,2.661
+Beef steaks,1986,8,2.693
+Beef steaks,1986,9,2.755
+Beef steaks,1986,10,2.788
+Beef steaks,1986,11,2.747
+Beef steaks,1986,12,2.802
+Beef steaks,1987,1,2.804
+Beef steaks,1987,2,2.796
+Beef steaks,1987,3,2.756
+Beef steaks,1987,4,2.813
+Beef steaks,1987,5,2.938
+Beef steaks,1987,6,2.958
+Beef steaks,1987,7,2.909
+Beef steaks,1987,8,2.926
+Beef steaks,1987,9,2.921
+Beef steaks,1987,10,2.958
+Beef steaks,1987,11,2.923
+Beef steaks,1987,12,2.933
+Beef steaks,1988,1,2.883
+Beef steaks,1988,2,2.944
+Beef steaks,1988,3,2.944
+Beef steaks,1988,4,3.009
+Beef steaks,1988,5,3.004
+Beef steaks,1988,6,3.047
+Beef steaks,1988,7,2.989
+Beef steaks,1988,8,2.989
+Beef steaks,1988,9,3.044
+Beef steaks,1988,10,2.978
+Beef steaks,1988,11,2.995
+Beef steaks,1988,12,3.008
+Beef steaks,1989,1,3.071
+Beef steaks,1989,2,3.089
+Beef steaks,1989,3,3.116
+Beef steaks,1989,4,3.144
+Beef steaks,1989,5,3.101
+Beef steaks,1989,6,3.062
+Beef steaks,1989,7,3.114
+Beef steaks,1989,8,3.116
+Beef steaks,1989,9,3.1
+Beef steaks,1989,10,3.123
+Beef steaks,1989,11,3.185
+Beef steaks,1989,12,3.168
+Beef steaks,1990,1,3.303
+Beef steaks,1990,2,3.314
+Beef steaks,1990,3,3.266
+Beef steaks,1990,4,3.292
+Beef steaks,1990,5,3.318
+Beef steaks,1990,6,3.345
+Beef steaks,1990,7,3.293
+Beef steaks,1990,8,3.315
+Beef steaks,1990,9,3.278
+Beef steaks,1990,10,3.332
+Beef steaks,1990,11,3.394
+Beef steaks,1990,12,3.424
+Beef steaks,1991,1,3.389
+Beef steaks,1991,2,3.386
+Beef steaks,1991,3,3.473
+Beef steaks,1991,4,3.482
+Beef steaks,1991,5,3.488
+Beef steaks,1991,6,3.447
+Beef steaks,1991,7,3.412
+Beef steaks,1991,8,3.355
+Beef steaks,1991,9,3.362
+Beef steaks,1991,10,3.328
+Beef steaks,1991,11,3.384
+Beef steaks,1991,12,3.38
+Beef steaks,1992,1,3.404
+Beef steaks,1992,2,3.416
+Beef steaks,1992,3,3.452
+Beef steaks,1992,4,3.451
+Beef steaks,1992,5,3.388
+Beef steaks,1992,6,3.395
+Beef steaks,1992,7,3.334
+Beef steaks,1992,8,3.342
+Beef steaks,1992,9,3.322
+Beef steaks,1992,10,3.385
+Beef steaks,1992,11,3.383
+Beef steaks,1992,12,3.342
+Beef steaks,1993,1,3.425
+Beef steaks,1993,2,3.442
+Beef steaks,1993,3,3.427
+Beef steaks,1993,4,3.492
+Beef steaks,1993,5,3.467
+Beef steaks,1993,6,3.456
+Beef steaks,1993,7,3.372
+Beef steaks,1993,8,3.329
+Beef steaks,1993,9,3.354
+Beef steaks,1993,10,3.33
+Beef steaks,1993,11,3.363
+Beef steaks,1993,12,3.322
+Beef steaks,1994,1,3.319
+Beef steaks,1994,2,3.267
+Beef steaks,1994,3,3.293
+Beef steaks,1994,4,3.35
+Beef steaks,1994,5,3.309
+Beef steaks,1994,6,3.22
+Beef steaks,1994,7,3.162
+Beef steaks,1994,8,3.163
+Beef steaks,1994,9,3.295
+Beef steaks,1994,10,3.204
+Beef steaks,1994,11,3.227
+Beef steaks,1994,12,3.244
+Beef steaks,1995,1,3.288
+Beef steaks,1995,2,3.254
+Beef steaks,1995,3,3.253
+Beef steaks,1995,4,3.291
+Beef steaks,1995,5,3.207
+Beef steaks,1995,6,3.136
+Beef steaks,1995,7,3.209
+Beef steaks,1995,8,3.113
+Beef steaks,1995,9,3.153
+Beef steaks,1995,10,3.149
+Beef steaks,1995,11,3.221
+Beef steaks,1995,12,3.197
+Beef steaks,1996,1,3.225
+Beef steaks,1996,2,3.124
+Beef steaks,1996,3,3.084
+Beef steaks,1996,4,3.119
+Beef steaks,1996,5,3.074
+Beef steaks,1996,6,3.079
+Beef steaks,1996,7,3.076
+Beef steaks,1996,8,3.029
+Beef steaks,1996,9,3.139
+Beef steaks,1996,10,3.137
+Beef steaks,1996,11,3.126
+Beef steaks,1996,12,3.222
+Beef steaks,1997,1,3.132
+Beef steaks,1997,2,3.139
+Beef steaks,1997,3,3.145
+Beef steaks,1997,4,3.079
+Beef steaks,1997,5,3.168
+Beef steaks,1997,6,3.032
+Beef steaks,1997,7,3.056
+Beef steaks,1997,8,3.069
+Beef steaks,1997,9,3.082
+Beef steaks,1997,10,3.08
+Beef steaks,1997,11,3.093
+Beef steaks,1997,12,3.093
+Beef steaks,1998,1,3.1
+Beef steaks,1998,2,3.099
+Beef steaks,1998,3,3.154
+Beef steaks,1998,4,3.204
+Beef steaks,1998,5,3.041
+Beef steaks,1998,6,2.995
+Beef steaks,1998,7,3.096
+Beef steaks,1998,8,3.083
+Beef steaks,1998,9,3.129
+Beef steaks,1998,10,3.001
+Beef steaks,1998,11,3.087
+Beef steaks,1998,12,3.083
+Beef steaks,1999,1,3.064
+Beef steaks,1999,2,3.114
+Beef steaks,1999,3,3.125
+Beef steaks,1999,4,3.118
+Beef steaks,1999,5,3.085
+Beef steaks,1999,6,3.129
+Beef steaks,1999,7,3.168
+Beef steaks,1999,8,3.123
+Beef steaks,1999,9,3.102
+Beef steaks,1999,10,3.138
+Beef steaks,1999,11,3.182
+Beef steaks,1999,12,3.155
+Beef steaks,2000,1,3.177
+Beef steaks,2000,2,3.244
+Beef steaks,2000,3,3.152
+Beef steaks,2000,4,3.222
+Beef steaks,2000,5,3.215
+Beef steaks,2000,6,3.261
+Beef steaks,2000,7,3.269
+Beef steaks,2000,8,3.288
+Beef steaks,2000,9,3.258
+Beef steaks,2000,10,3.218
+Beef steaks,2000,11,3.255
+Beef steaks,2000,12,3.278
+Beef steaks,2001,1,3.405
+Beef steaks,2001,2,3.518
+Beef steaks,2001,3,3.552
+Beef steaks,2001,4,3.504
+Beef steaks,2001,5,3.527
+Beef steaks,2001,6,3.531
+Beef steaks,2001,7,3.518
+Beef steaks,2001,8,3.393
+Beef steaks,2001,9,3.511
+Beef steaks,2001,10,3.501
+Beef steaks,2001,11,3.543
+Beef steaks,2001,12,3.464
+Beef steaks,2002,1,3.524
+Beef steaks,2002,2,3.555
+Beef steaks,2002,3,3.534
+Beef steaks,2002,4,3.434
+Beef steaks,2002,5,3.502
+Beef steaks,2002,6,3.309
+Beef steaks,2002,7,3.455
+Beef steaks,2002,8,3.604
+Beef steaks,2002,9,3.483
+Beef steaks,2002,10,3.367
+Beef steaks,2002,11,3.697
+Beef steaks,2002,12,3.552
+Beef steaks,2003,1,3.72
+Beef steaks,2003,2,3.879
+Beef steaks,2003,3,3.8
+Beef steaks,2003,4,3.737
+Beef steaks,2003,5,3.712
+Beef steaks,2003,6,3.773
+Beef steaks,2003,7,3.605
+Beef steaks,2003,8,3.641
+Beef steaks,2003,9,3.74
+Beef steaks,2003,10,3.864
+Beef steaks,2003,11,4.279
+Beef steaks,2003,12,4.271
+Beef steaks,2004,1,4.038
+Beef steaks,2004,2,4.172
+Beef steaks,2004,3,4.022
+Beef steaks,2004,4,4.055
+Beef steaks,2004,5,4.165
+Beef steaks,2004,6,4.115
+Beef steaks,2004,7,4.17
+Beef steaks,2004,8,4.108
+Beef steaks,2004,9,4.103
+Beef steaks,2004,10,4.145
+Beef steaks,2004,11,4.253
+Beef steaks,2004,12,4.261
+Beef steaks,2005,1,4.241
+Beef steaks,2005,2,4.401
+Beef steaks,2005,3,4.267
+Beef steaks,2005,4,4.177
+Beef steaks,2005,5,4.113
+Beef steaks,2005,6,4.149
+Beef steaks,2005,7,3.901
+Beef steaks,2005,8,3.995
+Beef steaks,2005,9,3.801
+Beef steaks,2005,10,4.056
+Beef steaks,2005,11,3.935
+Beef steaks,2005,12,4.115
+Beef steaks,2006,1,4.089
+Beef steaks,2006,2,4.11
+Beef steaks,2006,3,4.014
+Beef steaks,2006,4,3.995
+Beef steaks,2006,5,3.89
+Beef steaks,2006,6,3.927
+Beef steaks,2006,7,3.846
+Beef steaks,2006,8,3.934
+Beef steaks,2006,9,3.976
+Beef steaks,2006,10,4.121
+Beef steaks,2006,11,4.106
+Beef steaks,2006,12,3.987
+Beef steaks,2007,1,4.055
+Beef steaks,2007,2,4.16
+Beef steaks,2007,3,4.213
+Beef steaks,2007,4,4.126
+Beef steaks,2007,5,4.134
+Beef steaks,2007,6,4.124
+Beef steaks,2007,7,4.244
+Beef steaks,2007,8,4.09
+Beef steaks,2007,9,4.151
+Beef steaks,2007,10,4.044
+Beef steaks,2007,11,3.935
+Beef steaks,2007,12,4.043
+Beef steaks,2008,1,3.984
+Beef steaks,2008,2,4.123
+Beef steaks,2008,3,4.071
+Beef steaks,2008,4,4.088
+Beef steaks,2008,5,4.178
+Beef steaks,2008,6,4.278
+Beef steaks,2008,7,4.229
+Beef steaks,2008,8,4.439
+Beef steaks,2008,9,4.423
+Beef steaks,2008,10,4.431
+Beef steaks,2008,11,4.241
+Beef steaks,2008,12,4.369
+Beef steaks,2009,1,4.203
+Beef steaks,2009,2,4.261
+Beef steaks,2009,3,4.148
+Beef steaks,2009,4,4.103
+Beef steaks,2009,5,3.965
+Beef steaks,2009,6,4.118
+Beef steaks,2009,7,4.012
+Beef steaks,2009,8,4.164
+Beef steaks,2009,9,4.025
+Beef steaks,2009,10,4.093
+Beef steaks,2009,11,4.376
+Beef steaks,2009,12,4.176
+Beef steaks,2010,1,4.084
+Beef steaks,2010,2,4.075
+Beef steaks,2010,3,4.271
+Beef steaks,2010,4,4.359
+Beef steaks,2010,5,4.266
+Beef steaks,2010,6,4.429
+Beef steaks,2010,7,4.303
+Beef steaks,2010,8,4.195
+Beef steaks,2010,9,4.315
+Beef steaks,2010,10,4.411
+Beef steaks,2010,11,4.339
+Beef steaks,2010,12,4.295
+Beef steaks,2011,1,4.379
+Beef steaks,2011,2,4.549
+Beef steaks,2011,3,4.459
+Beef steaks,2011,4,4.711
+Beef steaks,2011,5,4.666
+Beef steaks,2011,6,4.554
+Beef steaks,2011,7,4.558
+Beef steaks,2011,8,4.682
+Beef steaks,2011,9,4.691
+Beef steaks,2011,10,4.719
+Beef steaks,2011,11,4.6
+Beef steaks,2011,12,4.723
+Beef steaks,2012,1,4.843
+Beef steaks,2012,2,4.78
+Beef steaks,2012,3,4.813
+Beef steaks,2012,4,4.901
+Beef steaks,2012,5,4.867
+Beef steaks,2012,6,4.801
+Beef steaks,2012,7,4.843
+Beef steaks,2012,8,4.81
+Beef steaks,2012,9,4.728
+Beef steaks,2012,10,4.669
+Beef steaks,2012,11,4.77
+Beef steaks,2012,12,4.701
+Beef steaks,2013,1,4.983
+Beef steaks,2013,2,4.899
+Beef steaks,2013,3,4.961
+Beef steaks,2013,4,4.818
+Beef steaks,2013,5,4.804
+Beef steaks,2013,6,4.853
+Beef steaks,2013,7,4.856
+Beef steaks,2013,8,4.955
+Beef steaks,2013,9,4.874
+Beef steaks,2013,10,4.709
+Beef steaks,2013,11,4.822
+Beef steaks,2013,12,5.006
+Beef steaks,2014,1,5.033
+Beef steaks,2014,2,5.284
+Beef steaks,2014,3,5.295
+Beef steaks,2014,4,5.522
+Beef steaks,2014,5,5.629
+Beef steaks,2014,6,5.495
+Beef steaks,2014,7,5.577
+Beef steaks,2014,8,5.826
+Beef steaks,2014,9,6.026
+Beef steaks,2014,10,6.068
+Beef steaks,2014,11,6.157
+Beef steaks,2014,12,6.261
+Beef steaks,2015,1,6.052
+Beef steaks,2015,2,6.18
+Beef steaks,2015,3,6.209
+Beef steaks,2015,4,6.157
+Beef steaks,2015,5,6.185
+Beef steaks,2015,6,6.183
+Beef steaks,2015,7,6.243
+Beef steaks,2015,8,6.147
+Beef steaks,2015,9,6.184
+Beef steaks,2015,10,6.209
+Beef steaks,2015,11,6.081
+Beef steaks,2015,12,5.932
+Beef steaks,2016,1,5.856
+Beef steaks,2016,2,6.002
+Beef steaks,2016,3,5.968
+Beef steaks,2016,4,6.026
+Beef steaks,2016,5,6.07
+Beef steaks,2016,6,6.134
+Beef steaks,2016,7,5.76
+Beef steaks,2016,8,5.758
+Beef steaks,2016,9,6.067
+Beef steaks,2016,10,5.807
+Beef steaks,2016,11,5.758
+Beef steaks,2016,12,5.556
+Beef steaks,2017,1,5.733
+Beef steaks,2017,2,5.754
+Beef steaks,2017,3,5.728
+Beef steaks,2017,4,5.577
+Beef steaks,2017,5,5.758
+Beef steaks,2017,6,5.838
+Beef steaks,2017,7,5.939
+Beef steaks,2017,8,5.838
+Beef steaks,2017,9,5.882
+Beef steaks,2017,10,5.778
+Beef steaks,2017,11,5.798
+Beef steaks,2017,12,5.832
+Beef steaks,2018,1,5.608
+Beef steaks,2018,2,5.619
+Beef steaks,2018,3,5.512
+Beef steaks,2018,4,5.785
+Beef steaks,2018,5,5.649
+Beef steaks,2018,6,5.8
+Beef steaks,2018,7,5.694
+Beef steaks,2018,8,5.807
+Beef steaks,2018,9,5.839
+Beef steaks,2018,10,5.791
+Beef steaks,2018,11,5.681
+Beef steaks,2018,12,5.687
+Beef steaks,2019,1,5.601
+Beef steaks,2019,2,5.722
+Beef steaks,2019,3,5.839
+Beef steaks,2019,4,5.856
+Beef steaks,2019,5,5.892
+Beef steaks,2019,6,5.882
+Beef steaks,2019,7,5.977
+Beef steaks,2019,8,5.834
+Beef steaks,2019,9,5.858
+Beef steaks,2019,10,5.774
+Beef steaks,2019,11,5.793
+Beef steaks,2019,12,5.977
+Beef steaks,2020,1,5.963
+Beef steaks,2020,2,6.091
+Beef steaks,2020,3,6.091
+Beef steaks,2020,4,6.41
+Beef steaks,2020,5,7.301
+Beef steaks,2020,6,7.394
+Beef steaks,2020,7,6.95
+Beef steaks,2020,8,6.579
+Beef steaks,2020,9,6.447
+Beef steaks,2020,10,6.383
+Beef steaks,2020,11,6.449
+Beef steaks,2020,12,6.339
+Beef steaks,2021,1,6.522
+Beef steaks,2021,2,6.443
+Beef steaks,2021,3,6.412
+Beef steaks,2021,4,6.64
+Beef steaks,2021,5,6.737
+Beef steaks,2021,6,7.297
+Beef steaks,2021,7,7.183
+Beef steaks,2021,8,7.112
+Beef steaks,2021,9,7.282
+Beef steaks,2021,10,7.304
+Beef steaks,2021,11,7.404
+Beef steaks,2021,12,7.342
+Beef steaks,2022,1,7.378
+Beef steaks,2022,2,7.489
+Beef steaks,2022,3,7.324
+Beef steaks,2022,4,7.266
+Beef steaks,2022,5,7.438
+Beef steaks,2022,6,7.318
+Beef steaks,2022,7,7.131
+Beef steaks,2022,8,7.201
+Beef steaks,2022,9,7.184
+Beef steaks,2022,10,7.173
+Beef steaks,2022,11,7.159
+Beef steaks,2022,12,7.061
+Flour,1980,1,0.203
+Flour,1980,2,0.205
+Flour,1980,3,0.211
+Flour,1980,4,0.206
+Flour,1980,5,0.207
+Flour,1980,6,0.21
+Flour,1980,7,0.214
+Flour,1980,8,0.215
+Flour,1980,9,0.214
+Flour,1980,10,0.212
+Flour,1980,11,0.211
+Flour,1980,12,0.211
+Flour,1981,1,0.217
+Flour,1981,2,0.222
+Flour,1981,3,0.224
+Flour,1981,4,0.225
+Flour,1981,5,0.227
+Flour,1981,6,0.228
+Flour,1981,7,0.228
+Flour,1981,8,0.23
+Flour,1981,9,0.225
+Flour,1981,10,0.226
+Flour,1981,11,0.221
+Flour,1981,12,0.218
+Flour,1982,1,0.224
+Flour,1982,2,0.226
+Flour,1982,3,0.223
+Flour,1982,4,0.22
+Flour,1982,5,0.228
+Flour,1982,6,0.227
+Flour,1982,7,0.232
+Flour,1982,8,0.227
+Flour,1982,9,0.223
+Flour,1982,10,0.221
+Flour,1982,11,0.216
+Flour,1982,12,0.216
+Flour,1983,1,0.217
+Flour,1983,2,0.214
+Flour,1983,3,0.211
+Flour,1983,4,0.213
+Flour,1983,5,0.216
+Flour,1983,6,0.223
+Flour,1983,7,0.223
+Flour,1983,8,0.227
+Flour,1983,9,0.223
+Flour,1983,10,0.219
+Flour,1983,11,0.217
+Flour,1983,12,0.211
+Flour,1984,1,0.213
+Flour,1984,2,0.216
+Flour,1984,3,0.216
+Flour,1984,4,0.215
+Flour,1984,5,0.215
+Flour,1984,6,0.217
+Flour,1984,7,0.219
+Flour,1984,8,0.215
+Flour,1984,9,0.212
+Flour,1984,10,0.211
+Flour,1984,11,0.208
+Flour,1984,12,0.204
+Flour,1985,1,0.212
+Flour,1985,2,0.213
+Flour,1985,3,0.212
+Flour,1985,4,0.211
+Flour,1985,5,0.215
+Flour,1985,6,0.216
+Flour,1985,7,0.216
+Flour,1985,8,0.216
+Flour,1985,9,0.212
+Flour,1985,10,0.211
+Flour,1985,11,0.207
+Flour,1985,12,0.202
+Flour,1986,1,0.207
+Flour,1986,2,0.209
+Flour,1986,3,0.208
+Flour,1986,4,0.206
+Flour,1986,5,0.211
+Flour,1986,6,0.214
+Flour,1986,7,0.214
+Flour,1986,8,0.215
+Flour,1986,9,0.211
+Flour,1986,10,0.208
+Flour,1986,11,0.2
+Flour,1986,12,0.198
+Flour,1987,1,0.202
+Flour,1987,2,0.211
+Flour,1987,3,0.202
+Flour,1987,4,0.202
+Flour,1987,5,0.208
+Flour,1987,6,0.208
+Flour,1987,7,0.213
+Flour,1987,8,0.211
+Flour,1987,9,0.207
+Flour,1987,10,0.203
+Flour,1987,11,0.2
+Flour,1987,12,0.198
+Flour,1988,1,0.202
+Flour,1988,2,0.199
+Flour,1988,3,0.202
+Flour,1988,4,0.199
+Flour,1988,5,0.208
+Flour,1988,6,0.21
+Flour,1988,7,0.215
+Flour,1988,8,0.227
+Flour,1988,9,0.233
+Flour,1988,10,0.231
+Flour,1988,11,0.22
+Flour,1988,12,0.223
+Flour,1989,1,0.228
+Flour,1989,2,0.233
+Flour,1989,3,0.234
+Flour,1989,4,0.238
+Flour,1989,5,0.241
+Flour,1989,6,0.246
+Flour,1989,7,0.254
+Flour,1989,8,0.258
+Flour,1989,9,0.256
+Flour,1989,10,0.255
+Flour,1989,11,0.248
+Flour,1989,12,0.244
+Flour,1990,1,0.253
+Flour,1990,2,0.249
+Flour,1990,3,0.252
+Flour,1990,4,0.251
+Flour,1990,5,0.254
+Flour,1990,6,0.259
+Flour,1990,7,0.26
+Flour,1990,8,0.255
+Flour,1990,9,0.249
+Flour,1990,10,0.244
+Flour,1990,11,0.235
+Flour,1990,12,0.236
+Flour,1991,1,0.244
+Flour,1991,2,0.235
+Flour,1991,3,0.235
+Flour,1991,4,0.237
+Flour,1991,5,0.235
+Flour,1991,6,0.237
+Flour,1991,7,0.239
+Flour,1991,8,0.238
+Flour,1991,9,0.232
+Flour,1991,10,0.23
+Flour,1991,11,0.218
+Flour,1991,12,0.223
+Flour,1992,1,0.241
+Flour,1992,2,0.244
+Flour,1992,3,0.239
+Flour,1992,4,0.238
+Flour,1992,5,0.245
+Flour,1992,6,0.244
+Flour,1992,7,0.252
+Flour,1992,8,0.256
+Flour,1992,9,0.249
+Flour,1992,10,0.241
+Flour,1992,11,0.234
+Flour,1992,12,0.233
+Flour,1993,1,0.242
+Flour,1993,2,0.242
+Flour,1993,3,0.238
+Flour,1993,4,0.23
+Flour,1993,5,0.239
+Flour,1993,6,0.238
+Flour,1993,7,0.237
+Flour,1993,8,0.238
+Flour,1993,9,0.232
+Flour,1993,10,0.228
+Flour,1993,11,0.227
+Flour,1993,12,0.222
+Flour,1994,1,0.233
+Flour,1994,2,0.23
+Flour,1994,3,0.226
+Flour,1994,4,0.226
+Flour,1994,5,0.229
+Flour,1994,6,0.236
+Flour,1994,7,0.236
+Flour,1994,8,0.238
+Flour,1994,9,0.237
+Flour,1994,10,0.232
+Flour,1994,11,0.225
+Flour,1994,12,0.225
+Flour,1995,1,0.238
+Flour,1995,2,0.242
+Flour,1995,3,0.242
+Flour,1995,4,0.236
+Flour,1995,5,0.244
+Flour,1995,6,0.244
+Flour,1995,7,0.248
+Flour,1995,8,0.255
+Flour,1995,9,0.256
+Flour,1995,10,0.254
+Flour,1995,11,0.243
+Flour,1995,12,0.243
+Flour,1996,1,0.262
+Flour,1996,2,0.262
+Flour,1996,3,0.274
+Flour,1996,4,0.266
+Flour,1996,5,0.281
+Flour,1996,6,0.297
+Flour,1996,7,0.308
+Flour,1996,8,0.314
+Flour,1996,9,0.308
+Flour,1996,10,0.293
+Flour,1996,11,0.295
+Flour,1996,12,0.292
+Flour,1997,1,0.309
+Flour,1997,2,0.308
+Flour,1997,3,0.305
+Flour,1997,4,0.304
+Flour,1997,5,0.31
+Flour,1997,6,0.31
+Flour,1997,7,0.309
+Flour,1997,8,0.307
+Flour,1997,9,0.305
+Flour,1997,10,0.294
+Flour,1997,11,0.283
+Flour,1997,12,0.279
+Flour,1998,1,0.299
+Flour,1998,2,0.297
+Flour,1998,3,0.302
+Flour,1998,4,0.298
+Flour,1998,5,0.308
+Flour,1998,6,0.305
+Flour,1998,7,0.307
+Flour,1998,8,0.31
+Flour,1998,9,0.305
+Flour,1998,10,0.301
+Flour,1998,11,0.287
+Flour,1998,12,0.279
+Flour,1999,1,0.297
+Flour,1999,2,0.293
+Flour,1999,3,0.289
+Flour,1999,4,0.283
+Flour,1999,5,0.306
+Flour,1999,6,0.303
+Flour,1999,7,0.308
+Flour,1999,8,0.311
+Flour,1999,9,0.31
+Flour,1999,10,0.288
+Flour,1999,11,0.272
+Flour,1999,12,0.267
+Flour,2000,1,0.286
+Flour,2000,2,0.267
+Flour,2000,3,0.285
+Flour,2000,4,0.283
+Flour,2000,5,0.302
+Flour,2000,6,0.305
+Flour,2000,7,0.305
+Flour,2000,8,0.304
+Flour,2000,9,0.303
+Flour,2000,10,0.306
+Flour,2000,11,0.262
+Flour,2000,12,0.275
+Flour,2001,1,0.304
+Flour,2001,2,0.307
+Flour,2001,3,0.312
+Flour,2001,4,0.276
+Flour,2001,5,0.31
+Flour,2001,6,0.313
+Flour,2001,7,0.315
+Flour,2001,8,0.318
+Flour,2001,9,0.296
+Flour,2001,10,0.309
+Flour,2001,11,0.286
+Flour,2001,12,0.282
+Flour,2002,1,0.319
+Flour,2002,2,0.318
+Flour,2002,3,0.31
+Flour,2002,4,0.307
+Flour,2002,5,0.323
+Flour,2002,6,0.325
+Flour,2002,7,0.32
+Flour,2002,8,0.322
+Flour,2002,9,0.322
+Flour,2002,10,0.289
+Flour,2002,11,0.291
+Flour,2002,12,0.292
+Flour,2003,1,0.316
+Flour,2003,2,0.299
+Flour,2003,3,0.319
+Flour,2003,4,0.318
+Flour,2003,5,0.327
+Flour,2003,6,0.327
+Flour,2003,7,0.328
+Flour,2003,8,0.329
+Flour,2003,9,0.317
+Flour,2003,10,0.288
+Flour,2003,11,0.285
+Flour,2003,12,0.287
+Flour,2004,1,0.307
+Flour,2004,2,0.302
+Flour,2004,3,0.3
+Flour,2004,4,0.283
+Flour,2004,5,0.297
+Flour,2004,6,0.312
+Flour,2004,7,0.324
+Flour,2004,8,0.324
+Flour,2004,9,0.307
+Flour,2004,10,0.299
+Flour,2004,11,0.291
+Flour,2004,12,0.285
+Flour,2005,1,0.325
+Flour,2005,2,0.326
+Flour,2005,3,0.326
+Flour,2005,4,0.322
+Flour,2005,5,0.329
+Flour,2005,6,0.337
+Flour,2005,7,0.34
+Flour,2005,8,0.341
+Flour,2005,9,0.329
+Flour,2005,10,0.311
+Flour,2005,11,0.298
+Flour,2005,12,0.303
+Flour,2006,1,0.328
+Flour,2006,2,0.326
+Flour,2006,3,0.326
+Flour,2006,4,0.32
+Flour,2006,5,0.331
+Flour,2006,6,0.336
+Flour,2006,7,0.339
+Flour,2006,8,0.341
+Flour,2006,9,0.341
+Flour,2006,10,0.321
+Flour,2006,11,0.317
+Flour,2006,12,0.318
+Flour,2007,1,0.346
+Flour,2007,2,0.356
+Flour,2007,3,0.357
+Flour,2007,4,0.354
+Flour,2007,5,0.351
+Flour,2007,6,0.35
+Flour,2007,7,0.353
+Flour,2007,8,0.355
+Flour,2007,9,0.36
+Flour,2007,10,0.355
+Flour,2007,11,0.388
+Flour,2007,12,0.398
+Flour,2008,1,0.421
+Flour,2008,2,0.455
+Flour,2008,3,0.489
+Flour,2008,4,0.518
+Flour,2008,5,0.534
+Flour,2008,6,0.529
+Flour,2008,7,0.544
+Flour,2008,8,0.539
+Flour,2008,9,0.532
+Flour,2008,10,0.521
+Flour,2008,11,0.494
+Flour,2008,12,0.504
+Flour,2009,1,0.517
+Flour,2009,2,0.509
+Flour,2009,3,0.503
+Flour,2009,4,0.485
+Flour,2009,5,0.515
+Flour,2009,6,0.516
+Flour,2009,7,0.519
+Flour,2009,8,0.517
+Flour,2009,9,0.51
+Flour,2009,10,0.5
+Flour,2009,11,0.458
+Flour,2009,12,0.464
+Flour,2010,1,0.491
+Flour,2010,2,0.496
+Flour,2010,3,0.479
+Flour,2010,4,0.473
+Flour,2010,5,0.485
+Flour,2010,6,0.484
+Flour,2010,7,0.484
+Flour,2010,8,0.489
+Flour,2010,9,0.483
+Flour,2010,10,0.472
+Flour,2010,11,0.446
+Flour,2010,12,0.441
+Flour,2011,1,0.477
+Flour,2011,2,0.494
+Flour,2011,3,0.508
+Flour,2011,4,0.5
+Flour,2011,5,0.521
+Flour,2011,6,0.528
+Flour,2011,7,0.533
+Flour,2011,8,0.537
+Flour,2011,9,0.55
+Flour,2011,10,0.542
+Flour,2011,11,0.517
+Flour,2011,12,0.51
+Flour,2012,1,0.528
+Flour,2012,2,0.528
+Flour,2012,3,0.519
+Flour,2012,4,0.515
+Flour,2012,5,0.513
+Flour,2012,6,0.519
+Flour,2012,7,0.516
+Flour,2012,8,0.531
+Flour,2012,9,0.528
+Flour,2012,10,0.509
+Flour,2012,11,0.497
+Flour,2012,12,0.5
+Flour,2013,1,0.524
+Flour,2013,2,0.524
+Flour,2013,3,0.499
+Flour,2013,4,0.522
+Flour,2013,5,0.53
+Flour,2013,6,0.533
+Flour,2013,7,0.53
+Flour,2013,8,0.529
+Flour,2013,9,0.522
+Flour,2013,10,0.516
+Flour,2013,11,0.517
+Flour,2013,12,0.513
+Flour,2014,1,0.543
+Flour,2014,2,0.555
+Flour,2014,3,0.551
+Flour,2014,4,0.547
+Flour,2014,5,0.532
+Flour,2014,6,0.532
+Flour,2014,7,0.527
+Flour,2014,8,0.531
+Flour,2014,9,0.513
+Flour,2014,10,0.501
+Flour,2014,11,0.515
+Flour,2014,12,0.511
+Flour,2015,1,0.545
+Flour,2015,2,0.525
+Flour,2015,3,0.518
+Flour,2015,4,0.509
+Flour,2015,5,0.52
+Flour,2015,6,0.519
+Flour,2015,7,0.515
+Flour,2015,8,0.524
+Flour,2015,9,0.517
+Flour,2015,10,0.511
+Flour,2015,11,0.496
+Flour,2015,12,0.501
+Flour,2016,1,0.522
+Flour,2016,2,0.522
+Flour,2016,3,0.512
+Flour,2016,4,0.521
+Flour,2016,5,0.525
+Flour,2016,6,0.529
+Flour,2016,7,0.543
+Flour,2016,8,0.546
+Flour,2016,9,0.547
+Flour,2016,10,0.523
+Flour,2016,11,0.507
+Flour,2016,12,0.503
+Flour,2017,1,0.53
+Flour,2017,2,0.526
+Flour,2017,3,0.531
+Flour,2017,4,0.516
+Flour,2017,5,0.517
+Flour,2017,6,0.507
+Flour,2017,7,0.512
+Flour,2017,8,0.512
+Flour,2017,9,0.505
+Flour,2017,10,0.5
+Flour,2017,11,0.469
+Flour,2017,12,0.462
+Flour,2018,1,0.471
+Flour,2018,2,0.47
+Flour,2018,3,0.468
+Flour,2018,4,0.472
+Flour,2018,5,0.469
+Flour,2018,6,0.469
+Flour,2018,7,0.468
+Flour,2018,8,0.464
+Flour,2018,9,0.467
+Flour,2018,10,0.453
+Flour,2018,11,0.433
+Flour,2018,12,0.437
+Flour,2019,1,0.439
+Flour,2019,2,0.443
+Flour,2019,3,0.445
+Flour,2019,4,0.434
+Flour,2019,5,0.454
+Flour,2019,6,0.448
+Flour,2019,7,0.454
+Flour,2019,8,0.45
+Flour,2019,9,0.449
+Flour,2019,10,0.432
+Flour,2019,11,0.417
+Flour,2019,12,0.429
+Flour,2020,1,0.438
+Flour,2020,2,0.438
+Flour,2020,3,0.442
+Flour,2020,5,0.461
+Flour,2020,6,0.468
+Flour,2020,7,0.461
+Flour,2020,8,0.459
+Flour,2020,9,0.451
+Flour,2020,10,0.452
+Flour,2020,11,0.445
+Flour,2020,12,0.45
+Flour,2021,1,0.446
+Flour,2021,2,0.44
+Flour,2021,3,0.436
+Flour,2021,4,0.437
+Flour,2021,5,0.439
+Flour,2021,6,0.356
+Flour,2021,7,0.368
+Flour,2021,8,0.371
+Flour,2021,9,0.382
+Flour,2021,10,0.396
+Flour,2021,11,0.386
+Flour,2021,12,0.388
+Flour,2022,1,0.424
+Flour,2022,2,0.428
+Flour,2022,3,0.448
+Flour,2022,4,0.455
+Flour,2022,5,0.456
+Flour,2022,6,0.498
+Flour,2022,7,0.533
+Flour,2022,8,0.549
+Flour,2022,9,0.556
+Flour,2022,10,0.534
+Flour,2022,11,0.524
+Flour,2022,12,0.522

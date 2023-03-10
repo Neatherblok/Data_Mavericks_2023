@@ -1,0 +1,235 @@
+ppi_item,curr_month,curr_year,lower,mid,upper,pred_year
+Farm-level cattle,7,2021.0,-16.5,3.3,28.1,2022
+Farm-level cattle,8,2021.0,-16.7,3.3,28.1,2022
+Farm-level cattle,9,2021.0,-15.8,3.3,27.8,2022
+Farm-level cattle,10,2021.0,-15.3,3.1,26.3,2022
+Farm-level cattle,11,2021.0,-15.2,2.5,24.0,2022
+Farm-level cattle,12,2021.0,-11.4,5.9,26.7,2022
+Farm-level cattle,1,2022.0,-7.5,8.9,28.8,2022
+Farm-level cattle,2,2022.0,-5.3,9.4,26.7,2022
+Farm-level cattle,3,2022.0,2.5,16.3,32.7,2022
+Farm-level cattle,4,2022.0,4.1,15.9,30.0,2022
+Farm-level cattle,5,2022.0,6.4,16.4,28.2,2022
+Farm-level cattle,6,2022.0,7.5,16.0,25.4,2022
+Farm-level cattle,7,2022.0,11.6,18.4,26.3,2022
+Farm-level cattle,8,2022.0,11.5,16.8,22.8,2022
+Farm-level cattle,9,2022.0,13.9,18.0,22.6,2022
+Farm-level cattle,10,2022.0,14.7,17.4,20.4,2022
+Farm-level cattle,11,2022.0,15.6,17.2,19.1,2022
+Farm-level cattle,12,2022.0,17.2,18.0,18.9,2022
+Wholesale beef,7,2021.0,-26.3,12.2,71.2,2022
+Wholesale beef,8,2021.0,-17.3,4.0,32.3,2022
+Wholesale beef,9,2021.0,-15.4,8.0,37.6,2022
+Wholesale beef,10,2021.0,-13.2,10.9,42.0,2022
+Wholesale beef,11,2021.0,-15.2,6.5,34.5,2022
+Wholesale beef,12,2021.0,-14.9,6.6,33.7,2022
+Wholesale beef,1,2022.0,-17.8,2.3,26.9,2022
+Wholesale beef,2,2022.0,-13.9,4.1,27.4,2022
+Wholesale beef,3,2022.0,-13.6,1.1,19.4,2022
+Wholesale beef,4,2022.0,-13.9,-1.0,15.0,2022
+Wholesale beef,5,2022.0,-11.8,-0.9,12.9,2022
+Wholesale beef,6,2022.0,-12.0,-2.6,9.1,2022
+Wholesale beef,7,2022.0,-9.8,-1.8,7.9,2022
+Wholesale beef,8,2022.0,-8.9,-2.4,5.5,2022
+Wholesale beef,9,2022.0,-8.0,-3.0,2.7,2022
+Wholesale beef,10,2022.0,-7.8,-4.3,-0.1,2022
+Wholesale beef,11,2022.0,-7.7,-5.5,-2.8,2022
+Wholesale beef,12,2022.0,-6.5,-5.4,-4.1,2022
+Wholesale pork,7,2021.0,-16.7,6.6,35.0,2022
+Wholesale pork,8,2021.0,-18.1,4.0,33.1,2022
+Wholesale pork,9,2021.0,-16.7,5.3,33.6,2022
+Wholesale pork,10,2021.0,-17.2,4.0,30.7,2022
+Wholesale pork,11,2021.0,-18.4,1.1,25.8,2022
+Wholesale pork,12,2021.0,-20.6,-2.7,19.4,2022
+Wholesale pork,1,2022.0,-19.1,-7.8,5.0,2022
+Wholesale pork,2,2022.0,-19.7,-9.6,1.7,2022
+Wholesale pork,3,2022.0,-17.2,-8.2,2.2,2022
+Wholesale pork,4,2022.0,-14.4,-6.2,3.4,2022
+Wholesale pork,5,2022.0,-11.5,-4.2,4.2,2022
+Wholesale pork,6,2022.0,-11.1,-4.8,2.3,2022
+Wholesale pork,7,2022.0,-9.1,-3.8,2.3,2022
+Wholesale pork,8,2022.0,-8.1,-3.8,1.0,2022
+Wholesale pork,9,2022.0,-6.0,-2.7,1.1,2022
+Wholesale pork,10,2022.0,-4.7,-2.3,0.4,2022
+Wholesale pork,11,2022.0,-3.5,-2.0,-0.3,2022
+Wholesale pork,12,2022.0,-2.7,-2.0,-1.2,2022
+Wholesale poultry,7,2021.0,-6.5,9.2,28.3,2022
+Wholesale poultry,8,2021.0,-6.7,3.4,15.1,2022
+Wholesale poultry,9,2021.0,-5.7,4.1,15.3,2022
+Wholesale poultry,10,2021.0,-4.1,6.0,17.3,2022
+Wholesale poultry,11,2021.0,-4.2,5.2,15.9,2022
+Wholesale poultry,12,2021.0,-6.0,2.8,12.7,2022
+Wholesale poultry,1,2022.0,-2.7,5.6,14.7,2022
+Wholesale poultry,2,2022.0,1.3,9.1,17.5,2022
+Wholesale poultry,3,2022.0,6.2,13.0,20.7,2022
+Wholesale poultry,4,2022.0,9.3,15.6,22.4,2022
+Wholesale poultry,5,2022.0,12.7,19.9,27.8,2022
+Wholesale poultry,6,2022.0,19.7,26.2,33.5,2022
+Wholesale poultry,7,2022.0,21.6,26.8,32.5,2022
+Wholesale poultry,8,2022.0,20.6,24.3,28.4,2022
+Wholesale poultry,9,2022.0,19.3,21.7,24.4,2022
+Wholesale poultry,10,2022.0,17.2,18.7,20.3,2022
+Wholesale poultry,11,2022.0,16.4,17.4,18.3,2022
+Wholesale poultry,12,2022.0,18.1,18.5,19.0,2022
+Farm-level eggs,7,2021.0,-29.8,6.0,62.8,2022
+Farm-level eggs,8,2021.0,-30.3,4.8,56.6,2022
+Farm-level eggs,9,2021.0,-30.2,4.5,54.3,2022
+Farm-level eggs,10,2021.0,-30.9,2.2,51.8,2022
+Farm-level eggs,11,2021.0,-30.2,3.1,56.3,2022
+Farm-level eggs,12,2021.0,-30.2,3.0,52.8,2022
+Farm-level eggs,1,2022.0,-25.3,10.5,64.7,2022
+Farm-level eggs,2,2022.0,-24.4,7.3,54.9,2022
+Farm-level eggs,3,2022.0,-13.8,18.5,67.9,2022
+Farm-level eggs,4,2022.0,-9.1,19.2,64.5,2022
+Farm-level eggs,5,2022.0,25.7,63.5,123.7,2022
+Farm-level eggs,6,2022.0,46.7,82.9,144.6,2022
+Farm-level eggs,7,2022.0,46.8,74.0,118.1,2022
+Farm-level eggs,8,2022.0,75.8,105.4,154.1,2022
+Farm-level eggs,9,2022.0,79.8,100.4,135.1,2022
+Farm-level eggs,10,2022.0,96.1,114.3,143.6,2022
+Farm-level eggs,11,2022.0,117.0,131.8,155.1,2022
+Farm-level eggs,12,2022.0,138.9,148.1,162.6,2022
+Farm-level milk,7,2021.0,-36.6,-0.6,55.6,2022
+Farm-level milk,8,2021.0,-30.0,1.5,46.3,2022
+Farm-level milk,9,2021.0,-30.2,-1.0,40.5,2022
+Farm-level milk,10,2021.0,-26.9,2.9,44.8,2022
+Farm-level milk,11,2021.0,-22.0,7.8,48.7,2022
+Farm-level milk,12,2021.0,-17.0,12.3,52.8,2022
+Farm-level milk,1,2022.0,-10.7,5.0,23.1,2022
+Farm-level milk,2,2022.0,-0.7,15.5,35.0,2022
+Farm-level milk,3,2022.0,-0.5,13.9,31.5,2022
+Farm-level milk,4,2022.0,10.0,24.6,42.5,2022
+Farm-level milk,5,2022.0,13.8,27.1,43.2,2022
+Farm-level milk,6,2022.0,20.2,32.1,46.7,2022
+Farm-level milk,7,2022.0,22.8,32.5,44.6,2022
+Farm-level milk,8,2022.0,24.8,32.5,41.9,2022
+Farm-level milk,9,2022.0,26.0,31.6,38.6,2022
+Farm-level milk,10,2022.0,30.2,34.4,39.3,2022
+Farm-level milk,11,2022.0,34.3,37.0,40.1,2022
+Farm-level milk,12,2022.0,35.8,36.8,38.0,2022
+Wholesale dairy,7,2021.0,-15.0,0.8,20.6,2022
+Wholesale dairy,8,2021.0,-10.7,1.3,15.1,2022
+Wholesale dairy,9,2021.0,-10.6,0.9,14.4,2022
+Wholesale dairy,10,2021.0,-9.5,1.8,14.6,2022
+Wholesale dairy,11,2021.0,-8.5,2.4,15.1,2022
+Wholesale dairy,12,2021.0,-7.2,3.1,14.3,2022
+Wholesale dairy,1,2022.0,-3.1,6.8,18.3,2022
+Wholesale dairy,2,2022.0,1.4,11.0,21.8,2022
+Wholesale dairy,3,2022.0,3.7,13.2,24.3,2022
+Wholesale dairy,4,2022.0,8.4,17.1,27.0,2022
+Wholesale dairy,5,2022.0,11.5,19.0,27.1,2022
+Wholesale dairy,6,2022.0,12.8,18.8,25.5,2022
+Wholesale dairy,7,2022.0,15.1,19.8,25.1,2022
+Wholesale dairy,8,2022.0,15.5,19.1,23.1,2022
+Wholesale dairy,9,2022.0,15.5,18.1,20.8,2022
+Wholesale dairy,10,2022.0,16.7,18.3,20.1,2022
+Wholesale dairy,11,2022.0,17.6,18.5,19.4,2022
+Wholesale dairy,12,2022.0,18.0,18.3,18.6,2022
+Farm-level soybeans,7,2021.0,-30.2,0.1,44.5,2022
+Farm-level soybeans,8,2021.0,-33.9,-3.1,42.8,2022
+Farm-level soybeans,9,2021.0,-32.7,-1.6,44.3,2022
+Farm-level soybeans,10,2021.0,-35.6,-8.6,29.5,2022
+Farm-level soybeans,11,2021.0,-39.9,-13.8,23.2,2022
+Farm-level soybeans,12,2021.0,-37.6,-14.0,19.8,2022
+Farm-level soybeans,1,2022.0,-29.2,-9.4,17.9,2022
+Farm-level soybeans,2,2022.0,-20.1,-0.3,24.7,2022
+Farm-level soybeans,3,2022.0,-9.1,10.2,36.4,2022
+Farm-level soybeans,4,2022.0,-1.8,16.5,39.6,2022
+Farm-level soybeans,5,2022.0,2.8,18.2,38.1,2022
+Farm-level soybeans,6,2022.0,2.9,15.6,31.3,2022
+Farm-level soybeans,7,2022.0,8.6,19.5,32.8,2022
+Farm-level soybeans,8,2022.0,4.6,12.4,21.7,2022
+Farm-level soybeans,9,2022.0,6.9,12.5,19.4,2022
+Farm-level soybeans,10,2022.0,8.7,12.5,17.1,2022
+Farm-level soybeans,11,2022.0,7.6,9.7,12.1,2022
+Farm-level soybeans,12,2022.0,9.9,11.0,12.2,2022
+Wholesale fats and oils,7,2021.0,7.1,35.4,72.8,2022
+Wholesale fats and oils,8,2021.0,-15.9,-0.1,19.1,2022
+Wholesale fats and oils,9,2021.0,-19.6,-6.0,10.4,2022
+Wholesale fats and oils,10,2021.0,-20.5,-7.6,7.7,2022
+Wholesale fats and oils,11,2021.0,-13.9,-0.6,15.3,2022
+Wholesale fats and oils,12,2021.0,-8.6,4.1,19.6,2022
+Wholesale fats and oils,1,2022.0,-13.0,-3.1,8.0,2022
+Wholesale fats and oils,2,2022.0,-3.0,6.4,17.1,2022
+Wholesale fats and oils,3,2022.0,20.1,35.6,54.6,2022
+Wholesale fats and oils,4,2022.0,34.7,50.3,69.7,2022
+Wholesale fats and oils,5,2022.0,29.6,40.2,52.6,2022
+Wholesale fats and oils,6,2022.0,32.9,41.5,51.4,2022
+Wholesale fats and oils,7,2022.0,28.2,34.1,40.8,2022
+Wholesale fats and oils,8,2022.0,22.1,26.1,30.6,2022
+Wholesale fats and oils,9,2022.0,22.8,25.5,28.4,2022
+Wholesale fats and oils,10,2022.0,24.3,26.0,27.8,2022
+Wholesale fats and oils,11,2022.0,24.2,25.1,26.1,2022
+Wholesale fats and oils,12,2022.0,25.7,26.1,26.5,2022
+Farm-level fruits,7,2021.0,-12.7,-1.2,11.9,2022
+Farm-level fruits,8,2021.0,-12.8,-1.2,11.7,2022
+Farm-level fruits,9,2021.0,-12.7,-0.9,11.7,2022
+Farm-level fruits,10,2021.0,-12.5,-1.1,11.8,2022
+Farm-level fruits,11,2021.0,-12.4,-1.1,11.8,2022
+Farm-level fruits,12,2021.0,-10.5,1.1,14.1,2022
+Farm-level fruits,1,2022.0,-9.7,1.5,13.9,2022
+Farm-level fruits,2,2022.0,-6.3,4.4,16.2,2022
+Farm-level fruits,3,2022.0,-2.1,8.1,19.3,2022
+Farm-level fruits,4,2022.0,-2.0,6.8,16.6,2022
+Farm-level fruits,5,2022.0,2.2,10.6,20.0,2022
+Farm-level fruits,6,2022.0,4.2,11.7,19.9,2022
+Farm-level fruits,7,2022.0,5.8,12.1,19.3,2022
+Farm-level fruits,8,2022.0,8.0,13.4,19.6,2022
+Farm-level fruits,9,2022.0,9.8,14.2,19.2,2022
+Farm-level fruits,10,2022.0,11.1,14.4,18.1,2022
+Farm-level fruits,11,2022.0,14.7,17.1,19.8,2022
+Farm-level fruits,12,2022.0,17.1,18.4,19.9,2022
+Farm-level vegetables,7,2021.0,-12.8,6.7,29.2,2022
+Farm-level vegetables,8,2021.0,-10.6,6.9,27.7,2022
+Farm-level vegetables,9,2021.0,-10.8,7.0,27.6,2022
+Farm-level vegetables,10,2021.0,-11.3,5.8,26.1,2022
+Farm-level vegetables,11,2021.0,-12.6,4.5,24.6,2022
+Farm-level vegetables,12,2021.0,-13.1,4.2,24.9,2022
+Farm-level vegetables,1,2022.0,-12.9,4.1,24.9,2022
+Farm-level vegetables,2,2022.0,-9.8,5.8,25.0,2022
+Farm-level vegetables,3,2022.0,-9.0,5.8,23.2,2022
+Farm-level vegetables,4,2022.0,1.7,17.4,36.3,2022
+Farm-level vegetables,5,2022.0,-0.3,12.0,27.8,2022
+Farm-level vegetables,6,2022.0,1.5,12.9,26.8,2022
+Farm-level vegetables,7,2022.0,3.6,14.6,28.2,2022
+Farm-level vegetables,8,2022.0,9.2,18.6,30.8,2022
+Farm-level vegetables,9,2022.0,12.9,20.9,31.3,2022
+Farm-level vegetables,10,2022.0,19.7,26.5,35.3,2022
+Farm-level vegetables,11,2022.0,30.1,35.8,42.9,2022
+Farm-level vegetables,12,2022.0,45.4,49.5,55.0,2022
+Farm-level wheat,7,2021.0,-28.8,1.3,43.8,2022
+Farm-level wheat,8,2021.0,-27.7,3.2,48.6,2022
+Farm-level wheat,9,2021.0,-21.0,11.4,57.1,2022
+Farm-level wheat,10,2021.0,-20.0,10.7,55.0,2022
+Farm-level wheat,11,2021.0,-16.8,13.4,56.7,2022
+Farm-level wheat,12,2021.0,-11.1,19.2,62.4,2022
+Farm-level wheat,1,2022.0,-6.3,22.8,61.7,2022
+Farm-level wheat,2,2022.0,-6.5,18.9,52.8,2022
+Farm-level wheat,3,2022.0,-1.6,19.9,49.6,2022
+Farm-level wheat,4,2022.0,20.1,44.2,76.2,2022
+Farm-level wheat,5,2022.0,27.3,49.0,77.7,2022
+Farm-level wheat,6,2022.0,32.4,50.3,73.4,2022
+Farm-level wheat,7,2022.0,32.3,46.2,64.0,2022
+Farm-level wheat,8,2022.0,20.2,29.2,40.3,2022
+Farm-level wheat,9,2022.0,21.4,27.8,35.5,2022
+Farm-level wheat,10,2022.0,26.5,31.3,37.2,2022
+Farm-level wheat,11,2022.0,29.3,32.4,36.1,2022
+Farm-level wheat,12,2022.0,30.4,31.7,33.3,2022
+Wholesale wheat flour,7,2021.0,-13.9,2.2,21.0,2022
+Wholesale wheat flour,8,2021.0,-11.7,4.8,24.5,2022
+Wholesale wheat flour,9,2021.0,-8.1,8.9,27.9,2022
+Wholesale wheat flour,10,2021.0,-7.5,8.8,27.4,2022
+Wholesale wheat flour,11,2021.0,-4.0,12.0,30.5,2022
+Wholesale wheat flour,12,2021.0,-1.6,13.5,31.9,2022
+Wholesale wheat flour,1,2022.0,0.1,14.1,30.0,2022
+Wholesale wheat flour,2,2022.0,0.3,12.6,26.5,2022
+Wholesale wheat flour,3,2022.0,1.3,10.9,21.7,2022
+Wholesale wheat flour,4,2022.0,9.4,18.5,29.0,2022
+Wholesale wheat flour,5,2022.0,13.2,21.2,30.5,2022
+Wholesale wheat flour,6,2022.0,18.8,26.2,34.5,2022
+Wholesale wheat flour,7,2022.0,20.4,26.3,32.8,2022
+Wholesale wheat flour,8,2022.0,18.4,22.9,27.9,2022
+Wholesale wheat flour,9,2022.0,18.0,21.3,24.8,2022
+Wholesale wheat flour,10,2022.0,20.2,22.6,25.1,2022
+Wholesale wheat flour,11,2022.0,22.0,23.4,25.0,2022
+Wholesale wheat flour,12,2022.0,22.9,23.6,24.3,2022

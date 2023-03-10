@@ -1,0 +1,235 @@
+ppi_item,curr_month,curr_year,lower,mid,upper,pred_year
+Farm-level cattle,7,2006.0,-18.0,-1.2,20.0,2007
+Farm-level cattle,8,2006.0,-13.7,-0.2,15.3,2007
+Farm-level cattle,9,2006.0,-13.3,0.0,15.7,2007
+Farm-level cattle,10,2006.0,-12.9,0.7,16.0,2007
+Farm-level cattle,11,2006.0,-12.8,0.2,15.4,2007
+Farm-level cattle,12,2006.0,-13.5,-1.0,13.1,2007
+Farm-level cattle,1,2007.0,-11.6,0.0,13.3,2007
+Farm-level cattle,2,2007.0,-8.6,2.3,15.1,2007
+Farm-level cattle,3,2007.0,-6.7,3.4,14.6,2007
+Farm-level cattle,4,2007.0,-2.5,6.8,17.2,2007
+Farm-level cattle,5,2007.0,0.6,8.8,18.1,2007
+Farm-level cattle,6,2007.0,2.0,9.2,17.5,2007
+Farm-level cattle,7,2007.0,0.3,5.9,12.4,2007
+Farm-level cattle,8,2007.0,3.8,8.8,14.8,2007
+Farm-level cattle,9,2007.0,4.7,8.6,13.1,2007
+Farm-level cattle,10,2007.0,5.5,8.2,11.3,2007
+Farm-level cattle,11,2007.0,6.2,7.8,9.5,2007
+Farm-level cattle,12,2007.0,7.1,7.8,8.5,2007
+Wholesale beef,7,2006.0,-13.8,-0.3,15.0,2007
+Wholesale beef,8,2006.0,-13.5,-0.4,14.8,2007
+Wholesale beef,9,2006.0,-13.8,-0.8,13.8,2007
+Wholesale beef,10,2006.0,-12.9,-0.3,13.8,2007
+Wholesale beef,11,2006.0,-13.0,-1.0,12.6,2007
+Wholesale beef,12,2006.0,-13.0,-1.7,11.2,2007
+Wholesale beef,1,2007.0,-13.5,-3.1,8.7,2007
+Wholesale beef,2,2007.0,-10.1,-0.8,9.7,2007
+Wholesale beef,3,2007.0,-6.7,1.9,11.4,2007
+Wholesale beef,4,2007.0,-3.9,3.8,12.0,2007
+Wholesale beef,5,2007.0,-0.8,6.1,13.7,2007
+Wholesale beef,6,2007.0,1.4,7.1,13.7,2007
+Wholesale beef,7,2007.0,1.7,6.6,12.0,2007
+Wholesale beef,8,2007.0,-0.9,3.0,7.1,2007
+Wholesale beef,9,2007.0,1.5,4.5,7.7,2007
+Wholesale beef,10,2007.0,2.5,4.7,7.0,2007
+Wholesale beef,11,2007.0,1.8,3.0,4.3,2007
+Wholesale beef,12,2007.0,1.9,2.4,2.9,2007
+Wholesale pork,7,2006.0,-19.1,2.4,30.1,2007
+Wholesale pork,8,2006.0,-15.7,6.3,34.2,2007
+Wholesale pork,9,2006.0,-16.3,5.2,32.1,2007
+Wholesale pork,10,2006.0,-17.2,3.5,28.8,2007
+Wholesale pork,11,2006.0,-18.9,0.4,24.1,2007
+Wholesale pork,12,2006.0,-18.9,-1.0,21.2,2007
+Wholesale pork,1,2007.0,-17.4,-1.1,19.3,2007
+Wholesale pork,2,2007.0,-17.0,-2.5,14.5,2007
+Wholesale pork,3,2007.0,-10.6,2.7,18.6,2007
+Wholesale pork,4,2007.0,-7.9,3.6,17.6,2007
+Wholesale pork,5,2007.0,-6.2,3.7,15.4,2007
+Wholesale pork,6,2007.0,-0.4,8.6,18.8,2007
+Wholesale pork,7,2007.0,1.9,9.2,17.6,2007
+Wholesale pork,8,2007.0,2.9,8.3,14.8,2007
+Wholesale pork,9,2007.0,2.8,6.8,11.4,2007
+Wholesale pork,10,2007.0,2.8,5.5,8.5,2007
+Wholesale pork,11,2007.0,3.2,4.7,6.5,2007
+Wholesale pork,12,2007.0,3.7,4.4,5.2,2007
+Wholesale poultry,7,2006.0,-10.3,4.7,22.4,2007
+Wholesale poultry,8,2006.0,-11.0,3.6,20.4,2007
+Wholesale poultry,9,2006.0,-8.9,5.8,22.5,2007
+Wholesale poultry,10,2006.0,-8.6,5.2,21.1,2007
+Wholesale poultry,11,2006.0,-11.8,0.5,14.7,2007
+Wholesale poultry,12,2006.0,-9.9,1.6,14.7,2007
+Wholesale poultry,1,2007.0,-5.7,5.5,18.3,2007
+Wholesale poultry,2,2007.0,-1.6,8.5,20.1,2007
+Wholesale poultry,3,2007.0,1.3,10.6,20.8,2007
+Wholesale poultry,4,2007.0,5.3,13.5,22.6,2007
+Wholesale poultry,5,2007.0,6.2,12.9,20.2,2007
+Wholesale poultry,6,2007.0,9.5,15.4,21.6,2007
+Wholesale poultry,7,2007.0,9.0,13.5,18.3,2007
+Wholesale poultry,8,2007.0,11.3,14.8,18.6,2007
+Wholesale poultry,9,2007.0,11.1,13.4,16.0,2007
+Wholesale poultry,10,2007.0,12.4,14.0,15.7,2007
+Wholesale poultry,11,2007.0,11.8,12.7,13.6,2007
+Wholesale poultry,12,2007.0,12.4,12.8,13.2,2007
+Farm-level eggs,7,2006.0,-16.2,8.3,40.6,2007
+Farm-level eggs,8,2006.0,-11.6,13.8,47.7,2007
+Farm-level eggs,9,2006.0,-12.1,12.0,44.4,2007
+Farm-level eggs,10,2006.0,-11.7,12.2,43.7,2007
+Farm-level eggs,11,2006.0,-12.3,12.1,43.9,2007
+Farm-level eggs,12,2006.0,-8.8,16.0,46.8,2007
+Farm-level eggs,1,2007.0,-5.9,20.4,54.5,2007
+Farm-level eggs,2,2007.0,-5.1,18.0,49.0,2007
+Farm-level eggs,3,2007.0,-4.0,17.4,46.0,2007
+Farm-level eggs,4,2007.0,0.3,19.6,44.8,2007
+Farm-level eggs,5,2007.0,1.1,17.2,38.8,2007
+Farm-level eggs,6,2007.0,6.8,21.9,41.4,2007
+Farm-level eggs,7,2007.0,7.5,19.0,34.7,2007
+Farm-level eggs,8,2007.0,20.9,32.7,47.8,2007
+Farm-level eggs,9,2007.0,30.2,40.3,53.4,2007
+Farm-level eggs,10,2007.0,43.0,52.1,63.7,2007
+Farm-level eggs,11,2007.0,46.7,52.7,60.0,2007
+Farm-level eggs,12,2007.0,53.4,57.2,61.9,2007
+Farm-level milk,7,2006.0,-9.8,6.2,25.8,2007
+Farm-level milk,8,2006.0,-8.9,7.4,26.4,2007
+Farm-level milk,9,2006.0,-9.1,6.6,25.2,2007
+Farm-level milk,10,2006.0,-9.1,6.0,24.8,2007
+Farm-level milk,11,2006.0,-9.1,6.4,24.7,2007
+Farm-level milk,12,2006.0,-8.7,6.4,24.6,2007
+Farm-level milk,1,2007.0,-7.6,7.2,25.2,2007
+Farm-level milk,2,2007.0,-4.6,9.2,25.7,2007
+Farm-level milk,3,2007.0,-2.1,10.9,26.0,2007
+Farm-level milk,4,2007.0,2.6,14.7,29.2,2007
+Farm-level milk,5,2007.0,7.4,18.8,32.5,2007
+Farm-level milk,6,2007.0,14.8,25.5,38.3,2007
+Farm-level milk,7,2007.0,26.5,37.2,50.4,2007
+Farm-level milk,8,2007.0,32.5,41.7,52.5,2007
+Farm-level milk,9,2007.0,33.9,40.5,47.9,2007
+Farm-level milk,10,2007.0,42.1,47.2,53.4,2007
+Farm-level milk,11,2007.0,44.8,47.5,50.6,2007
+Farm-level milk,12,2007.0,47.5,48.6,49.8,2007
+Wholesale dairy,7,2006.0,-10.4,-0.1,11.2,2007
+Wholesale dairy,8,2006.0,-16.2,-0.8,17.2,2007
+Wholesale dairy,9,2006.0,-14.9,-0.2,17.4,2007
+Wholesale dairy,10,2006.0,-9.0,0.8,12.0,2007
+Wholesale dairy,11,2006.0,-9.2,0.4,11.0,2007
+Wholesale dairy,12,2006.0,-9.1,4.1,19.8,2007
+Wholesale dairy,1,2007.0,-6.7,2.1,12.1,2007
+Wholesale dairy,2,2007.0,-4.4,3.7,12.7,2007
+Wholesale dairy,3,2007.0,-2.3,5.0,13.3,2007
+Wholesale dairy,4,2007.0,0.4,6.9,14.3,2007
+Wholesale dairy,5,2007.0,2.2,8.0,14.5,2007
+Wholesale dairy,6,2007.0,7.7,14.1,21.2,2007
+Wholesale dairy,7,2007.0,12.9,18.7,24.8,2007
+Wholesale dairy,8,2007.0,15.0,19.4,24.1,2007
+Wholesale dairy,9,2007.0,15.5,18.5,21.8,2007
+Wholesale dairy,10,2007.0,17.7,19.8,21.9,2007
+Wholesale dairy,11,2007.0,17.7,18.7,19.9,2007
+Wholesale dairy,12,2007.0,18.7,19.1,19.5,2007
+Farm-level soybeans,7,2006.0,-31.9,0.3,47.5,2007
+Farm-level soybeans,8,2006.0,-30.5,1.5,48.8,2007
+Farm-level soybeans,9,2006.0,-33.1,-3.4,39.8,2007
+Farm-level soybeans,10,2006.0,-34.3,-6.2,34.6,2007
+Farm-level soybeans,11,2006.0,-30.3,-2.2,39.0,2007
+Farm-level soybeans,12,2006.0,-17.9,12.9,55.6,2007
+Farm-level soybeans,1,2007.0,-16.5,12.7,53.3,2007
+Farm-level soybeans,2,2007.0,-13.2,12.2,48.0,2007
+Farm-level soybeans,3,2007.0,0.3,26.4,61.9,2007
+Farm-level soybeans,4,2007.0,-1.2,19.7,48.0,2007
+Farm-level soybeans,5,2007.0,3.8,22.5,47.1,2007
+Farm-level soybeans,6,2007.0,10.6,26.7,47.7,2007
+Farm-level soybeans,7,2007.0,16.9,30.6,48.5,2007
+Farm-level soybeans,8,2007.0,23.3,35.1,50.1,2007
+Farm-level soybeans,9,2007.0,21.9,29.8,39.5,2007
+Farm-level soybeans,10,2007.0,29.3,35.6,43.0,2007
+Farm-level soybeans,11,2007.0,33.1,37.0,41.6,2007
+Farm-level soybeans,12,2007.0,38.8,40.8,43.2,2007
+Wholesale fats and oils,7,2006.0,-15.8,0.3,19.8,2007
+Wholesale fats and oils,8,2006.0,-13.9,1.0,19.6,2007
+Wholesale fats and oils,9,2006.0,-13.3,1.9,19.4,2007
+Wholesale fats and oils,10,2006.0,-11.6,2.7,19.9,2007
+Wholesale fats and oils,11,2006.0,-11.7,1.7,17.6,2007
+Wholesale fats and oils,12,2006.0,-9.5,3.6,19.0,2007
+Wholesale fats and oils,1,2007.0,-6.7,6.2,20.9,2007
+Wholesale fats and oils,2,2007.0,-3.7,7.7,21.1,2007
+Wholesale fats and oils,3,2007.0,-3.0,7.0,18.5,2007
+Wholesale fats and oils,4,2007.0,-0.4,8.3,18.5,2007
+Wholesale fats and oils,5,2007.0,1.6,9.0,17.5,2007
+Wholesale fats and oils,6,2007.0,6.1,12.7,20.4,2007
+Wholesale fats and oils,7,2007.0,7.5,13.0,18.9,2007
+Wholesale fats and oils,8,2007.0,11.0,15.3,19.9,2007
+Wholesale fats and oils,9,2007.0,12.6,15.6,18.9,2007
+Wholesale fats and oils,10,2007.0,12.7,14.8,17.1,2007
+Wholesale fats and oils,11,2007.0,14.6,15.8,17.0,2007
+Wholesale fats and oils,12,2007.0,16.5,17.1,17.7,2007
+Farm-level fruits,7,2006.0,-19.9,3.5,34.6,2007
+Farm-level fruits,8,2006.0,-19.0,5.2,36.6,2007
+Farm-level fruits,9,2006.0,-14.5,11.8,45.9,2007
+Farm-level fruits,10,2006.0,-12.9,14.4,50.4,2007
+Farm-level fruits,11,2006.0,-9.7,17.4,53.5,2007
+Farm-level fruits,12,2006.0,-16.7,7.4,37.7,2007
+Farm-level fruits,1,2007.0,-9.3,14.7,46.3,2007
+Farm-level fruits,2,2007.0,-10.5,10.2,36.8,2007
+Farm-level fruits,3,2007.0,-1.7,17.7,42.8,2007
+Farm-level fruits,4,2007.0,-0.3,16.0,37.2,2007
+Farm-level fruits,5,2007.0,0.1,13.8,31.5,2007
+Farm-level fruits,6,2007.0,6.1,18.9,34.2,2007
+Farm-level fruits,7,2007.0,4.2,13.8,25.3,2007
+Farm-level fruits,8,2007.0,2.9,10.3,19.3,2007
+Farm-level fruits,9,2007.0,2.4,7.8,14.2,2007
+Farm-level fruits,10,2007.0,3.9,7.8,12.4,2007
+Farm-level fruits,11,2007.0,5.9,8.5,11.7,2007
+Farm-level fruits,12,2007.0,7.9,9.4,11.1,2007
+Farm-level vegetables,7,2006.0,-18.4,-6.6,6.4,2007
+Farm-level vegetables,8,2006.0,-20.6,-7.6,7.4,2007
+Farm-level vegetables,9,2006.0,-22.6,-10.3,3.7,2007
+Farm-level vegetables,10,2006.0,-24.3,-12.4,1.4,2007
+Farm-level vegetables,11,2006.0,-24.2,-12.5,1.4,2007
+Farm-level vegetables,12,2006.0,-23.2,-11.8,1.4,2007
+Farm-level vegetables,1,2007.0,-20.9,-11.8,-1.5,2007
+Farm-level vegetables,2,2007.0,-19.9,-11.1,-1.2,2007
+Farm-level vegetables,3,2007.0,-11.0,1.6,16.4,2007
+Farm-level vegetables,4,2007.0,-6.0,6.4,21.0,2007
+Farm-level vegetables,5,2007.0,0.4,12.8,27.4,2007
+Farm-level vegetables,6,2007.0,-3.8,5.9,17.6,2007
+Farm-level vegetables,7,2007.0,-2.9,5.7,16.4,2007
+Farm-level vegetables,8,2007.0,-3.4,3.7,12.4,2007
+Farm-level vegetables,9,2007.0,-4.0,2.0,9.5,2007
+Farm-level vegetables,10,2007.0,-2.1,2.7,8.8,2007
+Farm-level vegetables,11,2007.0,2.4,6.3,11.3,2007
+Farm-level vegetables,12,2007.0,4.0,5.8,8.4,2007
+Farm-level wheat,7,2006.0,-24.9,1.7,39.4,2007
+Farm-level wheat,8,2006.0,-21.9,5.8,44.1,2007
+Farm-level wheat,9,2006.0,-26.8,-1.3,32.4,2007
+Farm-level wheat,10,2006.0,-23.8,1.3,35.3,2007
+Farm-level wheat,11,2006.0,-16.5,9.6,46.6,2007
+Farm-level wheat,12,2006.0,-14.4,11.3,45.5,2007
+Farm-level wheat,1,2007.0,-13.7,9.2,40.1,2007
+Farm-level wheat,2,2007.0,-14.8,4.8,30.6,2007
+Farm-level wheat,3,2007.0,-7.2,10.6,34.7,2007
+Farm-level wheat,4,2007.0,-3.2,12.8,33.2,2007
+Farm-level wheat,5,2007.0,0.2,14.2,31.5,2007
+Farm-level wheat,6,2007.0,3.5,15.3,29.5,2007
+Farm-level wheat,7,2007.0,11.4,21.9,34.8,2007
+Farm-level wheat,8,2007.0,16.9,25.6,36.0,2007
+Farm-level wheat,9,2007.0,23.4,30.6,39.0,2007
+Farm-level wheat,10,2007.0,36.4,42.8,50.1,2007
+Farm-level wheat,11,2007.0,41.2,45.2,49.9,2007
+Farm-level wheat,12,2007.0,42.1,43.9,45.9,2007
+Wholesale wheat flour,7,2006.0,-11.8,2.5,19.2,2007
+Wholesale wheat flour,8,2006.0,-10.8,3.9,21.0,2007
+Wholesale wheat flour,9,2006.0,-12.6,1.4,17.5,2007
+Wholesale wheat flour,10,2006.0,-11.5,2.5,18.6,2007
+Wholesale wheat flour,11,2006.0,-7.0,6.5,22.7,2007
+Wholesale wheat flour,12,2006.0,-6.4,6.6,21.1,2007
+Wholesale wheat flour,1,2007.0,-7.8,3.8,16.8,2007
+Wholesale wheat flour,2,2007.0,-8.4,1.7,13.0,2007
+Wholesale wheat flour,3,2007.0,-7.1,1.6,11.3,2007
+Wholesale wheat flour,4,2007.0,-4.0,3.8,12.2,2007
+Wholesale wheat flour,5,2007.0,-0.4,6.3,13.9,2007
+Wholesale wheat flour,6,2007.0,1.2,6.8,13.1,2007
+Wholesale wheat flour,7,2007.0,5.1,9.9,15.2,2007
+Wholesale wheat flour,8,2007.0,7.9,11.9,16.2,2007
+Wholesale wheat flour,9,2007.0,10.8,13.9,17.1,2007
+Wholesale wheat flour,10,2007.0,17.6,20.2,23.2,2007
+Wholesale wheat flour,11,2007.0,20.6,22.3,24.1,2007
+Wholesale wheat flour,12,2007.0,20.5,21.3,22.1,2007

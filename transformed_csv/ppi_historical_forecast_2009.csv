@@ -1,0 +1,235 @@
+ppi_item,curr_month,curr_year,lower,mid,upper,pred_year
+Farm-level cattle,7,2008.0,-16.2,0.5,20.7,2009
+Farm-level cattle,8,2008.0,-12.4,0.8,16.3,2009
+Farm-level cattle,9,2008.0,-12.0,1.3,16.6,2009
+Farm-level cattle,10,2008.0,-11.9,1.1,16.2,2009
+Farm-level cattle,11,2008.0,-14.2,-1.9,12.4,2009
+Farm-level cattle,12,2008.0,-11.7,0.6,14.6,2009
+Farm-level cattle,1,2009.0,-21.1,-7.5,8.6,2009
+Farm-level cattle,2,2009.0,-20.1,-8.3,5.9,2009
+Farm-level cattle,3,2009.0,-19.3,-8.9,3.1,2009
+Farm-level cattle,4,2009.0,-17.1,-9.0,0.3,2009
+Farm-level cattle,5,2009.0,-13.0,-5.7,2.5,2009
+Farm-level cattle,6,2009.0,-13.8,-7.8,-0.7,2009
+Farm-level cattle,7,2009.0,-15.4,-10.2,-4.2,2009
+Farm-level cattle,8,2009.0,-12.9,-8.7,-3.9,2009
+Farm-level cattle,9,2009.0,-12.8,-9.5,-5.8,2009
+Farm-level cattle,10,2009.0,-12.0,-9.8,-7.3,2009
+Farm-level cattle,11,2009.0,-11.6,-10.3,-8.8,2009
+Farm-level cattle,12,2009.0,-10.8,-10.2,-9.5,2009
+Wholesale beef,7,2008.0,-12.3,1.8,17.9,2009
+Wholesale beef,8,2008.0,-10.6,3.7,20.0,2009
+Wholesale beef,9,2008.0,-10.0,4.0,20.2,2009
+Wholesale beef,10,2008.0,-9.8,3.6,19.7,2009
+Wholesale beef,11,2008.0,-13.0,-0.1,14.8,2009
+Wholesale beef,12,2008.0,-11.3,1.0,15.1,2009
+Wholesale beef,1,2009.0,-11.0,0.2,13.1,2009
+Wholesale beef,2,2009.0,-16.1,-6.5,5.0,2009
+Wholesale beef,3,2009.0,-15.9,-7.3,2.6,2009
+Wholesale beef,4,2009.0,-17.4,-10.0,-1.9,2009
+Wholesale beef,5,2009.0,-14.2,-7.7,-0.5,2009
+Wholesale beef,6,2009.0,-9.3,-3.4,3.1,2009
+Wholesale beef,7,2009.0,-11.0,-6.5,-1.3,2009
+Wholesale beef,8,2009.0,-11.8,-8.3,-4.2,2009
+Wholesale beef,9,2009.0,-8.9,-6.0,-2.8,2009
+Wholesale beef,10,2009.0,-8.0,-6.0,-3.7,2009
+Wholesale beef,11,2009.0,-8.7,-7.5,-6.3,2009
+Wholesale beef,12,2009.0,-7.9,-7.4,-6.9,2009
+Wholesale pork,7,2008.0,-18.9,2.8,30.0,2009
+Wholesale pork,8,2008.0,-17.0,4.3,31.7,2009
+Wholesale pork,9,2008.0,-12.2,10.1,38.5,2009
+Wholesale pork,10,2008.0,-15.1,6.6,33.3,2009
+Wholesale pork,11,2008.0,-16.9,2.8,28.4,2009
+Wholesale pork,12,2008.0,-24.3,-6.7,15.1,2009
+Wholesale pork,1,2009.0,-23.8,-8.3,10.1,2009
+Wholesale pork,2,2009.0,-24.5,-11.3,3.9,2009
+Wholesale pork,3,2009.0,-23.2,-11.8,2.0,2009
+Wholesale pork,4,2009.0,-22.5,-12.8,-1.0,2009
+Wholesale pork,5,2009.0,-20.1,-11.6,-1.8,2009
+Wholesale pork,6,2009.0,-17.7,-10.8,-2.4,2009
+Wholesale pork,7,2009.0,-16.8,-11.1,-4.5,2009
+Wholesale pork,8,2009.0,-16.0,-11.5,-6.4,2009
+Wholesale pork,9,2009.0,-14.8,-11.6,-7.9,2009
+Wholesale pork,10,2009.0,-14.3,-12.2,-9.7,2009
+Wholesale pork,11,2009.0,-13.6,-12.3,-10.9,2009
+Wholesale pork,12,2009.0,-12.6,-12.0,-11.3,2009
+Wholesale poultry,7,2008.0,-12.0,2.3,19.1,2009
+Wholesale poultry,8,2008.0,-11.6,2.4,19.1,2009
+Wholesale poultry,9,2008.0,-11.9,2.0,17.5,2009
+Wholesale poultry,10,2008.0,-11.4,2.0,17.5,2009
+Wholesale poultry,11,2008.0,-10.8,1.7,16.3,2009
+Wholesale poultry,12,2008.0,-12.7,-1.5,11.6,2009
+Wholesale poultry,1,2009.0,-12.0,-1.8,9.6,2009
+Wholesale poultry,2,2009.0,-6.6,2.9,13.6,2009
+Wholesale poultry,3,2009.0,-6.3,1.8,11.0,2009
+Wholesale poultry,4,2009.0,-5.6,1.2,8.9,2009
+Wholesale poultry,5,2009.0,-3.8,2.0,8.4,2009
+Wholesale poultry,6,2009.0,-0.7,4.3,9.6,2009
+Wholesale poultry,7,2009.0,1.7,5.7,10.1,2009
+Wholesale poultry,8,2009.0,1.0,4.0,7.2,2009
+Wholesale poultry,9,2009.0,0.6,2.7,4.9,2009
+Wholesale poultry,10,2009.0,1.5,2.9,4.4,2009
+Wholesale poultry,11,2009.0,1.2,2.0,2.8,2009
+Wholesale poultry,12,2009.0,1.5,1.9,2.2,2009
+Farm-level eggs,7,2008.0,-47.3,-8.5,60.2,2009
+Farm-level eggs,8,2008.0,-52.0,-13.3,59.9,2009
+Farm-level eggs,9,2008.0,-50.5,-10.8,61.1,2009
+Farm-level eggs,10,2008.0,-43.1,-1.2,76.6,2009
+Farm-level eggs,11,2008.0,-39.9,2.2,76.8,2009
+Farm-level eggs,12,2008.0,-39.1,-0.3,66.1,2009
+Farm-level eggs,1,2009.0,-39.5,-8.2,45.6,2009
+Farm-level eggs,2,2009.0,-38.6,-11.3,34.1,2009
+Farm-level eggs,3,2009.0,-42.6,-20.9,12.1,2009
+Farm-level eggs,4,2009.0,-43.8,-26.5,-0.1,2009
+Farm-level eggs,5,2009.0,-37.5,-21.2,3.7,2009
+Farm-level eggs,6,2009.0,-44.6,-33.8,-17.0,2009
+Farm-level eggs,7,2009.0,-43.4,-34.9,-22.2,2009
+Farm-level eggs,8,2009.0,-41.0,-34.2,-24.4,2009
+Farm-level eggs,9,2009.0,-36.5,-30.6,-22.7,2009
+Farm-level eggs,10,2009.0,-33.5,-29.1,-23.3,2009
+Farm-level eggs,11,2009.0,-31.6,-28.8,-25.2,2009
+Farm-level eggs,12,2009.0,-28.9,-27.2,-24.9,2009
+Farm-level milk,7,2008.0,-27.3,1.9,41.6,2009
+Farm-level milk,8,2008.0,-28.6,0.2,39.4,2009
+Farm-level milk,9,2008.0,-29.9,-4.2,33.1,2009
+Farm-level milk,10,2008.0,-27.4,-1.0,35.4,2009
+Farm-level milk,11,2008.0,-27.7,-2.8,31.8,2009
+Farm-level milk,12,2008.0,-29.9,-7.5,23.0,2009
+Farm-level milk,1,2009.0,-36.2,-17.0,9.3,2009
+Farm-level milk,2,2009.0,-46.1,-31.2,-10.5,2009
+Farm-level milk,3,2009.0,-48.3,-35.8,-18.8,2009
+Farm-level milk,4,2009.0,-40.1,-27.9,-11.4,2009
+Farm-level milk,5,2009.0,-41.6,-31.9,-18.8,2009
+Farm-level milk,6,2009.0,-44.0,-36.6,-27.6,2009
+Farm-level milk,7,2009.0,-42.9,-37.1,-29.5,2009
+Farm-level milk,8,2009.0,-40.9,-36.4,-30.8,2009
+Farm-level milk,9,2009.0,-37.7,-34.0,-29.7,2009
+Farm-level milk,10,2009.0,-35.1,-32.5,-29.6,2009
+Farm-level milk,11,2009.0,-32.3,-30.8,-29.0,2009
+Farm-level milk,12,2009.0,-31.0,-30.4,-29.7,2009
+Wholesale dairy,7,2008.0,-15.5,3.1,26.3,2009
+Wholesale dairy,8,2008.0,-15.1,1.4,21.6,2009
+Wholesale dairy,9,2008.0,-15.9,-0.1,19.2,2009
+Wholesale dairy,10,2008.0,-16.4,-1.3,16.8,2009
+Wholesale dairy,11,2008.0,-15.5,-1.4,15.9,2009
+Wholesale dairy,12,2008.0,-16.8,-3.9,11.3,2009
+Wholesale dairy,1,2009.0,-19.1,-7.5,6.1,2009
+Wholesale dairy,2,2009.0,-26.4,-16.7,-5.4,2009
+Wholesale dairy,3,2009.0,-26.6,-18.3,-8.5,2009
+Wholesale dairy,4,2009.0,-23.9,-16.7,-8.5,2009
+Wholesale dairy,5,2009.0,-21.1,-14.9,-7.8,2009
+Wholesale dairy,6,2009.0,-21.0,-16.1,-10.7,2009
+Wholesale dairy,7,2009.0,-20.2,-16.5,-12.4,2009
+Wholesale dairy,8,2009.0,-19.1,-16.3,-13.2,2009
+Wholesale dairy,9,2009.0,-17.4,-15.3,-13.1,2009
+Wholesale dairy,10,2009.0,-16.5,-15.1,-13.7,2009
+Wholesale dairy,11,2009.0,-15.2,-14.4,-13.5,2009
+Wholesale dairy,12,2009.0,-14.5,-14.2,-13.8,2009
+Farm-level soybeans,7,2008.0,-31.1,3.6,55.1,2009
+Farm-level soybeans,8,2008.0,-28.5,7.0,58.4,2009
+Farm-level soybeans,9,2008.0,-37.7,-7.0,39.6,2009
+Farm-level soybeans,10,2008.0,-37.5,-7.7,37.4,2009
+Farm-level soybeans,11,2008.0,-51.8,-29.0,6.3,2009
+Farm-level soybeans,12,2008.0,-49.4,-27.6,5.4,2009
+Farm-level soybeans,1,2009.0,-52.6,-33.4,-5.2,2009
+Farm-level soybeans,2,2009.0,-40.8,-20.2,9.8,2009
+Farm-level soybeans,3,2009.0,-37.4,-19.1,7.7,2009
+Farm-level soybeans,4,2009.0,-39.4,-24.8,-3.9,2009
+Farm-level soybeans,5,2009.0,-30.1,-15.5,4.7,2009
+Farm-level soybeans,6,2009.0,-23.0,-9.9,8.3,2009
+Farm-level soybeans,7,2009.0,-16.2,-4.3,11.8,2009
+Farm-level soybeans,8,2009.0,-19.9,-11.8,-1.3,2009
+Farm-level soybeans,9,2009.0,-15.0,-8.4,0.0,2009
+Farm-level soybeans,10,2009.0,-18.3,-14.5,-9.7,2009
+Farm-level soybeans,11,2009.0,-16.0,-13.5,-10.6,2009
+Farm-level soybeans,12,2009.0,-15.4,-14.4,-13.1,2009
+Wholesale fats and oils,7,2008.0,10.6,54.5,120.8,2009
+Wholesale fats and oils,8,2008.0,11.8,52.2,111.5,2009
+Wholesale fats and oils,9,2008.0,-3.0,29.3,75.3,2009
+Wholesale fats and oils,10,2008.0,-10.2,16.1,51.0,2009
+Wholesale fats and oils,11,2008.0,-29.0,-12.6,8.1,2009
+Wholesale fats and oils,12,2008.0,-31.6,-16.8,1.7,2009
+Wholesale fats and oils,1,2009.0,-31.6,-18.3,-1.3,2009
+Wholesale fats and oils,2,2009.0,-34.8,-23.5,-9.6,2009
+Wholesale fats and oils,3,2009.0,-34.8,-25.2,-13.0,2009
+Wholesale fats and oils,4,2009.0,-32.8,-24.4,-14.5,2009
+Wholesale fats and oils,5,2009.0,-30.3,-23.4,-15.1,2009
+Wholesale fats and oils,6,2009.0,-26.2,-20.0,-12.7,2009
+Wholesale fats and oils,7,2009.0,-26.9,-22.2,-16.9,2009
+Wholesale fats and oils,8,2009.0,-26.8,-23.4,-19.5,2009
+Wholesale fats and oils,9,2009.0,-25.8,-23.4,-20.6,2009
+Wholesale fats and oils,10,2009.0,-25.1,-23.5,-21.8,2009
+Wholesale fats and oils,11,2009.0,-24.9,-24.0,-23.1,2009
+Wholesale fats and oils,12,2009.0,-23.6,-23.3,-22.9,2009
+Farm-level fruits,7,2008.0,-27.2,-0.7,35.0,2009
+Farm-level fruits,8,2008.0,-30.1,-5.0,28.7,2009
+Farm-level fruits,9,2008.0,-31.7,-7.8,25.9,2009
+Farm-level fruits,10,2008.0,-31.1,-7.8,24.1,2009
+Farm-level fruits,11,2008.0,-33.7,-11.5,18.9,2009
+Farm-level fruits,12,2008.0,-32.7,-11.9,16.1,2009
+Farm-level fruits,1,2009.0,-28.7,-9.0,18.5,2009
+Farm-level fruits,2,2009.0,-26.5,-9.0,14.0,2009
+Farm-level fruits,3,2009.0,-26.9,-12.0,7.4,2009
+Farm-level fruits,4,2009.0,-26.4,-13.7,2.7,2009
+Farm-level fruits,5,2009.0,-24.5,-13.2,0.4,2009
+Farm-level fruits,6,2009.0,-24.6,-15.8,-4.6,2009
+Farm-level fruits,7,2009.0,-23.0,-15.6,-6.7,2009
+Farm-level fruits,8,2009.0,-21.8,-16.1,-9.1,2009
+Farm-level fruits,9,2009.0,-19.3,-14.8,-9.3,2009
+Farm-level fruits,10,2009.0,-16.6,-13.1,-9.1,2009
+Farm-level fruits,11,2009.0,-13.8,-11.3,-8.6,2009
+Farm-level fruits,12,2009.0,-12.6,-11.3,-9.8,2009
+Farm-level vegetables,7,2008.0,-17.5,-2.4,16.0,2009
+Farm-level vegetables,8,2008.0,-17.3,-2.0,15.8,2009
+Farm-level vegetables,9,2008.0,-16.9,-2.0,15.2,2009
+Farm-level vegetables,10,2008.0,-17.3,-1.9,16.4,2009
+Farm-level vegetables,11,2008.0,-17.3,-1.8,16.3,2009
+Farm-level vegetables,12,2008.0,-17.2,-1.7,16.4,2009
+Farm-level vegetables,1,2009.0,-17.5,-2.9,14.2,2009
+Farm-level vegetables,2,2009.0,-14.7,-1.0,14.8,2009
+Farm-level vegetables,3,2009.0,-14.9,-2.5,11.8,2009
+Farm-level vegetables,4,2009.0,-13.1,-1.9,11.2,2009
+Farm-level vegetables,5,2009.0,-11.6,-1.4,10.8,2009
+Farm-level vegetables,6,2009.0,-14.2,-5.3,5.3,2009
+Farm-level vegetables,7,2009.0,-11.1,-3.1,6.4,2009
+Farm-level vegetables,8,2009.0,-12.5,-5.9,2.1,2009
+Farm-level vegetables,9,2009.0,-12.6,-7.1,-0.4,2009
+Farm-level vegetables,10,2009.0,-13.4,-9.0,-3.7,2009
+Farm-level vegetables,11,2009.0,-10.9,-7.7,-3.6,2009
+Farm-level vegetables,12,2009.0,-8.7,-6.9,-4.6,2009
+Farm-level wheat,7,2008.0,-38.2,-10.0,32.0,2009
+Farm-level wheat,8,2008.0,-39.8,-13.5,24.0,2009
+Farm-level wheat,9,2008.0,-39.8,-13.8,24.1,2009
+Farm-level wheat,10,2008.0,-43.2,-19.7,13.7,2009
+Farm-level wheat,11,2008.0,-51.1,-31.8,-3.7,2009
+Farm-level wheat,12,2008.0,-51.7,-33.8,-8.9,2009
+Farm-level wheat,1,2009.0,-53.7,-38.3,-17.0,2009
+Farm-level wheat,2,2009.0,-46.8,-31.9,-11.4,2009
+Farm-level wheat,3,2009.0,-45.4,-32.5,-14.6,2009
+Farm-level wheat,4,2009.0,-43.7,-32.6,-17.7,2009
+Farm-level wheat,5,2009.0,-43.6,-34.4,-22.4,2009
+Farm-level wheat,6,2009.0,-38.8,-30.8,-20.1,2009
+Farm-level wheat,7,2009.0,-36.0,-29.0,-19.9,2009
+Farm-level wheat,8,2009.0,-39.0,-34.2,-28.3,2009
+Farm-level wheat,9,2009.0,-39.7,-36.4,-32.5,2009
+Farm-level wheat,10,2009.0,-39.7,-37.6,-35.0,2009
+Farm-level wheat,11,2009.0,-38.0,-36.6,-35.0,2009
+Farm-level wheat,12,2009.0,-37.0,-36.4,-35.6,2009
+Wholesale wheat flour,7,2008.0,-8.8,16.8,50.0,2009
+Wholesale wheat flour,8,2008.0,-14.2,9.1,39.4,2009
+Wholesale wheat flour,9,2008.0,-58.7,-33.7,13.5,2009
+Wholesale wheat flour,10,2008.0,-60.5,-39.1,-2.3,2009
+Wholesale wheat flour,11,2008.0,-41.6,-25.5,-4.7,2009
+Wholesale wheat flour,12,2008.0,-41.5,-27.0,-7.8,2009
+Wholesale wheat flour,1,2009.0,-35.5,-21.7,-3.3,2009
+Wholesale wheat flour,2,2009.0,-30.3,-19.1,-6.0,2009
+Wholesale wheat flour,3,2009.0,-30.2,-20.8,-9.8,2009
+Wholesale wheat flour,4,2009.0,-28.3,-20.2,-10.4,2009
+Wholesale wheat flour,5,2009.0,-28.2,-21.6,-13.9,2009
+Wholesale wheat flour,6,2009.0,-26.3,-20.7,-14.4,2009
+Wholesale wheat flour,7,2009.0,-22.4,-17.6,-11.8,2009
+Wholesale wheat flour,8,2009.0,-25.3,-22.3,-18.9,2009
+Wholesale wheat flour,9,2009.0,-25.4,-23.3,-20.9,2009
+Wholesale wheat flour,10,2009.0,-25.6,-24.1,-22.5,2009
+Wholesale wheat flour,11,2009.0,-24.7,-23.8,-22.8,2009
+Wholesale wheat flour,12,2009.0,-24.2,-23.7,-23.3,2009

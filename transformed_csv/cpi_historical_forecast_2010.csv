@@ -1,0 +1,391 @@
+cpi_item,curr_month,curr_year,lower,mid,upper,pred_year
+All food,7,2009.0,0.7,2.2,3.7,2010
+All food,8,2009.0,0.5,2.0,3.5,2010
+All food,9,2009.0,0.4,1.9,3.3,2010
+All food,10,2009.0,0.3,1.7,3.1,2010
+All food,11,2009.0,0.3,1.6,2.9,2010
+All food,12,2009.0,-1.1,0.7,2.5,2010
+All food,1,2010.0,-0.8,0.8,2.4,2010
+All food,2,2010.0,0.6,1.6,2.7,2010
+All food,3,2010.0,0.2,1.4,2.5,2010
+All food,4,2010.0,0.3,1.3,2.3,2010
+All food,5,2010.0,0.5,1.2,1.9,2010
+All food,6,2010.0,0.3,1.0,1.7,2010
+All food,7,2010.0,0.3,0.8,1.4,2010
+All food,8,2010.0,0.3,0.7,1.1,2010
+All food,9,2010.0,0.4,0.7,1.0,2010
+All food,10,2010.0,0.6,0.8,1.0,2010
+All food,11,2010.0,0.7,0.8,1.0,2010
+All food,12,2010.0,0.7,0.8,0.9,2010
+Food away from home,7,2009.0,1.6,3.0,4.4,2010
+Food away from home,8,2009.0,0.8,2.3,3.8,2010
+Food away from home,9,2009.0,0.6,2.1,3.6,2010
+Food away from home,10,2009.0,0.6,2.0,3.4,2010
+Food away from home,11,2009.0,0.5,1.8,3.1,2010
+Food away from home,12,2009.0,0.7,1.8,3.0,2010
+Food away from home,1,2010.0,0.5,1.6,2.6,2010
+Food away from home,2,2010.0,0.5,1.4,2.3,2010
+Food away from home,3,2010.0,0.6,1.3,2.1,2010
+Food away from home,4,2010.0,0.4,1.0,1.7,2010
+Food away from home,5,2010.0,0.6,1.1,1.6,2010
+Food away from home,6,2010.0,0.8,1.2,1.6,2010
+Food away from home,7,2010.0,1.0,1.3,1.6,2010
+Food away from home,8,2010.0,0.9,1.1,1.4,2010
+Food away from home,9,2010.0,1.1,1.3,1.4,2010
+Food away from home,10,2010.0,1.2,1.3,1.5,2010
+Food away from home,11,2010.0,1.2,1.3,1.4,2010
+Food away from home,12,2010.0,1.2,1.3,1.3,2010
+Food at home,7,2009.0,-0.6,1.7,4.1,2010
+Food at home,8,2009.0,-0.9,1.4,3.7,2010
+Food at home,9,2009.0,-1.0,1.2,3.4,2010
+Food at home,10,2009.0,-1.2,0.9,3.0,2010
+Food at home,11,2009.0,-1.1,0.9,3.0,2010
+Food at home,12,2009.0,-1.5,0.4,2.3,2010
+Food at home,1,2010.0,-1.3,0.5,2.2,2010
+Food at home,2,2010.0,-0.4,1.3,2.9,2010
+Food at home,3,2010.0,-0.5,0.9,2.3,2010
+Food at home,4,2010.0,-0.2,1.0,2.2,2010
+Food at home,5,2010.0,-0.2,0.9,1.9,2010
+Food at home,6,2010.0,-0.1,0.7,1.6,2010
+Food at home,7,2010.0,-0.2,0.5,1.2,2010
+Food at home,8,2010.0,-0.2,0.4,0.9,2010
+Food at home,9,2010.0,-0.2,0.3,0.7,2010
+Food at home,10,2010.0,0.1,0.4,0.7,2010
+Food at home,11,2010.0,0.2,0.4,0.6,2010
+Food at home,12,2010.0,0.2,0.3,0.4,2010
+"Meats, poultry, and fish",7,2009.0,-2.4,2.0,6.7,2010
+"Meats, poultry, and fish",8,2009.0,-3.6,0.8,5.4,2010
+"Meats, poultry, and fish",9,2009.0,-2.8,1.4,5.8,2010
+"Meats, poultry, and fish",10,2009.0,-3.6,0.5,4.6,2010
+"Meats, poultry, and fish",11,2009.0,-4.1,-0.2,3.8,2010
+"Meats, poultry, and fish",12,2009.0,-3.6,-0.1,3.6,2010
+"Meats, poultry, and fish",1,2010.0,-3.9,-0.6,2.8,2010
+"Meats, poultry, and fish",2,2010.0,-2.8,0.0,2.9,2010
+"Meats, poultry, and fish",3,2010.0,-2.7,-0.3,2.3,2010
+"Meats, poultry, and fish",4,2010.0,-2.2,-0.1,2.0,2010
+"Meats, poultry, and fish",5,2010.0,-0.7,1.2,3.1,2010
+"Meats, poultry, and fish",6,2010.0,-0.2,1.3,2.9,2010
+"Meats, poultry, and fish",7,2010.0,0.8,2.0,3.3,2010
+"Meats, poultry, and fish",8,2010.0,1.0,2.0,2.9,2010
+"Meats, poultry, and fish",9,2010.0,0.9,1.6,2.3,2010
+"Meats, poultry, and fish",10,2010.0,1.5,1.9,2.4,2010
+"Meats, poultry, and fish",11,2010.0,1.8,2.1,2.4,2010
+"Meats, poultry, and fish",12,2010.0,1.9,2.0,2.1,2010
+Meats,7,2009.0,-4.1,1.6,7.7,2010
+Meats,8,2009.0,-7.8,-2.0,4.6,2010
+Meats,9,2009.0,-4.3,1.3,7.0,2010
+Meats,10,2009.0,-4.9,0.3,5.8,2010
+Meats,11,2009.0,-5.0,-0.1,5.1,2010
+Meats,12,2009.0,-5.1,-0.5,4.2,2010
+Meats,1,2010.0,-6.9,-2.5,2.2,2010
+Meats,2,2010.0,-4.1,-0.3,3.4,2010
+Meats,3,2010.0,-3.2,-0.1,3.2,2010
+Meats,4,2010.0,-2.2,0.4,3.3,2010
+Meats,5,2010.0,-0.6,1.7,4.2,2010
+Meats,6,2010.0,0.3,2.3,4.4,2010
+Meats,7,2010.0,1.5,3.1,4.7,2010
+Meats,8,2010.0,1.6,2.8,4.0,2010
+Meats,9,2010.0,1.7,2.6,3.5,2010
+Meats,10,2010.0,2.3,2.9,3.5,2010
+Meats,11,2010.0,2.8,3.1,3.5,2010
+Meats,12,2010.0,2.8,2.9,3.1,2010
+Beef and veal,7,2009.0,-5.8,2.5,11.9,2010
+Beef and veal,8,2009.0,-11.4,-2.9,6.5,2010
+Beef and veal,9,2009.0,-5.7,2.1,10.5,2010
+Beef and veal,10,2009.0,-6.5,0.9,9.1,2010
+Beef and veal,11,2009.0,-6.7,0.2,7.7,2010
+Beef and veal,12,2009.0,-4.7,1.9,8.9,2010
+Beef and veal,1,2010.0,-5.7,0.4,6.7,2010
+Beef and veal,2,2010.0,-8.3,-2.9,3.2,2010
+Beef and veal,3,2010.0,-4.6,0.2,5.1,2010
+Beef and veal,4,2010.0,-3.2,0.8,5.1,2010
+Beef and veal,5,2010.0,-0.3,3.2,7.0,2010
+Beef and veal,6,2010.0,0.4,3.3,6.4,2010
+Beef and veal,7,2010.0,1.4,3.7,6.1,2010
+Beef and veal,8,2010.0,1.3,3.1,5.0,2010
+Beef and veal,9,2010.0,1.4,2.6,4.0,2010
+Beef and veal,10,2010.0,2.0,2.8,3.7,2010
+Beef and veal,11,2010.0,2.5,3.0,3.5,2010
+Beef and veal,12,2010.0,2.7,2.9,3.2,2010
+Pork,7,2009.0,-7.5,-0.4,7.2,2010
+Pork,8,2009.0,-7.3,-0.3,7.2,2010
+Pork,9,2009.0,-8.0,-1.0,6.0,2010
+Pork,10,2009.0,-8.0,-1.5,5.4,2010
+Pork,11,2009.0,-8.9,-2.7,3.9,2010
+Pork,12,2009.0,-10.2,-4.5,1.6,2010
+Pork,1,2010.0,-9.7,-4.6,0.9,2010
+Pork,2,2010.0,-6.1,-1.3,3.8,2010
+Pork,3,2010.0,-4.0,0.2,4.9,2010
+Pork,4,2010.0,-3.8,-0.1,3.8,2010
+Pork,5,2010.0,-2.9,0.3,3.7,2010
+Pork,6,2010.0,0.0,2.7,5.6,2010
+Pork,7,2010.0,1.4,3.7,6.1,2010
+Pork,8,2010.0,2.6,4.5,6.4,2010
+Pork,9,2010.0,3.2,4.5,5.8,2010
+Pork,10,2010.0,4.2,5.1,6.0,2010
+Pork,11,2010.0,4.8,5.3,5.9,2010
+Pork,12,2010.0,4.6,4.9,5.1,2010
+Other meats,7,2009.0,-3.8,0.7,5.5,2010
+Other meats,8,2009.0,-3.7,0.7,5.2,2010
+Other meats,9,2009.0,-3.2,1.0,5.3,2010
+Other meats,10,2009.0,-3.0,1.0,5.2,2010
+Other meats,11,2009.0,-2.2,1.8,5.8,2010
+Other meats,12,2009.0,-2.6,1.1,4.8,2010
+Other meats,1,2010.0,-3.1,0.5,4.3,2010
+Other meats,2,2010.0,-2.5,0.8,4.1,2010
+Other meats,3,2010.0,-3.9,-1.1,1.8,2010
+Other meats,4,2010.0,-3.4,-1.0,1.6,2010
+Other meats,5,2010.0,-2.9,-0.8,1.3,2010
+Other meats,6,2010.0,-3.2,-1.5,0.3,2010
+Other meats,7,2010.0,-2.4,-0.9,0.5,2010
+Other meats,8,2010.0,-2.0,-0.8,0.3,2010
+Other meats,9,2010.0,-1.5,-0.6,0.2,2010
+Other meats,10,2010.0,-1.1,-0.5,0.1,2010
+Other meats,11,2010.0,-0.6,-0.2,0.2,2010
+Other meats,12,2010.0,-0.3,-0.1,0.2,2010
+Poultry,7,2009.0,-5.1,0.3,5.8,2010
+Poultry,8,2009.0,-6.0,-0.8,4.8,2010
+Poultry,9,2009.0,-5.4,-0.3,5.1,2010
+Poultry,10,2009.0,-5.4,-0.6,4.3,2010
+Poultry,11,2009.0,-6.1,-1.4,3.3,2010
+Poultry,12,2009.0,-5.6,-1.4,3.0,2010
+Poultry,1,2010.0,-4.9,-1.0,3.2,2010
+Poultry,2,2010.0,-5.0,-1.5,2.2,2010
+Poultry,3,2010.0,-4.2,-1.2,1.9,2010
+Poultry,4,2010.0,-3.7,-1.2,1.5,2010
+Poultry,5,2010.0,-2.2,-0.2,2.0,2010
+Poultry,6,2010.0,-2.1,-0.4,1.4,2010
+Poultry,7,2010.0,-1.6,-0.2,1.2,2010
+Poultry,8,2010.0,-1.0,0.1,1.2,2010
+Poultry,9,2010.0,-1.1,-0.3,0.5,2010
+Poultry,10,2010.0,-0.7,-0.2,0.4,2010
+Poultry,11,2010.0,-0.2,0.2,0.5,2010
+Poultry,12,2010.0,-0.2,0.0,0.2,2010
+Fish and seafood,7,2009.0,0.8,4.9,9.1,2010
+Fish and seafood,8,2009.0,1.0,4.9,9.0,2010
+Fish and seafood,9,2009.0,0.4,4.0,7.9,2010
+Fish and seafood,10,2009.0,-0.6,3.0,6.8,2010
+Fish and seafood,11,2009.0,-2.1,0.7,3.6,2010
+Fish and seafood,12,2009.0,-1.9,0.8,3.6,2010
+Fish and seafood,1,2010.0,-2.0,0.5,3.1,2010
+Fish and seafood,2,2010.0,-1.0,1.5,4.1,2010
+Fish and seafood,3,2010.0,-1.8,0.3,2.5,2010
+Fish and seafood,4,2010.0,-2.1,-0.4,1.4,2010
+Fish and seafood,5,2010.0,-1.3,0.2,1.7,2010
+Fish and seafood,6,2010.0,-0.9,0.3,1.6,2010
+Fish and seafood,7,2010.0,-0.2,0.9,2.0,2010
+Fish and seafood,8,2010.0,0.2,1.1,2.0,2010
+Fish and seafood,9,2010.0,0.2,0.8,1.5,2010
+Fish and seafood,10,2010.0,0.4,0.9,1.4,2010
+Fish and seafood,11,2010.0,0.6,0.9,1.3,2010
+Fish and seafood,12,2010.0,0.9,1.1,1.3,2010
+Eggs,7,2009.0,-24.7,-5.2,19.7,2010
+Eggs,8,2009.0,-25.0,-6.2,17.7,2010
+Eggs,9,2009.0,-22.1,-3.0,20.7,2010
+Eggs,10,2009.0,-22.4,-4.1,19.0,2010
+Eggs,11,2009.0,-21.2,-3.6,18.2,2010
+Eggs,12,2009.0,-16.5,1.0,22.7,2010
+Eggs,1,2010.0,-11.8,4.7,25.4,2010
+Eggs,2,2010.0,-9.8,4.9,23.2,2010
+Eggs,3,2010.0,-5.4,7.4,23.4,2010
+Eggs,4,2010.0,-4.8,6.5,20.1,2010
+Eggs,5,2010.0,-5.3,4.2,15.3,2010
+Eggs,6,2010.0,-9.4,-2.3,6.2,2010
+Eggs,7,2010.0,-7.6,-1.9,4.8,2010
+Eggs,8,2010.0,-7.0,-2.6,2.6,2010
+Eggs,9,2010.0,-4.6,-1.1,2.9,2010
+Eggs,10,2010.0,-0.8,1.9,4.9,2010
+Eggs,11,2010.0,-2.1,-0.7,1.0,2010
+Eggs,12,2010.0,0.0,0.7,1.5,2010
+Dairy products,7,2009.0,-10.5,-1.9,7.4,2010
+Dairy products,8,2009.0,-10.4,-2.0,7.1,2010
+Dairy products,9,2009.0,-10.5,-2.2,6.8,2010
+Dairy products,10,2009.0,-9.2,-1.4,7.0,2010
+Dairy products,11,2009.0,-7.9,-0.3,7.8,2010
+Dairy products,12,2009.0,-8.7,-2.0,5.4,2010
+Dairy products,1,2010.0,-7.3,-0.9,6.1,2010
+Dairy products,2,2010.0,-3.6,1.7,7.2,2010
+Dairy products,3,2010.0,-3.7,0.6,5.3,2010
+Dairy products,4,2010.0,-2.8,1.0,5.0,2010
+Dairy products,5,2010.0,-3.1,0.1,3.5,2010
+Dairy products,6,2010.0,-2.0,0.6,3.4,2010
+Dairy products,7,2010.0,-1.6,0.5,2.7,2010
+Dairy products,8,2010.0,-0.7,0.9,2.6,2010
+Dairy products,9,2010.0,-0.5,0.7,2.0,2010
+Dairy products,10,2010.0,0.0,0.9,1.7,2010
+Dairy products,11,2010.0,0.7,1.2,1.7,2010
+Dairy products,12,2010.0,0.9,1.1,1.3,2010
+Fats and oils,7,2009.0,-4.5,2.0,9.0,2010
+Fats and oils,8,2009.0,-4.6,1.8,8.6,2010
+Fats and oils,9,2009.0,-4.8,1.6,8.2,2010
+Fats and oils,10,2009.0,-4.7,1.1,7.5,2010
+Fats and oils,11,2009.0,-4.7,0.9,7.0,2010
+Fats and oils,12,2009.0,-7.6,-2.3,3.3,2010
+Fats and oils,1,2010.0,-5.3,-0.4,5.1,2010
+Fats and oils,2,2010.0,-3.6,0.9,5.7,2010
+Fats and oils,3,2010.0,-2.9,1.0,5.1,2010
+Fats and oils,4,2010.0,-3.6,-0.3,3.3,2010
+Fats and oils,5,2010.0,-3.6,-0.8,2.2,2010
+Fats and oils,6,2010.0,-2.7,-0.4,2.1,2010
+Fats and oils,7,2010.0,-2.4,-0.5,1.5,2010
+Fats and oils,8,2010.0,-1.9,-0.3,1.2,2010
+Fats and oils,9,2010.0,-1.3,-0.2,1.0,2010
+Fats and oils,10,2010.0,-1.0,-0.2,0.6,2010
+Fats and oils,11,2010.0,-0.6,-0.1,0.4,2010
+Fats and oils,12,2010.0,-0.5,-0.2,0.0,2010
+Fruits and vegetables,7,2009.0,1.1,4.2,7.4,2010
+Fruits and vegetables,8,2009.0,1.3,4.3,7.3,2010
+Fruits and vegetables,9,2009.0,1.1,4.2,7.4,2010
+Fruits and vegetables,10,2009.0,-9.8,-1.7,7.4,2010
+Fruits and vegetables,11,2009.0,-9.0,-1.1,7.4,2010
+Fruits and vegetables,12,2009.0,-8.4,-1.0,7.1,2010
+Fruits and vegetables,1,2010.0,-0.1,3.5,7.4,2010
+Fruits and vegetables,2,2010.0,0.9,4.2,7.6,2010
+Fruits and vegetables,3,2010.0,-0.4,2.7,6.0,2010
+Fruits and vegetables,4,2010.0,1.0,3.7,6.6,2010
+Fruits and vegetables,5,2010.0,0.7,3.2,5.7,2010
+Fruits and vegetables,6,2010.0,0.7,2.9,5.1,2010
+Fruits and vegetables,7,2010.0,-1.9,0.6,3.3,2010
+Fruits and vegetables,8,2010.0,-0.8,0.8,2.5,2010
+Fruits and vegetables,9,2010.0,-0.8,0.5,1.8,2010
+Fruits and vegetables,10,2010.0,-0.6,0.4,1.4,2010
+Fruits and vegetables,11,2010.0,-0.4,0.2,0.8,2010
+Fruits and vegetables,12,2010.0,-0.3,0.0,0.3,2010
+Fresh fruits and vegetables,7,2009.0,2.3,5.7,9.0,2010
+Fresh fruits and vegetables,8,2009.0,2.4,5.8,9.4,2010
+Fresh fruits and vegetables,9,2009.0,-12.6,-2.3,9.7,2010
+Fresh fruits and vegetables,10,2009.0,-12.3,-2.2,9.1,2010
+Fresh fruits and vegetables,11,2009.0,-10.8,-1.3,9.3,2010
+Fresh fruits and vegetables,12,2009.0,-9.7,-0.6,9.4,2010
+Fresh fruits and vegetables,1,2010.0,-1.1,3.7,8.8,2010
+Fresh fruits and vegetables,2,2010.0,0.3,4.6,9.1,2010
+Fresh fruits and vegetables,3,2010.0,-1.1,2.8,7.1,2010
+Fresh fruits and vegetables,4,2010.0,1.1,4.6,8.3,2010
+Fresh fruits and vegetables,5,2010.0,0.7,3.9,7.3,2010
+Fresh fruits and vegetables,6,2010.0,0.7,3.5,6.5,2010
+Fresh fruits and vegetables,7,2010.0,-0.2,2.2,4.8,2010
+Fresh fruits and vegetables,8,2010.0,-0.8,1.2,3.3,2010
+Fresh fruits and vegetables,9,2010.0,-1.5,0.2,2.0,2010
+Fresh fruits and vegetables,10,2010.0,-0.5,0.7,2.0,2010
+Fresh fruits and vegetables,11,2010.0,-0.2,0.6,1.4,2010
+Fresh fruits and vegetables,12,2010.0,0.1,0.5,0.9,2010
+Fresh fruits,7,2009.0,-1.9,3.8,9.6,2010
+Fresh fruits,8,2009.0,-2.3,3.5,9.6,2010
+Fresh fruits,9,2009.0,-8.1,-0.9,6.9,2010
+Fresh fruits,10,2009.0,-7.8,-0.7,7.1,2010
+Fresh fruits,11,2009.0,-2.7,2.9,9.1,2010
+Fresh fruits,12,2009.0,-7.1,-0.4,6.5,2010
+Fresh fruits,1,2010.0,-7.1,0.4,8.4,2010
+Fresh fruits,2,2010.0,-4.1,2.7,10.1,2010
+Fresh fruits,3,2010.0,-5.9,-0.3,5.7,2010
+Fresh fruits,4,2010.0,-2.6,2.5,8.0,2010
+Fresh fruits,5,2010.0,-3.3,0.5,4.5,2010
+Fresh fruits,6,2010.0,-0.9,2.0,5.1,2010
+Fresh fruits,7,2010.0,-2.5,0.2,3.0,2010
+Fresh fruits,8,2010.0,-3.6,-1.5,0.9,2010
+Fresh fruits,9,2010.0,-3.3,-1.5,0.3,2010
+Fresh fruits,10,2010.0,-2.6,-1.3,0.0,2010
+Fresh fruits,11,2010.0,-2.1,-1.3,-0.4,2010
+Fresh fruits,12,2010.0,-1.3,-0.9,-0.5,2010
+Fresh vegetables,7,2009.0,-17.5,-1.6,17.4,2010
+Fresh vegetables,8,2009.0,-17.6,-1.9,16.6,2010
+Fresh vegetables,9,2009.0,-18.1,-3.0,14.6,2010
+Fresh vegetables,10,2009.0,-18.4,-3.6,13.8,2010
+Fresh vegetables,11,2009.0,-17.0,-3.0,13.3,2010
+Fresh vegetables,12,2009.0,-14.5,-1.1,14.7,2010
+Fresh vegetables,1,2010.0,-11.0,1.2,15.3,2010
+Fresh vegetables,2,2010.0,-7.8,3.3,15.8,2010
+Fresh vegetables,3,2010.0,-6.5,2.7,13.4,2010
+Fresh vegetables,4,2010.0,-2.9,5.6,14.8,2010
+Fresh vegetables,5,2010.0,-0.6,6.6,14.9,2010
+Fresh vegetables,6,2010.0,-1.6,4.3,10.7,2010
+Fresh vegetables,7,2010.0,-2.4,2.3,7.3,2010
+Fresh vegetables,8,2010.0,-1.0,2.1,5.5,2010
+Fresh vegetables,9,2010.0,-0.4,2.0,4.7,2010
+Fresh vegetables,10,2010.0,0.0,1.8,3.7,2010
+Fresh vegetables,11,2010.0,0.8,1.9,3.1,2010
+Fresh vegetables,12,2010.0,1.4,1.9,2.5,2010
+Processed fruits and vegetables,1,2010.0,-4.7,-0.5,4.1,2010
+Processed fruits and vegetables,2,2010.0,-2.6,1.3,5.4,2010
+Processed fruits and vegetables,3,2010.0,-2.5,0.8,4.3,2010
+Processed fruits and vegetables,4,2010.0,-3.1,-0.2,2.7,2010
+Processed fruits and vegetables,5,2010.0,-3.1,-0.7,1.9,2010
+Processed fruits and vegetables,6,2010.0,-2.4,-0.4,1.7,2010
+Processed fruits and vegetables,7,2010.0,-1.8,-0.1,1.6,2010
+Processed fruits and vegetables,8,2010.0,-1.8,-0.5,0.8,2010
+Processed fruits and vegetables,9,2010.0,-1.4,-0.4,0.6,2010
+Processed fruits and vegetables,10,2010.0,-1.2,-0.6,0.1,2010
+Processed fruits and vegetables,11,2010.0,-1.3,-0.9,-0.5,2010
+Processed fruits and vegetables,12,2010.0,-1.6,-1.4,-1.2,2010
+Sugar and sweets,7,2009.0,1.4,4.7,8.0,2010
+Sugar and sweets,8,2009.0,-0.9,1.7,4.4,2010
+Sugar and sweets,9,2009.0,-1.0,1.6,4.2,2010
+Sugar and sweets,10,2009.0,0.5,3.3,6.1,2010
+Sugar and sweets,11,2009.0,0.0,2.8,5.6,2010
+Sugar and sweets,12,2009.0,0.6,3.1,5.6,2010
+Sugar and sweets,1,2010.0,0.6,3.1,5.6,2010
+Sugar and sweets,2,2010.0,1.1,3.2,5.4,2010
+Sugar and sweets,3,2010.0,2.0,3.9,5.8,2010
+Sugar and sweets,4,2010.0,1.6,3.1,4.7,2010
+Sugar and sweets,5,2010.0,1.6,3.0,4.3,2010
+Sugar and sweets,6,2010.0,2.0,3.1,4.2,2010
+Sugar and sweets,7,2010.0,1.6,2.4,3.3,2010
+Sugar and sweets,8,2010.0,1.7,2.4,3.2,2010
+Sugar and sweets,9,2010.0,1.6,2.1,2.7,2010
+Sugar and sweets,10,2010.0,1.9,2.3,2.7,2010
+Sugar and sweets,11,2010.0,2.1,2.3,2.6,2010
+Sugar and sweets,12,2010.0,2.0,2.1,2.3,2010
+Cereals and bakery products,7,2009.0,-1.0,3.6,8.2,2010
+Cereals and bakery products,8,2009.0,-2.9,2.3,7.6,2010
+Cereals and bakery products,9,2009.0,-4.5,0.6,6.1,2010
+Cereals and bakery products,10,2009.0,-1.7,1.6,5.2,2010
+Cereals and bakery products,11,2009.0,-1.8,1.3,4.6,2010
+Cereals and bakery products,12,2009.0,-3.2,0.1,3.4,2010
+Cereals and bakery products,1,2010.0,-2.6,0.4,3.4,2010
+Cereals and bakery products,2,2010.0,-2.5,0.1,2.7,2010
+Cereals and bakery products,3,2010.0,-1.8,0.4,2.6,2010
+Cereals and bakery products,4,2010.0,-1.9,-0.1,1.8,2010
+Cereals and bakery products,5,2010.0,-1.9,-0.4,1.1,2010
+Cereals and bakery products,6,2010.0,-1.5,-0.2,1.0,2010
+Cereals and bakery products,7,2010.0,-1.5,-0.6,0.4,2010
+Cereals and bakery products,8,2010.0,-1.4,-0.7,0.0,2010
+Cereals and bakery products,9,2010.0,-1.5,-1.0,-0.4,2010
+Cereals and bakery products,10,2010.0,-1.1,-0.8,-0.4,2010
+Cereals and bakery products,11,2010.0,-1.1,-0.8,-0.6,2010
+Cereals and bakery products,12,2010.0,-1.0,-0.9,-0.7,2010
+Nonalcoholic beverages,7,2009.0,-2.7,1.3,5.4,2010
+Nonalcoholic beverages,8,2009.0,-2.9,1.1,5.2,2010
+Nonalcoholic beverages,9,2009.0,-2.5,1.3,5.4,2010
+Nonalcoholic beverages,10,2009.0,-2.5,1.2,5.2,2010
+Nonalcoholic beverages,11,2009.0,-2.5,1.0,4.7,2010
+Nonalcoholic beverages,12,2009.0,-3.2,0.1,3.6,2010
+Nonalcoholic beverages,1,2010.0,-4.0,-1.1,2.0,2010
+Nonalcoholic beverages,2,2010.0,-1.5,1.2,4.0,2010
+Nonalcoholic beverages,3,2010.0,-2.5,-0.1,2.3,2010
+Nonalcoholic beverages,4,2010.0,-2.2,-0.2,1.9,2010
+Nonalcoholic beverages,5,2010.0,-2.1,-0.4,1.3,2010
+Nonalcoholic beverages,6,2010.0,-2.3,-0.9,0.6,2010
+Nonalcoholic beverages,7,2010.0,-2.2,-1.1,0.1,2010
+Nonalcoholic beverages,8,2010.0,-1.8,-0.9,0.0,2010
+Nonalcoholic beverages,9,2010.0,-1.4,-0.7,0.0,2010
+Nonalcoholic beverages,10,2010.0,-1.2,-0.7,-0.2,2010
+Nonalcoholic beverages,11,2010.0,-1.1,-0.8,-0.5,2010
+Nonalcoholic beverages,12,2010.0,-0.9,-0.8,-0.6,2010
+Other foods,7,2009.0,-1.0,1.7,4.6,2010
+Other foods,8,2009.0,-1.1,1.6,4.4,2010
+Other foods,9,2009.0,-0.9,1.7,4.4,2010
+Other foods,10,2009.0,-1.5,1.1,3.7,2010
+Other foods,11,2009.0,-1.2,1.2,3.7,2010
+Other foods,12,2009.0,-2.0,0.3,2.6,2010
+Other foods,1,2010.0,-2.2,-0.1,2.1,2010
+Other foods,2,2010.0,-1.4,0.4,2.3,2010
+Other foods,3,2010.0,-1.1,0.6,2.3,2010
+Other foods,4,2010.0,-1.1,0.4,1.8,2010
+Other foods,5,2010.0,-1.0,0.1,1.3,2010
+Other foods,6,2010.0,-0.9,0.1,1.1,2010
+Other foods,7,2010.0,-0.8,0.0,0.8,2010
+Other foods,8,2010.0,-0.7,-0.1,0.6,2010
+Other foods,9,2010.0,-0.4,0.0,0.5,2010
+Other foods,10,2010.0,-0.5,-0.2,0.1,2010
+Other foods,11,2010.0,-0.6,-0.4,-0.1,2010
+Other foods,12,2010.0,-0.6,-0.4,-0.3,2010

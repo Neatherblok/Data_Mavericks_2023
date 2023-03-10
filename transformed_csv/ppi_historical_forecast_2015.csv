@@ -1,0 +1,235 @@
+ppi_item,curr_month,curr_year,lower,mid,upper,pred_year
+Farm-level cattle,7,2014.0,-19.9,1.4,28.9,2015
+Farm-level cattle,8,2014.0,-20.3,5.0,38.0,2015
+Farm-level cattle,9,2014.0,-20.0,4.0,34.9,2015
+Farm-level cattle,10,2014.0,-16.8,7.2,39.7,2015
+Farm-level cattle,11,2014.0,-15.9,7.2,36.3,2015
+Farm-level cattle,12,2014.0,-12.0,10.5,39.3,2015
+Farm-level cattle,1,2015.0,-10.5,6.9,28.6,2015
+Farm-level cattle,2,2015.0,-8.7,6.9,25.7,2015
+Farm-level cattle,3,2015.0,-7.2,5.9,21.4,2015
+Farm-level cattle,4,2015.0,-5.1,6.4,20.1,2015
+Farm-level cattle,5,2015.0,-3.1,6.7,18.2,2015
+Farm-level cattle,6,2015.0,-1.9,6.3,15.7,2015
+Farm-level cattle,7,2015.0,-2.6,3.7,10.9,2015
+Farm-level cattle,8,2015.0,-2.5,2.4,7.7,2015
+Farm-level cattle,9,2015.0,-0.8,2.6,6.6,2015
+Farm-level cattle,10,2015.0,-2.6,-0.3,2.2,2015
+Farm-level cattle,11,2015.0,-2.5,-1.2,0.2,2015
+Farm-level cattle,12,2015.0,-2.2,-1.6,-1.0,2015
+Wholesale beef,7,2014.0,-6.9,6.9,22.4,2015
+Wholesale beef,8,2014.0,-5.9,8.5,25.5,2015
+Wholesale beef,9,2014.0,-5.6,8.4,24.3,2015
+Wholesale beef,10,2014.0,-5.3,8.8,25.5,2015
+Wholesale beef,11,2014.0,-4.1,10.0,26.1,2015
+Wholesale beef,12,2014.0,-3.8,9.6,24.7,2015
+Wholesale beef,1,2015.0,-2.9,9.2,23.4,2015
+Wholesale beef,2,2015.0,-0.6,10.5,23.1,2015
+Wholesale beef,3,2015.0,-6.1,4.3,16.3,2015
+Wholesale beef,4,2015.0,0.4,8.9,18.4,2015
+Wholesale beef,5,2015.0,2.5,10.2,18.7,2015
+Wholesale beef,6,2015.0,4.6,11.1,18.3,2015
+Wholesale beef,7,2015.0,4.9,10.2,16.3,2015
+Wholesale beef,8,2015.0,4.0,8.4,13.1,2015
+Wholesale beef,9,2015.0,5.4,8.8,12.5,2015
+Wholesale beef,10,2015.0,3.5,5.9,8.5,2015
+Wholesale beef,11,2015.0,2.9,4.3,5.7,2015
+Wholesale beef,12,2015.0,3.0,3.6,4.2,2015
+Wholesale pork,7,2014.0,-14.5,5.1,29.1,2015
+Wholesale pork,8,2014.0,-11.9,8.1,32.2,2015
+Wholesale pork,9,2014.0,-11.5,7.4,30.7,2015
+Wholesale pork,10,2014.0,-17.4,0.2,21.8,2015
+Wholesale pork,11,2014.0,-14.2,3.5,24.6,2015
+Wholesale pork,12,2014.0,-19.3,-3.5,15.7,2015
+Wholesale pork,1,2015.0,-21.9,-8.0,9.2,2015
+Wholesale pork,2,2015.0,-27.5,-15.7,-2.2,2015
+Wholesale pork,3,2015.0,-30.5,-20.9,-9.6,2015
+Wholesale pork,4,2015.0,-32.9,-25.2,-16.0,2015
+Wholesale pork,5,2015.0,-34.1,-27.9,-20.4,2015
+Wholesale pork,6,2015.0,-30.7,-25.1,-18.6,2015
+Wholesale pork,7,2015.0,-26.8,-22.1,-16.6,2015
+Wholesale pork,8,2015.0,-27.2,-23.6,-19.6,2015
+Wholesale pork,9,2015.0,-25.8,-23.0,-19.9,2015
+Wholesale pork,10,2015.0,-25.4,-23.5,-21.4,2015
+Wholesale pork,11,2015.0,-24.3,-23.1,-21.9,2015
+Wholesale pork,12,2015.0,-23.9,-23.3,-22.8,2015
+Wholesale poultry,7,2014.0,-11.4,2.4,18.2,2015
+Wholesale poultry,8,2014.0,-9.9,3.8,19.4,2015
+Wholesale poultry,9,2014.0,-10.3,2.7,17.7,2015
+Wholesale poultry,10,2014.0,-10.1,2.6,17.1,2015
+Wholesale poultry,11,2014.0,-8.7,3.2,16.7,2015
+Wholesale poultry,12,2014.0,-9.5,1.5,14.0,2015
+Wholesale poultry,1,2015.0,-9.5,0.6,12.1,2015
+Wholesale poultry,2,2015.0,-6.0,3.2,13.4,2015
+Wholesale poultry,3,2015.0,-5.4,2.2,10.9,2015
+Wholesale poultry,4,2015.0,-7.9,-1.5,5.6,2015
+Wholesale poultry,5,2015.0,-4.8,0.7,6.7,2015
+Wholesale poultry,6,2015.0,-4.7,-0.2,4.8,2015
+Wholesale poultry,7,2015.0,-3.0,0.5,4.5,2015
+Wholesale poultry,8,2015.0,-4.0,-1.3,1.6,2015
+Wholesale poultry,9,2015.0,-3.1,-1.2,0.9,2015
+Wholesale poultry,10,2015.0,-2.4,-1.1,0.2,2015
+Wholesale poultry,11,2015.0,-2.1,-1.4,-0.6,2015
+Wholesale poultry,12,2015.0,-2.0,-1.6,-1.3,2015
+Farm-level eggs,7,2014.0,-40.3,2.3,79.2,2015
+Farm-level eggs,8,2014.0,-41.9,-0.4,73.1,2015
+Farm-level eggs,9,2014.0,-43.0,-4.6,63.0,2015
+Farm-level eggs,10,2014.0,-42.2,-3.7,62.6,2015
+Farm-level eggs,11,2014.0,-38.7,-0.3,64.9,2015
+Farm-level eggs,12,2014.0,-34.2,4.0,67.4,2015
+Farm-level eggs,1,2015.0,-20.3,30.5,119.7,2015
+Farm-level eggs,2,2015.0,-35.0,-4.4,44.7,2015
+Farm-level eggs,3,2015.0,-32.2,-2.7,47.5,2015
+Farm-level eggs,4,2015.0,-21.1,5.9,46.9,2015
+Farm-level eggs,5,2015.0,-26.8,-8.0,21.3,2015
+Farm-level eggs,6,2015.0,-17.4,0.7,28.0,2015
+Farm-level eggs,7,2015.0,12.8,37.8,75.7,2015
+Farm-level eggs,8,2015.0,17.5,38.0,67.8,2015
+Farm-level eggs,9,2015.0,35.8,55.2,82.9,2015
+Farm-level eggs,10,2015.0,34.6,47.1,64.4,2015
+Farm-level eggs,11,2015.0,29.7,35.9,44.8,2015
+Farm-level eggs,12,2015.0,33.1,36.4,41.1,2015
+Farm-level milk,7,2014.0,-33.6,-2.6,44.4,2015
+Farm-level milk,8,2014.0,-30.7,0.0,46.1,2015
+Farm-level milk,9,2014.0,-29.3,1.5,47.2,2015
+Farm-level milk,10,2014.0,-25.3,6.4,52.1,2015
+Farm-level milk,11,2014.0,-31.5,-4.5,34.5,2015
+Farm-level milk,12,2014.0,-32.6,-8.4,25.9,2015
+Farm-level milk,1,2015.0,-39.2,-18.6,10.8,2015
+Farm-level milk,2,2015.0,-46.3,-29.7,-5.9,2015
+Farm-level milk,3,2015.0,-39.6,-24.8,-3.5,2015
+Farm-level milk,4,2015.0,-41.3,-28.9,-11.5,2015
+Farm-level milk,5,2015.0,-40.6,-30.3,-16.2,2015
+Farm-level milk,6,2015.0,-37.9,-29.3,-17.5,2015
+Farm-level milk,7,2015.0,-36.4,-29.5,-20.6,2015
+Farm-level milk,8,2015.0,-36.1,-31.0,-24.2,2015
+Farm-level milk,9,2015.0,-33.4,-29.6,-24.7,2015
+Farm-level milk,10,2015.0,-30.7,-28.0,-24.8,2015
+Farm-level milk,11,2015.0,-30.3,-28.9,-27.4,2015
+Farm-level milk,12,2015.0,-28.8,-28.3,-27.7,2015
+Wholesale dairy,7,2014.0,-18.4,-0.8,20.7,2015
+Wholesale dairy,8,2014.0,-16.5,1.1,22.2,2015
+Wholesale dairy,9,2014.0,-15.0,1.6,22.2,2015
+Wholesale dairy,10,2014.0,-12.4,4.3,24.1,2015
+Wholesale dairy,11,2014.0,-14.1,1.0,19.6,2015
+Wholesale dairy,12,2014.0,-17.8,-4.1,12.0,2015
+Wholesale dairy,1,2015.0,-20.8,-8.7,6.1,2015
+Wholesale dairy,2,2015.0,-25.6,-15.8,-4.0,2015
+Wholesale dairy,3,2015.0,-21.9,-13.2,-3.0,2015
+Wholesale dairy,4,2015.0,-21.5,-14.0,-5.0,2015
+Wholesale dairy,5,2015.0,-20.6,-14.4,-7.3,2015
+Wholesale dairy,6,2015.0,-17.5,-12.3,-6.3,2015
+Wholesale dairy,7,2015.0,-16.8,-12.8,-8.1,2015
+Wholesale dairy,8,2015.0,-16.5,-13.4,-10.0,2015
+Wholesale dairy,9,2015.0,-15.1,-12.9,-10.6,2015
+Wholesale dairy,10,2015.0,-13.8,-12.4,-10.8,2015
+Wholesale dairy,11,2015.0,-13.3,-12.6,-11.8,2015
+Wholesale dairy,12,2015.0,-12.8,-12.6,-12.3,2015
+Farm-level soybeans,7,2014.0,-36.4,2.1,64.7,2015
+Farm-level soybeans,8,2014.0,-41.4,-6.3,51.0,2015
+Farm-level soybeans,9,2014.0,-52.4,-15.1,55.9,2015
+Farm-level soybeans,10,2014.0,-52.7,-17.2,45.0,2015
+Farm-level soybeans,11,2014.0,-54.9,-24.7,28.5,2015
+Farm-level soybeans,12,2014.0,-48.7,-16.6,37.2,2015
+Farm-level soybeans,1,2015.0,-44.0,-13.8,38.5,2015
+Farm-level soybeans,2,2015.0,-42.4,-20.7,12.0,2015
+Farm-level soybeans,3,2015.0,-41.4,-23.0,3.8,2015
+Farm-level soybeans,4,2015.0,-38.0,-21.5,2.3,2015
+Farm-level soybeans,5,2015.0,-36.0,-22.4,-2.8,2015
+Farm-level soybeans,6,2015.0,-35.3,-24.0,-8.5,2015
+Farm-level soybeans,7,2015.0,-32.1,-22.9,-10.3,2015
+Farm-level soybeans,8,2015.0,-27.9,-20.1,-9.7,2015
+Farm-level soybeans,9,2015.0,-27.1,-21.4,-14.3,2015
+Farm-level soybeans,10,2015.0,-27.8,-24.3,-20.0,2015
+Farm-level soybeans,11,2015.0,-26.3,-24.2,-21.5,2015
+Farm-level soybeans,12,2015.0,-25.7,-24.8,-23.7,2015
+Wholesale fats and oils,7,2014.0,-26.7,1.5,41.0,2015
+Wholesale fats and oils,8,2014.0,-25.4,-2.1,30.0,2015
+Wholesale fats and oils,9,2014.0,-24.3,-1.7,28.4,2015
+Wholesale fats and oils,10,2014.0,-23.8,-2.5,25.3,2015
+Wholesale fats and oils,11,2014.0,-23.6,-3.5,22.1,2015
+Wholesale fats and oils,12,2014.0,-21.4,-2.8,20.3,2015
+Wholesale fats and oils,1,2015.0,-20.2,-3.7,17.2,2015
+Wholesale fats and oils,2,2015.0,-21.3,-7.6,9.7,2015
+Wholesale fats and oils,3,2015.0,-17.9,-5.9,8.7,2015
+Wholesale fats and oils,4,2015.0,-15.0,-5.1,7.1,2015
+Wholesale fats and oils,5,2015.0,-14.2,-6.1,3.5,2015
+Wholesale fats and oils,6,2015.0,-11.6,-5.1,2.8,2015
+Wholesale fats and oils,7,2015.0,-9.9,-4.8,0.9,2015
+Wholesale fats and oils,8,2015.0,-8.4,-4.5,-0.1,2015
+Wholesale fats and oils,9,2015.0,-8.1,-5.4,-2.6,2015
+Wholesale fats and oils,10,2015.0,-7.1,-5.4,-3.6,2015
+Wholesale fats and oils,11,2015.0,-6.6,-5.7,-4.7,2015
+Wholesale fats and oils,12,2015.0,-5.9,-5.6,-5.2,2015
+Farm-level fruits,7,2014.0,-26.6,0.9,37.6,2015
+Farm-level fruits,8,2014.0,-27.0,1.7,42.8,2015
+Farm-level fruits,9,2014.0,-26.8,1.3,40.1,2015
+Farm-level fruits,10,2014.0,-25.8,2.5,40.8,2015
+Farm-level fruits,11,2014.0,-24.4,2.3,39.3,2015
+Farm-level fruits,12,2014.0,-22.7,1.7,35.1,2015
+Farm-level fruits,1,2015.0,-15.3,7.6,38.7,2015
+Farm-level fruits,2,2015.0,-16.0,3.4,28.2,2015
+Farm-level fruits,3,2015.0,-16.3,0.0,21.0,2015
+Farm-level fruits,4,2015.0,-18.5,-5.2,11.9,2015
+Farm-level fruits,5,2015.0,-17.5,-6.1,8.5,2015
+Farm-level fruits,6,2015.0,-14.1,-4.4,7.7,2015
+Farm-level fruits,7,2015.0,-14.2,-6.4,3.0,2015
+Farm-level fruits,8,2015.0,-13.5,-7.5,-0.3,2015
+Farm-level fruits,9,2015.0,-10.8,-6.0,-0.5,2015
+Farm-level fruits,10,2015.0,-7.5,-3.9,0.3,2015
+Farm-level fruits,11,2015.0,-4.5,-2.1,0.6,2015
+Farm-level fruits,12,2015.0,-1.3,0.0,1.6,2015
+Farm-level vegetables,7,2014.0,-19.9,-1.7,19.7,2015
+Farm-level vegetables,8,2014.0,-17.1,-0.3,19.7,2015
+Farm-level vegetables,9,2014.0,-16.8,-0.1,19.2,2015
+Farm-level vegetables,10,2014.0,-16.7,-0.1,19.4,2015
+Farm-level vegetables,11,2014.0,-16.6,-0.3,19.6,2015
+Farm-level vegetables,12,2014.0,-16.6,0.2,19.3,2015
+Farm-level vegetables,1,2015.0,-17.6,0.0,20.6,2015
+Farm-level vegetables,2,2015.0,-13.2,3.3,23.4,2015
+Farm-level vegetables,3,2015.0,-14.6,-0.2,17.6,2015
+Farm-level vegetables,4,2015.0,-13.8,-0.7,15.7,2015
+Farm-level vegetables,5,2015.0,-12.1,-0.4,14.2,2015
+Farm-level vegetables,6,2015.0,-9.4,0.8,13.8,2015
+Farm-level vegetables,7,2015.0,-9.3,-0.1,11.0,2015
+Farm-level vegetables,8,2015.0,-7.0,0.0,8.4,2015
+Farm-level vegetables,9,2015.0,-5.9,0.0,7.2,2015
+Farm-level vegetables,10,2015.0,-3.8,0.9,6.9,2015
+Farm-level vegetables,11,2015.0,-2.4,1.1,5.4,2015
+Farm-level vegetables,12,2015.0,-0.4,1.5,4.0,2015
+Farm-level wheat,7,2014.0,-34.9,-2.0,45.8,2015
+Farm-level wheat,8,2014.0,-35.8,-5.4,41.8,2015
+Farm-level wheat,9,2014.0,-37.0,-7.8,36.1,2015
+Farm-level wheat,10,2014.0,-33.3,-3.9,39.1,2015
+Farm-level wheat,11,2014.0,-34.1,-6.6,32.8,2015
+Farm-level wheat,12,2014.0,-31.4,-5.5,33.5,2015
+Farm-level wheat,1,2015.0,-28.2,-2.8,32.0,2015
+Farm-level wheat,2,2015.0,-30.4,-9.7,19.8,2015
+Farm-level wheat,3,2015.0,-29.2,-12.0,12.2,2015
+Farm-level wheat,4,2015.0,-28.2,-13.1,7.1,2015
+Farm-level wheat,5,2015.0,-27.7,-15.8,-0.1,2015
+Farm-level wheat,6,2015.0,-27.4,-17.8,-5.3,2015
+Farm-level wheat,7,2015.0,-21.7,-12.9,-1.7,2015
+Farm-level wheat,8,2015.0,-21.5,-14.9,-6.5,2015
+Farm-level wheat,9,2015.0,-23.2,-18.8,-13.4,2015
+Farm-level wheat,10,2015.0,-22.6,-19.6,-16.1,2015
+Farm-level wheat,11,2015.0,-20.8,-19.0,-16.8,2015
+Farm-level wheat,12,2015.0,-20.5,-19.7,-18.8,2015
+Wholesale wheat flour,7,2014.0,-18.9,-0.6,21.8,2015
+Wholesale wheat flour,8,2014.0,-19.2,-0.6,21.7,2015
+Wholesale wheat flour,9,2014.0,-19.9,-2.4,18.8,2015
+Wholesale wheat flour,10,2014.0,-16.7,1.1,23.0,2015
+Wholesale wheat flour,11,2014.0,-17.4,-0.6,19.4,2015
+Wholesale wheat flour,12,2014.0,-16.6,-0.5,18.5,2015
+Wholesale wheat flour,1,2015.0,-13.5,1.3,19.3,2015
+Wholesale wheat flour,2,2015.0,-18.7,-6.1,8.8,2015
+Wholesale wheat flour,3,2015.0,-16.4,-5.6,7.4,2015
+Wholesale wheat flour,4,2015.0,-15.2,-5.6,5.7,2015
+Wholesale wheat flour,5,2015.0,-14.9,-7.1,2.2,2015
+Wholesale wheat flour,6,2015.0,-13.2,-6.5,0.8,2015
+Wholesale wheat flour,7,2015.0,-11.0,-5.6,0.7,2015
+Wholesale wheat flour,8,2015.0,-10.1,-6.0,-1.2,2015
+Wholesale wheat flour,9,2015.0,-12.7,-9.8,-6.6,2015
+Wholesale wheat flour,10,2015.0,-12.4,-10.4,-8.3,2015
+Wholesale wheat flour,11,2015.0,-11.3,-10.1,-8.8,2015
+Wholesale wheat flour,12,2015.0,-10.7,-10.2,-9.6,2015
