@@ -12,6 +12,9 @@ Wholesale dairy,1974,11.6
 Farm-level soybeans,1974,-4.7
 Wholesale fats and oils,1974,59.4
 Farm-level fruit,1974,6.3
+Farm-level vegetables,1974,17.4
+Farm-level wheat,1974,33.3
+Wholesale wheat flour,1974,29.4
 Unprocessed foodstuffs and feedstuffs,1975,1.3
 Processed foods and feeds,1975,-2.4
 Finished consumer foods,1975,8.4
@@ -25,6 +28,9 @@ Wholesale dairy,1975,6.5
 Farm-level soybeans,1975,-18.4
 Wholesale fats and oils,1975,-13.1
 Farm-level fruit,1975,9.5
+Farm-level vegetables,1975,-8.7
+Farm-level wheat,1975,-19.7
+Wholesale wheat flour,1975,-13.5
 Unprocessed foodstuffs and feedstuffs,1976,-0.8
 Processed foods and feeds,1976,-5.1
 Finished consumer foods,1976,-0.3
@@ -38,6 +44,9 @@ Wholesale dairy,1976,8.1
 Farm-level soybeans,1976,6.0
 Wholesale fats and oils,1976,-20.9
 Farm-level fruit,1976,1.2
+Farm-level vegetables,1976,-7.7
+Farm-level wheat,1976,-13.3
+Wholesale wheat flour,1976,-9.5
 Unprocessed foodstuffs and feedstuffs,1977,0.9
 Processed foods and feeds,1977,2.8
 Finished consumer foods,1977,5.3
@@ -51,6 +60,9 @@ Wholesale dairy,1977,3.0
 Farm-level soybeans,1977,18.8
 Wholesale fats and oils,1977,16.5
 Farm-level fruit,1977,11.1
+Farm-level vegetables,1977,3.7
+Farm-level wheat,1977,-22.5
+Wholesale wheat flour,1977,-19.6
 Unprocessed foodstuffs and feedstuffs,1978,12.6
 Processed foods and feeds,1978,6.5
 Finished consumer foods,1978,9.0
@@ -64,6 +76,9 @@ Wholesale dairy,1978,8.6
 Farm-level soybeans,1978,-5.8
 Wholesale fats and oils,1978,8.5
 Farm-level fruit,1978,20.3
+Farm-level vegetables,1978,7.0
+Farm-level wheat,1978,24.3
+Wholesale wheat flour,1978,19.1
 Unprocessed foodstuffs and feedstuffs,1979,14.5
 Processed foods and feeds,1979,11.4
 Finished consumer foods,1979,9.3
@@ -77,6 +92,9 @@ Wholesale dairy,1979,12.2
 Farm-level soybeans,1979,8.1
 Wholesale fats and oils,1979,8.0
 Farm-level fruit,1979,9.0
+Farm-level vegetables,1979,0.5
+Farm-level wheat,1979,23.6
+Wholesale wheat flour,1979,21.5
 Unprocessed foodstuffs and feedstuffs,1980,4.6
 Processed foods and feeds,1980,11.6
 Finished consumer foods,1980,5.8
@@ -90,6 +108,9 @@ Wholesale dairy,1980,9.2
 Farm-level soybeans,1980,-0.4
 Wholesale fats and oils,1980,-6.8
 Farm-level fruit,1980,2.1
+Farm-level vegetables,1980,8.9
+Farm-level wheat,1980,7.8
+Wholesale wheat flour,1980,9.1
 Unprocessed foodstuffs and feedstuffs,1981,-0.7
 Processed foods and feeds,1981,-0.9
 Finished consumer foods,1981,5.8
@@ -103,6 +124,9 @@ Wholesale dairy,1981,6.5
 Farm-level soybeans,1981,0.0
 Wholesale fats and oils,1981,0.3
 Farm-level fruit,1981,-3.7
+Farm-level vegetables,1981,26.9
+Farm-level wheat,1981,0.2
+Wholesale wheat flour,1981,2.2
 Unprocessed foodstuffs and feedstuffs,1982,-3.8
 Processed foods and feeds,1982,-4.4
 Finished consumer foods,1982,2.2
@@ -116,6 +140,9 @@ Wholesale dairy,1982,1.3
 Farm-level soybeans,1982,-14.5
 Wholesale fats and oils,1982,-5.4
 Farm-level fruit,1982,3.5
+Farm-level vegetables,1982,-11.3
+Farm-level wheat,1982,-7.8
+Wholesale wheat flour,1982,-4.4
 Unprocessed foodstuffs and feedstuffs,1983,1.8
 Processed foods and feeds,1983,3.6
 Finished consumer foods,1983,1.0
@@ -128,6 +155,9 @@ Wholesale dairy,1983,0.7
 Farm-level soybeans,1983,16.3
 Wholesale fats and oils,1983,11.0
 Farm-level fruit,1983,6.4
+Farm-level vegetables,1983,1.0
+Farm-level wheat,1983,0.7
+Wholesale wheat flour,1983,1.5
 Unprocessed foodstuffs and feedstuffs,1984,2.8
 Processed foods and feeds,1984,2.0
 Finished consumer foods,1984,4.4
@@ -140,6 +170,9 @@ Wholesale dairy,1984,0.4
 Farm-level soybeans,1984,2.7
 Wholesale fats and oils,1984,26.2
 Farm-level fruit,1984,0.4
+Farm-level vegetables,1984,11.8
+Farm-level wheat,1984,-4.0
+Wholesale wheat flour,1984,-0.5
 Unprocessed foodstuffs and feedstuffs,1985,-9.5
 Processed foods and feeds,1985,-7.9
 Finished consumer foods,1985,-0.8
@@ -153,6 +186,9 @@ Wholesale dairy,1985,-0.9
 Farm-level soybeans,1985,-21.1
 Wholesale fats and oils,1985,-10.4
 Farm-level fruit,1985,1.2
+Farm-level vegetables,1985,-11.9
+Farm-level wheat,1985,-9.4
+Wholesale wheat flour,1985,-1.2
 Unprocessed foodstuffs and feedstuffs,1986,-1.7
 Processed foods and feeds,1986,-1.1
 Finished consumer foods,1986,2.6
@@ -166,6 +202,9 @@ Wholesale dairy,1986,-0.3
 Farm-level soybeans,1986,-8.3
 Wholesale fats and oils,1986,-23.1
 Farm-level fruit,1986,4.4
+Farm-level vegetables,1986,-1.7
+Farm-level wheat,1986,-12.9
+Wholesale wheat flour,1986,-5.2
 Unprocessed foodstuffs and feedstuffs,1987,3.2
 Processed foods and feeds,1987,3.1
 Finished consumer foods,1987,2.1
@@ -179,6 +218,9 @@ Wholesale dairy,1987,1.7
 Farm-level soybeans,1987,2.2
 Wholesale fats and oils,1987,1.5
 Farm-level fruit,1987,-0.8
+Farm-level vegetables,1987,6.1
+Farm-level wheat,1987,-4.6
+Wholesale wheat flour,1987,-1.8
 Unprocessed foodstuffs and feedstuffs,1988,10.3
 Processed foods and feeds,1988,10.4
 Finished consumer foods,1988,2.8
@@ -192,6 +234,9 @@ Wholesale dairy,1988,0.6
 Farm-level soybeans,1988,41.3
 Wholesale fats and oils,1988,19.7
 Farm-level fruit,1988,1.3
+Farm-level vegetables,1988,1.6
+Farm-level wheat,1988,28.7
+Wholesale wheat flour,1988,13.8
 Unprocessed foodstuffs and feedstuffs,1989,4.8
 Processed foods and feeds,1989,3.9
 Finished consumer foods,1989,5.4
@@ -205,6 +250,9 @@ Wholesale dairy,1989,8.2
 Farm-level soybeans,1989,-8.4
 Wholesale fats and oils,1989,-4.4
 Farm-level fruit,1989,-0.3
+Farm-level vegetables,1989,10.6
+Farm-level wheat,1989,16.9
+Wholesale wheat flour,1989,8.4
 Unprocessed foodstuffs and feedstuffs,1990,1.7
 Processed foods and feeds,1990,-0.4
 Finished consumer foods,1990,4.8
@@ -218,6 +266,9 @@ Wholesale dairy,1990,6.0
 Farm-level soybeans,1990,-11.8
 Wholesale fats and oils,1990,6.5
 Farm-level fruit,1990,4.3
+Farm-level vegetables,1990,1.2
+Farm-level wheat,1990,-20.0
+Wholesale wheat flour,1990,-9.6
 Unprocessed foodstuffs and feedstuffs,1991,-6.7
 Processed foods and feeds,1991,-1.9
 Finished consumer foods,1991,-0.2
@@ -231,6 +282,9 @@ Wholesale dairy,1991,-2.2
 Farm-level soybeans,1991,-5.7
 Wholesale fats and oils,1991,-6.2
 Farm-level fruit,1991,10.0
+Farm-level vegetables,1991,-12.1
+Farm-level wheat,1991,-9.4
+Wholesale wheat flour,1991,-6.6
 Unprocessed foodstuffs and feedstuffs,1992,-0.4
 Processed foods and feeds,1992,-0.4
 Finished consumer foods,1992,-0.6
@@ -244,6 +298,9 @@ Wholesale dairy,1992,2.9
 Farm-level soybeans,1992,2.3
 Wholesale fats and oils,1992,-2.9
 Farm-level fruit,1992,-35.3
+Farm-level vegetables,1992,10.8
+Farm-level wheat,1992,24.1
+Wholesale wheat flour,1992,13.1
 Unprocessed foodstuffs and feedstuffs,1993,3.1
 Processed foods and feeds,1993,1.8
 Finished consumer foods,1993,1.9
@@ -257,6 +314,9 @@ Wholesale dairy,1993,0.2
 Farm-level soybeans,1993,7.7
 Wholesale fats and oils,1993,7.4
 Farm-level fruit,1993,0.6
+Farm-level vegetables,1993,17.6
+Farm-level wheat,1993,-0.1
+Wholesale wheat flour,1993,-0.5
 Unprocessed foodstuffs and feedstuffs,1994,-1.8
 Processed foods and feeds,1994,1.9
 Finished consumer foods,1994,0.9
@@ -270,6 +330,9 @@ Wholesale dairy,1994,1.1
 Farm-level soybeans,1994,1.1
 Wholesale fats and oils,1994,16.2
 Farm-level fruit,1994,-2.1
+Farm-level vegetables,1994,-4.6
+Farm-level wheat,1994,6.5
+Wholesale wheat flour,1994,1.4
 Unprocessed foodstuffs and feedstuffs,1995,-0.7
 Processed foods and feeds,1995,0.0
 Finished consumer foods,1995,1.7
@@ -283,6 +346,9 @@ Wholesale dairy,1995,0.3
 Farm-level soybeans,1995,-3.6
 Wholesale fats and oils,1995,2.0
 Farm-level fruit,1995,3.7
+Farm-level vegetables,1995,11.9
+Farm-level wheat,1995,13.2
+Wholesale wheat flour,1995,11.4
 Unprocessed foodstuffs and feedstuffs,1996,14.8
 Processed foods and feeds,1996,11.6
 Finished consumer foods,1996,3.6
@@ -296,6 +362,9 @@ Wholesale dairy,1996,8.9
 Farm-level soybeans,1996,25.1
 Wholesale fats and oils,1996,-5.6
 Farm-level fruit,1996,17.5
+Farm-level vegetables,1996,-6.5
+Farm-level wheat,1996,15.2
+Wholesale wheat flour,1996,11.2
 Unprocessed foodstuffs and feedstuffs,1997,-7.7
 Processed foods and feeds,1997,-2.1
 Finished consumer foods,1997,0.7
@@ -309,6 +378,9 @@ Wholesale dairy,1997,-1.8
 Farm-level soybeans,1997,2.4
 Wholesale fats and oils,1997,-0.1
 Farm-level fruit,1997,-1.4
+Farm-level vegetables,1997,-8.8
+Farm-level wheat,1997,-20.8
+Wholesale wheat flour,1997,-13.2
 Unprocessed foodstuffs and feedstuffs,1998,-7.4
 Processed foods and feeds,1998,-7.3
 Finished consumer foods,1998,-0.1
@@ -322,6 +394,9 @@ Wholesale dairy,1998,7.9
 Farm-level soybeans,1998,-21.1
 Wholesale fats and oils,1998,8.0
 Farm-level fruit,1998,-9.0
+Farm-level vegetables,1998,13.3
+Farm-level wheat,1998,-18.9
+Wholesale wheat flour,1998,-8.0
 Unprocessed foodstuffs and feedstuffs,1999,-5.0
 Processed foods and feeds,1999,-4.4
 Finished consumer foods,1999,0.6
@@ -335,6 +410,9 @@ Wholesale dairy,1999,0.7
 Farm-level soybeans,1999,-22.5
 Wholesale fats and oils,1999,-13.6
 Farm-level fruit,1999,14.5
+Farm-level vegetables,1999,-15.4
+Farm-level wheat,1999,-9.5
+Wholesale wheat flour,1999,-4.5
 Unprocessed foodstuffs and feedstuffs,2000,1.5
 Processed foods and feeds,2000,0.5
 Finished consumer foods,2000,1.6
@@ -348,6 +426,9 @@ Wholesale dairy,2000,-4.0
 Farm-level soybeans,2000,4.1
 Wholesale fats and oils,2000,-9.8
 Farm-level fruit,2000,-11.8
+Farm-level vegetables,2000,7.4
+Farm-level wheat,2000,1.0
+Wholesale wheat flour,2000,-0.5
 Unprocessed foodstuffs and feedstuffs,2001,5.9
 Processed foods and feeds,2001,3.8
 Finished consumer foods,2001,3.0
@@ -361,6 +442,9 @@ Wholesale dairy,2001,8.6
 Farm-level soybeans,2001,-5.8
 Wholesale fats and oils,2001,-2.6
 Farm-level fruit,2001,6.9
+Farm-level vegetables,2001,-1.6
+Farm-level wheat,2001,6.5
+Wholesale wheat flour,2001,5.9
 Unprocessed foodstuffs and feedstuffs,2002,-6.2
 Processed foods and feeds,2002,-0.3
 Finished consumer foods,2002,-0.8
@@ -374,6 +458,9 @@ Wholesale dairy,2002,-6.2
 Farm-level soybeans,2002,11.6
 Wholesale fats and oils,2002,10.7
 Farm-level fruit,2002,-6.3
+Farm-level vegetables,2002,9.5
+Farm-level wheat,2002,14.5
+Wholesale wheat flour,2002,5.7
 Unprocessed foodstuffs and feedstuffs,2003,14.1
 Processed foods and feeds,2003,9.0
 Finished consumer foods,2003,4.1
@@ -387,6 +474,9 @@ Wholesale dairy,2003,2.3
 Farm-level soybeans,2003,24.1
 Wholesale fats and oils,2003,31.0
 Farm-level fruit,2003,-8.1
+Farm-level vegetables,2003,-0.6
+Farm-level wheat,2003,0.6
+Wholesale wheat flour,2003,6.4
 Unprocessed foodstuffs and feedstuffs,2004,11.9
 Processed foods and feeds,2004,8.9
 Finished consumer foods,2004,4.7
@@ -400,6 +490,9 @@ Wholesale dairy,2004,11.8
 Farm-level soybeans,2004,19.5
 Wholesale fats and oils,2004,19.3
 Farm-level fruit,2004,24.7
+Farm-level vegetables,2004,-4.6
+Farm-level wheat,2004,7.6
+Wholesale wheat flour,2004,4.4
 Unprocessed foodstuffs and feedstuffs,2005,-3.4
 Processed foods and feeds,2005,-2.4
 Finished consumer foods,2005,2.0
@@ -413,6 +506,9 @@ Wholesale dairy,2005,-0.9
 Farm-level soybeans,2005,-21.1
 Wholesale fats and oils,2005,-4.5
 Farm-level fruit,2005,-2.0
+Farm-level vegetables,2005,10.2
+Farm-level wheat,2005,-3.1
+Wholesale wheat flour,2005,3.6
 Unprocessed foodstuffs and feedstuffs,2006,-2.8
 Processed foods and feeds,2006,1.0
 Finished consumer foods,2006,0.6
@@ -426,6 +522,9 @@ Wholesale dairy,2006,-4.5
 Farm-level soybeans,2006,-5.7
 Wholesale fats and oils,2006,-0.4
 Farm-level fruit,2006,8.0
+Farm-level vegetables,2006,7.5
+Farm-level wheat,2006,13.8
+Wholesale wheat flour,2006,9.1
 Unprocessed foodstuffs and feedstuffs,2007,23.0
 Processed foods and feeds,2007,14.2
 Finished consumer foods,2007,6.6
@@ -439,6 +538,9 @@ Wholesale dairy,2007,19.1
 Farm-level soybeans,2007,42.5
 Wholesale fats and oils,2007,17.5
 Farm-level fruit,2007,11.2
+Farm-level vegetables,2007,8.0
+Farm-level wheat,2007,47.2
+Wholesale wheat flour,2007,22.4
 Unprocessed foodstuffs and feedstuffs,2008,11.4
 Processed foods and feeds,2008,17.6
 Finished consumer foods,2008,6.8
@@ -452,6 +554,9 @@ Wholesale dairy,2008,4.0
 Farm-level soybeans,2008,47.9
 Wholesale fats and oils,2008,42.7
 Farm-level fruit,2008,-0.4
+Farm-level vegetables,2008,4.1
+Farm-level wheat,2008,36.6
+Wholesale wheat flour,2008,34.4
 Unprocessed foodstuffs and feedstuffs,2009,-17.7
 Processed foods and feeds,2009,-8.6
 Finished consumer foods,2009,-1.6
@@ -465,6 +570,9 @@ Wholesale dairy,2009,-14.0
 Farm-level soybeans,2009,-13.7
 Wholesale fats and oils,2009,-23.3
 Farm-level fruit,2009,-10.2
+Farm-level vegetables,2009,-5.9
+Farm-level wheat,2009,-36.5
+Wholesale wheat flour,2009,-23.7
 Unprocessed foodstuffs and feedstuffs,2010,13.3
 Processed foods and feeds,2010,3.4
 Finished consumer foods,2010,3.9
@@ -478,6 +586,9 @@ Wholesale dairy,2010,10.8
 Farm-level soybeans,2010,0.7
 Wholesale fats and oils,2010,4.3
 Farm-level fruit,2010,12.1
+Farm-level vegetables,2010,10.0
+Farm-level wheat,2010,5.3
+Wholesale wheat flour,2010,-0.3
 Unprocessed foodstuffs and feedstuffs,2011,23.6
 Processed foods and feeds,2011,11.9
 Finished consumer foods,2011,6.3
@@ -491,6 +602,9 @@ Wholesale dairy,2011,12.6
 Farm-level soybeans,2011,24.0
 Wholesale fats and oils,2011,29.3
 Farm-level fruit,2011,-4.9
+Farm-level vegetables,2011,9.3
+Farm-level wheat,2011,37.5
+Wholesale wheat flour,2011,23.1
 Unprocessed foodstuffs and feedstuffs,2012,4.2
 Processed foods and feeds,2012,4.8
 Finished consumer foods,2012,2.7
@@ -504,6 +618,9 @@ Wholesale dairy,2012,-1.6
 Farm-level soybeans,2012,13.2
 Wholesale fats and oils,2012,-2.0
 Farm-level fruit,2012,1.1
+Farm-level vegetables,2012,-19.8
+Farm-level wheat,2012,-2.6
+Wholesale wheat flour,2012,2.0
 Unprocessed foodstuffs and feedstuffs,2013,1.9
 Processed foods and feeds,2013,1.4
 Finished consumer foods,2013,2.2
@@ -517,6 +634,9 @@ Wholesale dairy,2013,3.6
 Farm-level soybeans,2013,-1.9
 Wholesale fats and oils,2013,-6.7
 Farm-level fruit,2013,1.8
+Farm-level vegetables,2013,26.4
+Farm-level wheat,2013,-3.0
+Wholesale wheat flour,2013,0.0
 Unprocessed foodstuffs and feedstuffs,2014,4.9
 Processed foods and feeds,2014,3.2
 Finished consumer foods,2014,4.4
@@ -530,6 +650,9 @@ Wholesale dairy,2014,11.0
 Farm-level soybeans,2014,-12.4
 Wholesale fats and oils,2014,-6.6
 Farm-level fruit,2014,2.7
+Farm-level vegetables,2014,-1.9
+Farm-level wheat,2014,-6.7
+Wholesale wheat flour,2014,1.8
 Unprocessed foodstuffs and feedstuffs,2015,-13.7
 Processed foods and feeds,2015,-6.2
 Finished consumer foods,2015,-1.3
@@ -543,6 +666,9 @@ Wholesale dairy,2015,-12.7
 Farm-level soybeans,2015,-24.7
 Wholesale fats and oils,2015,-5.6
 Farm-level fruit,2015,-0.2
+Farm-level vegetables,2015,3.2
+Farm-level wheat,2015,-19.6
+Wholesale wheat flour,2015,-10.0
 Unprocessed foodstuffs and feedstuffs,2016,-10.5
 Processed foods and feeds,2016,-4.7
 Finished consumer foods,2016,-2.4
@@ -556,6 +682,9 @@ Wholesale dairy,2016,-1.7
 Farm-level soybeans,2016,2.9
 Wholesale fats and oils,2016,-0.8
 Farm-level fruit,2016,11.7
+Farm-level vegetables,2016,1.0
+Farm-level wheat,2016,-20.4
+Wholesale wheat flour,2016,-7.3
 Unprocessed foodstuffs and feedstuffs,2017,2.9
 Processed foods and feeds,2017,1.0
 Finished consumer foods,2017,1.3
@@ -569,6 +698,9 @@ Wholesale dairy,2017,3.4
 Farm-level soybeans,2017,-2.3
 Wholesale fats and oils,2017,4.1
 Farm-level fruit,2017,6.6
+Farm-level vegetables,2017,6.4
+Farm-level wheat,2017,7.8
+Wholesale wheat flour,2017,1.7
 Unprocessed foodstuffs and feedstuffs,2018,-1.9
 Processed foods and feeds,2018,0.7
 Finished consumer foods,2018,0.1
@@ -582,6 +714,9 @@ Wholesale dairy,2018,-2.3
 Farm-level soybeans,2018,-4.8
 Wholesale fats and oils,2018,-2.6
 Farm-level fruit,2018,-1.9
+Farm-level vegetables,2018,-1.7
+Farm-level wheat,2018,14.2
+Wholesale wheat flour,2018,0.9
 Unprocessed foodstuffs and feedstuffs,2019,0.9
 Processed foods and feeds,2019,0.5
 Finished consumer foods,2019,2.0
@@ -595,6 +730,9 @@ Wholesale dairy,2019,4.7
 Farm-level soybeans,2019,-5.5
 Wholesale fats and oils,2019,-4.3
 Farm-level fruit,2019,-6.1
+Farm-level vegetables,2019,13.0
+Farm-level wheat,2019,-8.0
+Wholesale wheat flour,2019,-2.2
 Unprocessed foodstuffs and feedstuffs,2020,-4.1
 Processed foods and feeds,2020,1.8
 Finished consumer foods,2020,1.4
@@ -608,6 +746,9 @@ Wholesale dairy,2020,0.3
 Farm-level soybeans,2020,10.2
 Wholesale fats and oils,2020,2.4
 Farm-level fruit,2020,2.0
+Farm-level vegetables,2020,3.5
+Farm-level wheat,2020,7.5
+Wholesale wheat flour,2020,1.1
 Unprocessed foodstuffs and feedstuffs,2021,25.0
 Processed foods and feeds,2021,12.1
 Finished consumer foods,2021,6.3
@@ -621,3 +762,6 @@ Wholesale dairy,2021,1.8
 Farm-level soybeans,2021,47.2
 Wholesale fats and oils,2021,40.1
 Farm-level fruit,2021,5.3
+Farm-level vegetables,2021,-6.6
+Farm-level wheat,2021,44.5
+Wholesale wheat flour,2021,19.2
