@@ -12,7 +12,7 @@ This is a description of what each folders in this branch contains:
 <li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BNotebooks%5D%20question%20insights">[Notebooks] question insights</a> folder you can find the Jupyter Notebooks that have been used to gather the insights to answer each question.</li>
 </ul>
 
-Finally, the final presentation we used to share our insights with the jury on April 8th, 2023 can be found in the file <a href="https://github.com/Neatherblok/Data_Mavericks_2023/blob/main/Data%20Derby%20Presentation%20-%20Data%20Mavericks.pptx">Data Derby Presentation - Data Mavericks</a>.
+Finally, the final presentation we used to share our insights with the jury on April 8th, 2023 can be found in the file <a href="https://github.com/Neatherblok/Data_Mavericks_2023/blob/main/Data%20Derby%20Presentation%20-%20Data%20Mavericks.pptx">Data Derby Presentation - Data Mavericks.pptx</a>.
 
 Feel free to leave feedback as this would help us further improve ourselves!
 
