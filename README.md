@@ -11,3 +11,10 @@ This is a description of what each folders in this branch contains:
 <li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BNotebooks%5D%20data%20preprocessing">[Notebooks] data preprocessing</a> folder you can find the Jupyter Notebooks that have been used within this Data Derby Project to preprocess the data from its original XSLS files to CSV files.</li>
 <li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BNotebooks%5D%20question%20insights">[Notebooks] question insights</a> folder you can find the Jupyter Notebooks that have been used to gather the insights to answer each question.</li>
 </ul>
+
+Finally, the final presentation we used to share our insights with the jury on April 8th, 2023 can be found in the file <a href="https://github.com/Neatherblok/Data_Mavericks_2023/blob/main/Data%20Derby%20Presentation%20-%20Data%20Mavericks.pptx">Data Derby Presentation - Data Mavericks</a>.
+
+Feel free to leave feedback as this would help us further improve ourselves!
+
+Thank you,
+Team Data Mavericks
